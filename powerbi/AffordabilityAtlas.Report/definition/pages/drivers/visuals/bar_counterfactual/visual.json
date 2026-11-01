@@ -3,11 +3,11 @@
   "name": "bar_counterfactual",
   "position": {
     "x": 640,
-    "y": 168,
-    "z": 13000,
-    "height": 312,
+    "y": 248,
+    "z": 16000,
+    "height": 504,
     "width": 624,
-    "tabOrder": 13000
+    "tabOrder": 16000
   },
   "visual": {
     "visualType": "clusteredBarChart",
@@ -109,7 +109,7 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#1D4ED8'"
+                      "Value": "'#0F4C5C'"
                     }
                   }
                 }
@@ -127,7 +127,7 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#94A3B8'"
+                      "Value": "'#7FA9AF'"
                     }
                   }
                 }
@@ -145,7 +145,7 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#CBD5E1'"
+                      "Value": "'#E3A857'"
                     }
                   }
                 }

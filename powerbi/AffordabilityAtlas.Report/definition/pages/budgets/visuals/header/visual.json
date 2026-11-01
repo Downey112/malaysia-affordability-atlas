@@ -2,12 +2,12 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
   "name": "header",
   "position": {
-    "x": 16,
-    "y": 16,
-    "z": 2000,
-    "height": 56,
-    "width": 840,
-    "tabOrder": 2000
+    "x": 32,
+    "y": 24,
+    "z": 3000,
+    "height": 136,
+    "width": 592,
+    "tabOrder": 3000
   },
   "visual": {
     "visualType": "textbox",
@@ -19,11 +19,23 @@
               {
                 "textRuns": [
                   {
-                    "value": "Can households meet a reference budget?",
+                    "value": "MALAYSIA AFFORDABILITY ATLAS  ·  3 OF 4",
                     "textStyle": {
                       "fontFamily": "Segoe UI Semibold",
-                      "fontSize": "16pt",
-                      "color": "#0F172A"
+                      "fontSize": "8.5pt",
+                      "color": "#0F4C5C"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Can households meet a reference budget?",
+                    "textStyle": {
+                      "fontFamily": "Georgia",
+                      "fontSize": "22pt",
+                      "color": "#1F2933"
                     }
                   }
                 ]
@@ -34,8 +46,8 @@
                     "value": "Household incomes against Belanjawanku 2024/2025 budgets and the poverty line (PGK).",
                     "textStyle": {
                       "fontFamily": "Segoe UI",
-                      "fontSize": "9pt",
-                      "color": "#64748B"
+                      "fontSize": "10.5pt",
+                      "color": "#1F2933"
                     }
                   }
                 ]

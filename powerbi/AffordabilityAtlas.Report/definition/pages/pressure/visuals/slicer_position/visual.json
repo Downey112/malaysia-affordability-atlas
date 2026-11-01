@@ -3,11 +3,11 @@
   "name": "slicer_position",
   "position": {
     "x": 328,
-    "y": 72,
-    "z": 4000,
-    "height": 56,
+    "y": 176,
+    "z": 5000,
+    "height": 64,
     "width": 304,
-    "tabOrder": 4000
+    "tabOrder": 5000
   },
   "visual": {
     "visualType": "slicer",

@@ -2,11 +2,11 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
   "name": "kpi_income_tile",
   "position": {
-    "x": 952,
-    "y": 80,
+    "x": 328,
+    "y": 248,
     "z": 10000,
-    "height": 80,
-    "width": 312,
+    "height": 96,
+    "width": 304,
     "tabOrder": 10000
   },
   "visual": {

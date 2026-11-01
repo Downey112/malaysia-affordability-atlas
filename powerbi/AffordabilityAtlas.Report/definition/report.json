@@ -35,6 +35,26 @@
           "name": "AffordabilityAtlas.json",
           "path": "AffordabilityAtlas.json",
           "type": "CustomTheme"
+        },
+        {
+          "name": "hero_pressure.png",
+          "path": "hero_pressure.png",
+          "type": "Image"
+        },
+        {
+          "name": "hero_drivers.png",
+          "path": "hero_drivers.png",
+          "type": "Image"
+        },
+        {
+          "name": "hero_budgets.png",
+          "path": "hero_budgets.png",
+          "type": "Image"
+        },
+        {
+          "name": "hero_growth.png",
+          "path": "hero_growth.png",
+          "type": "Image"
         }
       ]
     }

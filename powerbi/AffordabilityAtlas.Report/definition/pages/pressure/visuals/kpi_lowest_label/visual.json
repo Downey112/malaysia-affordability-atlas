@@ -2,12 +2,12 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
   "name": "kpi_lowest_label",
   "position": {
-    "x": 328,
-    "y": 192,
-    "z": 12000,
+    "x": 336,
+    "y": 312,
+    "z": 15000,
     "height": 32,
-    "width": 304,
-    "tabOrder": 12000
+    "width": 296,
+    "tabOrder": 15000
   },
   "visual": {
     "visualType": "card",
@@ -49,9 +49,22 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#64748B'"
+                      "Value": "'#5F6B76'"
                     }
                   }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "categoryLabels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
                 }
               }
             }

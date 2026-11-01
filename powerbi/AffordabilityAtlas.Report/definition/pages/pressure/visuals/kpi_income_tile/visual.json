@@ -3,11 +3,11 @@
   "name": "kpi_income_tile",
   "position": {
     "x": 952,
-    "y": 136,
-    "z": 16000,
-    "height": 88,
+    "y": 248,
+    "z": 20000,
+    "height": 96,
     "width": 312,
-    "tabOrder": 16000
+    "tabOrder": 20000
   },
   "visual": {
     "visualType": "textbox",

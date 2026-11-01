@@ -3,11 +3,11 @@
   "name": "bar_cost",
   "position": {
     "x": 328,
-    "y": 80,
-    "z": 6000,
+    "y": 352,
+    "z": 15000,
     "height": 400,
     "width": 304,
-    "tabOrder": 6000
+    "tabOrder": 15000
   },
   "visual": {
     "visualType": "clusteredBarChart",
@@ -97,7 +97,7 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#1D4ED8'"
+                      "Value": "'#0F4C5C'"
                     }
                   }
                 }

@@ -2,12 +2,12 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
   "name": "kpi_price_tile",
   "position": {
-    "x": 640,
-    "y": 80,
-    "z": 7000,
-    "height": 80,
+    "x": 16,
+    "y": 248,
+    "z": 6000,
+    "height": 96,
     "width": 304,
-    "tabOrder": 7000
+    "tabOrder": 6000
   },
   "visual": {
     "visualType": "textbox",

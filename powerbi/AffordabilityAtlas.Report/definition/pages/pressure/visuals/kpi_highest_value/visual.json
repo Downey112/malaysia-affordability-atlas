@@ -2,12 +2,12 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
   "name": "kpi_highest_value",
   "position": {
-    "x": 16,
-    "y": 136,
-    "z": 8000,
-    "height": 56,
-    "width": 304,
-    "tabOrder": 8000
+    "x": 24,
+    "y": 248,
+    "z": 10000,
+    "height": 64,
+    "width": 296,
+    "tabOrder": 10000
   },
   "visual": {
     "visualType": "card",
@@ -40,7 +40,27 @@
             "fontSize": {
               "expr": {
                 "Literal": {
-                  "Value": "18D"
+                  "Value": "20D"
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Georgia'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "categoryLabels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
                 }
               }
             }
@@ -78,7 +98,7 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#64748B'"
+                      "Value": "'#5F6B76'"
                     }
                   }
                 }
@@ -126,7 +146,7 @@
             "top": {
               "expr": {
                 "Literal": {
-                  "Value": "6D"
+                  "Value": "8D"
                 }
               }
             },

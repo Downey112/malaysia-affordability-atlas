@@ -3,11 +3,11 @@
   "name": "slicer_basket",
   "position": {
     "x": 16,
-    "y": 72,
-    "z": 3000,
-    "height": 56,
+    "y": 176,
+    "z": 4000,
+    "height": 64,
     "width": 304,
-    "tabOrder": 3000
+    "tabOrder": 4000
   },
   "visual": {
     "visualType": "slicer",

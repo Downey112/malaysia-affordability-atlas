@@ -10,7 +10,7 @@ KPDN PriceCatcher shelf prices to DOSM income, spending, poverty, CPI and wage d
 the official poverty line and the Belanjawanku reference budgets, to measure pressure by state,
 income position and household type.
 
-Built with **SQL (DuckDB)**, **Python** and **Power BI** (star schema, 48 DAX measures, 4 pages).
+Built with **SQL (DuckDB)**, **Python** and **Power BI** (star schema, 52 DAX measures, 4 pages).
 
 ## What the data said
 
@@ -71,6 +71,16 @@ The full method is in [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
 | [Can households meet a reference budget?](assets/page-3-budgets.png) | Nine Belanjawanku household types and the poverty line |
 | [What has changed, and where?](assets/page-4-growth.png) | Real income, real wages and 162 districts |
 
+The report is designed as an illustrated story. Each page opens on an original banner: a street from
+kampung house to city towers, a pasar stall beside a balance scale, families in front of a terrace house
+and flats, and paddy terraces running to a longhouse. Two charts draw the data as pictures, so a reader
+can take it in without reading a number: ten people per state for households under a budget, and ten
+coins for each RM10 earned. Pictures are rounded to the nearest tenth, so the exact figure always sits
+beside them.
+
+The banners are drawn in code in [`art/build_art.py`](art/build_art.py), with no photographs, real
+people or logos. The pictograms are DAX measures that return SVG.
+
 ## Run it
 
 Needs Python 3.13 and Power BI Desktop. Prices come from the processed tables of
@@ -95,6 +105,7 @@ data/processed/  Star schema and marts, as CSV and Parquet
 sql/             Staging, dimensions, facts, marts
 scripts/         Ingest, build, bootstrap, validate, generate the report
 powerbi/         Power BI Project (TMDL and PBIR)
+art/             Banner illustrations and the script that draws them
 docs/            Methodology
 ```
 

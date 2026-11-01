@@ -2,12 +2,12 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
   "name": "header",
   "position": {
-    "x": 16,
-    "y": 16,
-    "z": 2000,
-    "height": 48,
-    "width": 1248,
-    "tabOrder": 2000
+    "x": 32,
+    "y": 24,
+    "z": 3000,
+    "height": 136,
+    "width": 592,
+    "tabOrder": 3000
   },
   "visual": {
     "visualType": "textbox",
@@ -19,11 +19,11 @@
               {
                 "textRuns": [
                   {
-                    "value": "Who is under pressure?",
+                    "value": "MALAYSIA AFFORDABILITY ATLAS  ·  1 OF 4",
                     "textStyle": {
                       "fontFamily": "Segoe UI Semibold",
-                      "fontSize": "16pt",
-                      "color": "#0F172A"
+                      "fontSize": "8.5pt",
+                      "color": "#0F4C5C"
                     }
                   }
                 ]
@@ -31,11 +31,23 @@
               {
                 "textRuns": [
                   {
-                    "value": "What a basket of essentials takes from household income, by state. KPDN PriceCatcher and DOSM HIES 2024.",
+                    "value": "Who is under pressure?",
+                    "textStyle": {
+                      "fontFamily": "Georgia",
+                      "fontSize": "22pt",
+                      "color": "#1F2933"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "What a basket of essentials takes from household income, from kampung to city.",
                     "textStyle": {
                       "fontFamily": "Segoe UI",
-                      "fontSize": "9pt",
-                      "color": "#64748B"
+                      "fontSize": "10.5pt",
+                      "color": "#1F2933"
                     }
                   }
                 ]
@@ -78,7 +90,7 @@
             "altText": {
               "expr": {
                 "Literal": {
-                  "Value": "'Who is under pressure? What a basket of essentials takes from household income, by state. KPDN PriceCatcher and DOSM HIES 2024.'"
+                  "Value": "'Who is under pressure? What a basket of essentials takes from household income, from kampung to city.'"
                 }
               }
             }

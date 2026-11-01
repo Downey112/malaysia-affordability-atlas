@@ -3,11 +3,11 @@
   "name": "kpi_lowest_tile",
   "position": {
     "x": 328,
-    "y": 136,
-    "z": 10000,
-    "height": 88,
+    "y": 248,
+    "z": 12000,
+    "height": 96,
     "width": 304,
-    "tabOrder": 10000
+    "tabOrder": 12000
   },
   "visual": {
     "visualType": "textbox",

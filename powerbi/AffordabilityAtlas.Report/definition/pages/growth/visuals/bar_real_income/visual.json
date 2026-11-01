@@ -3,11 +3,11 @@
   "name": "bar_real_income",
   "position": {
     "x": 16,
-    "y": 80,
-    "z": 4000,
-    "height": 384,
+    "y": 248,
+    "z": 5000,
+    "height": 432,
     "width": 616,
-    "tabOrder": 4000
+    "tabOrder": 5000
   },
   "visual": {
     "visualType": "clusteredBarChart",
@@ -79,7 +79,7 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#1D4ED8'"
+                      "Value": "'#0F4C5C'"
                     }
                   }
                 }

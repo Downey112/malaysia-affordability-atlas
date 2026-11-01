@@ -3,11 +3,11 @@
   "name": "bar_real_wages",
   "position": {
     "x": 640,
-    "y": 80,
-    "z": 5000,
-    "height": 384,
+    "y": 248,
+    "z": 6000,
+    "height": 432,
     "width": 624,
-    "tabOrder": 5000
+    "tabOrder": 6000
   },
   "visual": {
     "visualType": "clusteredBarChart",
@@ -79,7 +79,7 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#1D4ED8'"
+                      "Value": "'#0F4C5C'"
                     }
                   }
                 }

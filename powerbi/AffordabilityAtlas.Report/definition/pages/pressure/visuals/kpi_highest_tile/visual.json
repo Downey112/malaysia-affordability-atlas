@@ -3,11 +3,11 @@
   "name": "kpi_highest_tile",
   "position": {
     "x": 16,
-    "y": 136,
-    "z": 7000,
-    "height": 88,
+    "y": 248,
+    "z": 8000,
+    "height": 96,
     "width": 304,
-    "tabOrder": 7000
+    "tabOrder": 8000
   },
   "visual": {
     "visualType": "textbox",

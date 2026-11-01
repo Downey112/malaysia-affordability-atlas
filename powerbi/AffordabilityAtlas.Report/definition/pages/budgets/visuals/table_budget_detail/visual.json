@@ -2,12 +2,12 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
   "name": "table_budget_detail",
   "position": {
-    "x": 552,
-    "y": 80,
-    "z": 5000,
-    "height": 584,
-    "width": 712,
-    "tabOrder": 5000
+    "x": 584,
+    "y": 280,
+    "z": 8000,
+    "height": 568,
+    "width": 680,
+    "tabOrder": 8000
   },
   "visual": {
     "visualType": "tableEx",
@@ -173,7 +173,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "120D"
+                  "Value": "112D"
                 }
               }
             }
@@ -187,7 +187,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "96D"
+                  "Value": "80D"
                 }
               }
             }
@@ -201,7 +201,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "120D"
+                  "Value": "112D"
                 }
               }
             }
@@ -215,7 +215,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "112D"
+                  "Value": "104D"
                 }
               }
             }
@@ -229,7 +229,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "96D"
+                  "Value": "80D"
                 }
               }
             }

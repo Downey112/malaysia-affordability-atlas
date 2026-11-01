@@ -3,11 +3,11 @@
   "name": "slicer_purchases",
   "position": {
     "x": 640,
-    "y": 72,
-    "z": 5000,
-    "height": 56,
+    "y": 176,
+    "z": 6000,
+    "height": 64,
     "width": 304,
-    "tabOrder": 5000
+    "tabOrder": 6000
   },
   "visual": {
     "visualType": "slicer",
