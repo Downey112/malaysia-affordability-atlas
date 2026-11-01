@@ -3,11 +3,11 @@ Johor | Batu Pahat,Johor,Batu Pahat,2024,9006.0,7555.0,5153.0,57.2,0.316,2.4
 Johor | Johor Bahru,Johor,Johor Bahru,2024,10975.0,8977.0,6764.0,61.6,0.35,1.9
 Johor | Kluang,Johor,Kluang,2024,6616.0,6158.0,4748.0,71.8,0.292,5.7
 Johor | Kota Tinggi,Johor,Kota Tinggi,2024,8106.0,6284.0,4949.0,61.1,0.379,4.2
+Johor | Kulai,Johor,Kulai,2024,10296.0,8406.0,6254.0,60.7,0.319,0.1
 Johor | Mersing,Johor,Mersing,2024,6014.0,5335.0,4274.0,71.1,0.263,6.7
 Johor | Muar,Johor,Muar,2024,8401.0,7334.0,5541.0,66.0,0.306,2.1
 Johor | Pontian,Johor,Pontian,2024,7011.0,5685.0,4856.0,69.3,0.341,2.0
 Johor | Segamat,Johor,Segamat,2024,7348.0,6451.0,4870.0,66.3,0.292,3.1
-Johor | Kulai,Johor,Kulai,2024,10296.0,8406.0,6254.0,60.7,0.319,0.1
 Johor | Tangkak,Johor,Tangkak,2024,7524.0,6374.0,4673.0,62.1,0.306,4.0
 Kedah | Baling,Kedah,Baling,2024,4345.0,3367.0,3041.0,70.0,0.324,14.7
 Kedah | Bandar Baharu,Kedah,Bandar Baharu,2024,4835.0,4310.0,3006.0,62.2,0.339,5.8
@@ -17,56 +17,133 @@ Kedah | Kubang Pasu,Kedah,Kubang Pasu,2024,6313.0,5312.0,4478.0,70.9,0.317,4.0
 Kedah | Kulim,Kedah,Kulim,2024,6395.0,5236.0,4054.0,63.4,0.349,8.5
 Kedah | Langkawi,Kedah,Langkawi,2024,6278.0,5083.0,4356.0,69.4,0.335,6.0
 Kedah | Padang Terap,Kedah,Padang Terap,2024,5062.0,3954.0,3872.0,76.5,0.292,8.0
-Kedah | Sik,Kedah,Sik,2024,5107.0,4438.0,3675.0,72.0,0.325,8.7
-Kedah | Yan,Kedah,Yan,2024,5272.0,4695.0,3859.0,73.2,0.293,7.4
 Kedah | Pendang,Kedah,Pendang,2024,5464.0,4592.0,3914.0,71.6,0.347,7.3
 Kedah | Pokok Sena,Kedah,Pokok Sena,2024,5736.0,5163.0,4257.0,74.2,0.27,7.2
+Kedah | Sik,Kedah,Sik,2024,5107.0,4438.0,3675.0,72.0,0.325,8.7
+Kedah | Yan,Kedah,Yan,2024,5272.0,4695.0,3859.0,73.2,0.293,7.4
 Kelantan | Bachok,Kelantan,Bachok,2024,5149.0,4187.0,3579.0,69.5,0.349,11.3
+Kelantan | Gua Musang,Kelantan,Gua Musang,2024,4684.0,3871.0,3726.0,79.5,0.302,16.3
+Kelantan | Jeli,Kelantan,Jeli,2024,3829.0,3008.0,3062.0,80.0,0.315,10.1
+Kelantan | Kecil Lojing,Kelantan,Kecil Lojing,2024,3511.0,3385.0,2953.0,84.1,0.218,20.0
 Kelantan | Kota Bharu,Kelantan,Kota Bharu,2024,6180.0,4729.0,4329.0,70.0,0.361,9.9
+Kelantan | Kuala Krai,Kelantan,Kuala Krai,2024,3872.0,2994.0,2863.0,73.9,0.342,20.2
 Kelantan | Machang,Kelantan,Machang,2024,5237.0,4156.0,3411.0,65.1,0.331,7.3
 Kelantan | Pasir Mas,Kelantan,Pasir Mas,2024,4975.0,3591.0,3581.0,72.0,0.365,8.6
 Kelantan | Pasir Puteh,Kelantan,Pasir Puteh,2024,5070.0,4853.0,3749.0,73.9,0.302,11.1
 Kelantan | Tanah Merah,Kelantan,Tanah Merah,2024,4922.0,3638.0,3632.0,73.8,0.363,14.9
 Kelantan | Tumpat,Kelantan,Tumpat,2024,4991.0,3904.0,4181.0,83.8,0.334,12.7
-Kelantan | Gua Musang,Kelantan,Gua Musang,2024,4684.0,3871.0,3726.0,79.5,0.302,16.3
-Kelantan | Kuala Krai,Kelantan,Kuala Krai,2024,3872.0,2994.0,2863.0,73.9,0.342,20.2
-Kelantan | Jeli,Kelantan,Jeli,2024,3829.0,3008.0,3062.0,80.0,0.315,10.1
-Kelantan | Kecil Lojing,Kelantan,Kecil Lojing,2024,3511.0,3385.0,2953.0,84.1,0.218,20.0
 Melaka | Alor Gajah,Melaka,Alor Gajah,2024,7855.0,6308.0,5745.0,73.1,0.327,4.5
 Melaka | Jasin,Melaka,Jasin,2024,7755.0,6401.0,5654.0,72.9,0.298,1.1
 Melaka | Melaka Tengah,Melaka,Melaka Tengah,2024,9232.0,7415.0,6527.0,70.7,0.373,2.8
 Negeri Sembilan | Jelebu,Negeri Sembilan,Jelebu,2024,4664.0,3713.0,3811.0,81.7,0.313,6.4
+Negeri Sembilan | Jempol,Negeri Sembilan,Jempol,2024,5777.0,4291.0,4113.0,71.2,0.364,7.1
 Negeri Sembilan | Kuala Pilah,Negeri Sembilan,Kuala Pilah,2024,4888.0,3996.0,3809.0,77.9,0.324,6.2
 Negeri Sembilan | Port Dickson,Negeri Sembilan,Port Dickson,2024,6280.0,5342.0,4709.0,75.0,0.324,4.4
 Negeri Sembilan | Rembau,Negeri Sembilan,Rembau,2024,5723.0,4894.0,4226.0,73.8,0.339,2.6
 Negeri Sembilan | Seremban,Negeri Sembilan,Seremban,2024,8395.0,6472.0,5686.0,67.7,0.368,2.8
 Negeri Sembilan | Tampin,Negeri Sembilan,Tampin,2024,5715.0,4367.0,4238.0,74.2,0.349,7.0
-Negeri Sembilan | Jempol,Negeri Sembilan,Jempol,2024,5777.0,4291.0,4113.0,71.2,0.364,7.1
 Pahang | Bentong,Pahang,Bentong,2024,6278.0,5015.0,4631.0,73.8,0.286,2.0
+Pahang | Bera,Pahang,Bera,2024,4997.0,4269.0,3548.0,71.0,0.361,9.0
 Pahang | Cameron Highlands,Pahang,Cameron Highlands,2024,6895.0,5655.0,4672.0,67.8,0.294,5.0
 Pahang | Jerantut,Pahang,Jerantut,2024,5220.0,4231.0,3732.0,71.5,0.319,8.8
 Pahang | Kuantan,Pahang,Kuantan,2024,7008.0,5520.0,4969.0,70.9,0.332,3.7
 Pahang | Lipis,Pahang,Lipis,2024,5276.0,4611.0,4278.0,81.1,0.237,9.2
+Pahang | Maran,Pahang,Maran,2024,5088.0,4470.0,3764.0,74.0,0.257,7.9
 Pahang | Pekan,Pahang,Pekan,2024,5098.0,4344.0,3799.0,74.5,0.277,10.9
 Pahang | Raub,Pahang,Raub,2024,5940.0,4427.0,4675.0,78.7,0.335,3.4
-Pahang | Temerloh,Pahang,Temerloh,2024,5521.0,4595.0,3684.0,66.7,0.319,6.2
 Pahang | Rompin,Pahang,Rompin,2024,5429.0,4760.0,3966.0,73.1,0.279,8.2
-Pahang | Maran,Pahang,Maran,2024,5088.0,4470.0,3764.0,74.0,0.257,7.9
-Pahang | Bera,Pahang,Bera,2024,4997.0,4269.0,3548.0,71.0,0.361,9.0
-Pulau Pinang | Timur Laut,Pulau Pinang,Timur Laut,2024,9993.0,7745.0,6416.0,64.2,0.398,0.4
-Pulau Pinang | Barat Daya,Pulau Pinang,Barat Daya,2024,10231.0,8919.0,6222.0,60.8,0.368,0.4
+Pahang | Temerloh,Pahang,Temerloh,2024,5521.0,4595.0,3684.0,66.7,0.319,6.2
+Perak | Bagan Datuk,Perak,Bagan Datuk,2024,5326.0,4134.0,3543.0,66.5,0.361,11.5
 Perak | Batang Padang,Perak,Batang Padang,2024,5433.0,4339.0,3722.0,68.5,0.354,11.5
-Perak | Manjung,Perak,Manjung,2024,6612.0,5380.0,4387.0,66.3,0.346,3.9
-Perak | Kinta,Perak,Kinta,2024,6758.0,5136.0,4648.0,68.8,0.391,3.8
-Perak | Kerian,Perak,Kerian,2024,5590.0,4554.0,3807.0,68.1,0.305,7.3
-Perak | Kuala Kangsar,Perak,Kuala Kangsar,2024,5489.0,3977.0,4005.0,73.0,0.357,11.3
 Perak | Hilir Perak,Perak,Hilir Perak,2024,5599.0,4347.0,3711.0,66.3,0.36,12.3
 Perak | Hulu Perak,Perak,Hulu Perak,2024,4980.0,3701.0,3270.0,65.7,0.331,13.3
-Perak | Perak Tengah,Perak,Perak Tengah,2024,6027.0,4685.0,3956.0,65.6,0.354,10.2
 Perak | Kampar,Perak,Kampar,2024,5608.0,4538.0,3753.0,66.9,0.37,4.5
+Perak | Kerian,Perak,Kerian,2024,5590.0,4554.0,3807.0,68.1,0.305,7.3
+Perak | Kinta,Perak,Kinta,2024,6758.0,5136.0,4648.0,68.8,0.391,3.8
+Perak | Kuala Kangsar,Perak,Kuala Kangsar,2024,5489.0,3977.0,4005.0,73.0,0.357,11.3
+Perak | Larut & Matang,Perak,Larut & Matang,2024,6024.0,4843.0,4174.0,69.3,0.335,9.0
+Perak | Manjung,Perak,Manjung,2024,6612.0,5380.0,4387.0,66.3,0.346,3.9
 Perak | Muallim,Perak,Muallim,2024,6229.0,4856.0,4517.0,72.5,0.35,7.7
-Perak | Bagan Datuk,Perak,Bagan Datuk,2024,5326.0,4134.0,3543.0,66.5,0.361,11.5
+Perak | Perak Tengah,Perak,Perak Tengah,2024,6027.0,4685.0,3956.0,65.6,0.354,10.2
 Perak | Selama,Perak,Selama,2024,5019.0,3827.0,3779.0,75.3,0.337,10.4
+Pulau Pinang | Barat Daya,Pulau Pinang,Barat Daya,2024,10231.0,8919.0,6222.0,60.8,0.368,0.4
+Pulau Pinang | S.P. Selatan,Pulau Pinang,S.P. Selatan,2024,8234.0,6822.0,5391.0,65.5,0.352,3.0
+Pulau Pinang | S.P.Tengah,Pulau Pinang,S.P.Tengah,2024,8413.0,6892.0,5419.0,64.4,0.346,2.8
+Pulau Pinang | S.P.Utara,Pulau Pinang,S.P.Utara,2024,8101.0,6810.0,5232.0,64.6,0.343,3.9
+Pulau Pinang | Timur Laut,Pulau Pinang,Timur Laut,2024,9993.0,7745.0,6416.0,64.2,0.398,0.4
+Sabah | Beaufort,Sabah,Beaufort,2024,5048.0,4070.0,3545.0,70.2,0.373,20.4
+Sabah | Beluran,Sabah,Beluran,2024,4993.0,4436.0,2750.0,55.1,0.314,33.0
+Sabah | Kalabakan,Sabah,Kalabakan,2024,5174.0,3304.0,2257.0,43.6,0.447,26.8
+Sabah | Keningau,Sabah,Keningau,2024,6033.0,4801.0,3542.0,58.7,0.322,12.8
+Sabah | Kinabatangan,Sabah,Kinabatangan,2024,5632.0,4897.0,2482.0,44.1,0.308,26.7
+Sabah | Kota Belud,Sabah,Kota Belud,2024,5007.0,3512.0,2920.0,58.3,0.361,26.1
+Sabah | Kota Kinabalu,Sabah,Kota Kinabalu,2024,8715.0,5896.0,4726.0,54.2,0.426,12.0
+Sabah | Kota Marudu,Sabah,Kota Marudu,2024,4685.0,2877.0,3466.0,74.0,0.421,40.0
+Sabah | Kuala Penyu,Sabah,Kuala Penyu,2024,4750.0,3733.0,2826.0,59.5,0.375,14.3
+Sabah | Kudat,Sabah,Kudat,2024,4571.0,3249.0,3206.0,70.1,0.385,35.3
+Sabah | Kunak,Sabah,Kunak,2024,6608.0,4539.0,2797.0,42.3,0.484,29.2
+Sabah | Lahad Datu,Sabah,Lahad Datu,2024,6557.0,5526.0,3571.0,54.5,0.286,13.6
+Sabah | Membakut,Sabah,Membakut,2024,4997.0,4037.0,3075.0,61.5,0.357,27.4
+Sabah | Nabawan,Sabah,Nabawan,2024,5146.0,4361.0,3553.0,69.0,0.314,25.4
+Sabah | Papar,Sabah,Papar,2024,6038.0,5177.0,3613.0,59.8,0.313,12.0
+Sabah | Penampang,Sabah,Penampang,2024,7550.0,6090.0,4234.0,56.1,0.348,5.7
+Sabah | Pitas,Sabah,Pitas,2024,4121.0,2785.0,3472.0,84.3,0.411,50.0
+Sabah | Putatan,Sabah,Putatan,2024,7377.0,6563.0,4188.0,56.8,0.289,6.9
+Sabah | Ranau,Sabah,Ranau,2024,5330.0,3470.0,2905.0,54.5,0.441,23.5
+Sabah | Sandakan,Sabah,Sandakan,2024,6648.0,5314.0,3677.0,55.3,0.355,15.2
+Sabah | Semporna,Sabah,Semporna,2024,5604.0,4059.0,2567.0,45.8,0.411,30.4
+Sabah | Sipitang,Sabah,Sipitang,2024,5548.0,4606.0,3341.0,60.2,0.306,15.3
+Sabah | Tambunan,Sabah,Tambunan,2024,5361.0,4854.0,3508.0,65.4,0.3,8.3
+Sabah | Tawau,Sabah,Tawau,2024,6751.0,4852.0,3182.0,47.1,0.389,13.2
+Sabah | Telupid,Sabah,Telupid,2024,4877.0,4489.0,2659.0,54.5,0.267,22.0
+Sabah | Tenom,Sabah,Tenom,2024,5410.0,4161.0,3504.0,64.8,0.336,12.1
+Sabah | Tongod,Sabah,Tongod,2024,4090.0,3470.0,2465.0,60.3,0.344,41.5
+Sabah | Tuaran,Sabah,Tuaran,2024,5388.0,4277.0,3185.0,59.1,0.342,23.7
+Sarawak | Asajaya,Sarawak,Asajaya,2024,5165.0,4447.0,3598.0,69.7,0.326,14.0
+Sarawak | Bau,Sarawak,Bau,2024,5843.0,4885.0,3965.0,67.9,0.327,6.2
+Sarawak | Belaga,Sarawak,Belaga,2024,4903.0,3977.0,2757.0,56.2,0.313,13.6
+Sarawak | Beluru,Sarawak,Beluru,2024,4927.0,4346.0,2844.0,57.7,0.238,10.1
+Sarawak | Betong,Sarawak,Betong,2024,4572.0,4074.0,2877.0,62.9,0.269,7.6
+Sarawak | Bintulu,Sarawak,Bintulu,2024,10480.0,8317.0,5073.0,48.4,0.369,3.7
+Sarawak | Bukit Mabong,Sarawak,Bukit Mabong,2024,3783.0,2589.0,3363.0,88.9,0.333,6.3
+Sarawak | Dalat,Sarawak,Dalat,2024,5416.0,4614.0,3079.0,56.9,0.355,10.1
+Sarawak | Daro,Sarawak,Daro,2024,4913.0,3806.0,3076.0,62.6,0.326,26.8
+Sarawak | Gedong,Sarawak,Gedong,2024,5013.0,3329.0,2950.0,58.8,0.392,16.7
+Sarawak | Julau,Sarawak,Julau,2024,4363.0,3264.0,3401.0,78.0,0.36,26.6
+Sarawak | Kabong,Sarawak,Kabong,2024,4136.0,3407.0,3225.0,78.0,0.289,4.5
+Sarawak | Kanowit,Sarawak,Kanowit,2024,4549.0,3511.0,3240.0,71.2,0.343,21.8
+Sarawak | Kapit,Sarawak,Kapit,2024,4326.0,3259.0,3683.0,85.1,0.346,15.5
+Sarawak | Kuching,Sarawak,Kuching,2024,8237.0,6741.0,5184.0,62.9,0.349,7.7
+Sarawak | Lawas,Sarawak,Lawas,2024,5050.0,3929.0,3241.0,64.2,0.35,14.6
+Sarawak | Limbang,Sarawak,Limbang,2024,5202.0,4060.0,3457.0,66.5,0.385,14.4
+Sarawak | Lingga,Sarawak,Lingga,2024,3663.0,2999.0,2412.0,65.8,0.27,6.3
+Sarawak | Lubok antu,Sarawak,Lubok antu,2024,4820.0,4169.0,3564.0,73.9,0.311,13.0
+Sarawak | Lundu,Sarawak,Lundu,2024,5170.0,3918.0,3370.0,65.2,0.345,12.9
+Sarawak | Maradong,Sarawak,Maradong,2024,4208.0,3472.0,2864.0,68.1,0.303,16.9
+Sarawak | Marudi,Sarawak,Marudi,2024,5430.0,4519.0,2705.0,49.8,0.309,4.4
+Sarawak | Matu,Sarawak,Matu,2024,4417.0,3891.0,2992.0,67.7,0.308,9.1
+Sarawak | Miri,Sarawak,Miri,2024,8166.0,6600.0,4609.0,56.4,0.307,3.8
+Sarawak | Mukah,Sarawak,Mukah,2024,6373.0,5169.0,3650.0,57.3,0.34,11.9
+Sarawak | Pakan,Sarawak,Pakan,2024,4473.0,3742.0,3444.0,77.0,0.306,14.5
+Sarawak | Pantu,Sarawak,Pantu,2024,2988.0,2525.0,2371.0,79.4,0.222,10.9
+Sarawak | Pusa,Sarawak,Pusa,2024,4155.0,3276.0,2736.0,65.8,0.339,14.6
+Sarawak | Samarahan,Sarawak,Samarahan,2024,7965.0,6785.0,4973.0,62.4,0.322,6.3
+Sarawak | Saratok,Sarawak,Saratok,2024,4796.0,3418.0,3127.0,65.2,0.352,5.0
+Sarawak | Sarikei,Sarawak,Sarikei,2024,5792.0,4675.0,3849.0,66.5,0.355,17.8
+Sarawak | Sebauh,Sarawak,Sebauh,2024,5726.0,4636.0,3311.0,57.8,0.295,2.9
+Sarawak | Sebuyau,Sarawak,Sebuyau,2024,3603.0,2717.0,2462.0,68.3,0.31,21.4
+Sarawak | Selangau,Sarawak,Selangau,2024,4688.0,4170.0,2947.0,62.9,0.291,17.2
+Sarawak | Serian,Sarawak,Serian,2024,5113.0,4082.0,3594.0,70.3,0.326,11.8
+Sarawak | Sibu,Sarawak,Sibu,2024,6842.0,5737.0,4490.0,65.6,0.32,6.3
+Sarawak | Siburan,Sarawak,Siburan,2024,6368.0,5217.0,4088.0,64.2,0.335,4.2
+Sarawak | Simunjan,Sarawak,Simunjan,2024,4246.0,3365.0,3130.0,73.7,0.311,14.9
+Sarawak | Song,Sarawak,Song,2024,4077.0,3052.0,2939.0,72.1,0.344,11.3
+Sarawak | Sri Aman,Sarawak,Sri Aman,2024,5349.0,3967.0,3378.0,63.2,0.383,6.2
+Sarawak | Subis,Sarawak,Subis,2024,6475.0,5531.0,3967.0,61.3,0.274,2.4
+Sarawak | Tanjung Manis,Sarawak,Tanjung Manis,2024,4457.0,3837.0,2902.0,65.1,0.303,15.4
+Sarawak | Tatau,Sarawak,Tatau,2024,5807.0,4409.0,3071.0,52.9,0.308,2.6
+Sarawak | Tebedu,Sarawak,Tebedu,2024,3375.0,3024.0,2639.0,78.2,0.249,25.8
+Sarawak | Telang Usan,Sarawak,Telang Usan,2024,4795.0,4281.0,2824.0,58.9,0.229,1.3
 Selangor | Gombak,Selangor,Gombak,2024,14168.0,10777.0,7326.0,51.7,0.366,2.1
 Selangor | Klang,Selangor,Klang,2024,10912.0,8837.0,6927.0,63.5,0.299,1.0
 Selangor | Kuala Langat,Selangor,Kuala Langat,2024,11714.0,10583.0,6123.0,52.3,0.16,0.3
@@ -78,86 +155,9 @@ Selangor | Ulu Langat,Selangor,Ulu Langat,2024,13822.0,11404.0,6758.0,48.9,0.219
 Selangor | Ulu Selangor,Selangor,Ulu Selangor,2024,9499.0,8485.0,5425.0,57.1,0.299,0.4
 Terengganu | Besut,Terengganu,Besut,2024,6747.0,5820.0,4339.0,64.3,0.311,13.1
 Terengganu | Dungun,Terengganu,Dungun,2024,8055.0,7156.0,5833.0,72.4,0.308,4.4
+Terengganu | Hulu,Terengganu,Hulu,2024,6360.0,6134.0,4554.0,71.6,0.255,6.6
 Terengganu | Kemaman,Terengganu,Kemaman,2024,8973.0,7709.0,5644.0,62.9,0.319,3.5
+Terengganu | Kuala Nerus,Terengganu,Kuala Nerus,2024,8385.0,7304.0,5498.0,65.6,0.282,1.6
 Terengganu | Kuala Terengganu,Terengganu,Kuala Terengganu,2024,7279.0,6615.0,5264.0,72.3,0.267,4.2
 Terengganu | Marang,Terengganu,Marang,2024,6807.0,6246.0,5141.0,75.5,0.281,7.3
 Terengganu | Setiu,Terengganu,Setiu,2024,6359.0,6125.0,4314.0,67.8,0.214,4.7
-Terengganu | Kuala Nerus,Terengganu,Kuala Nerus,2024,8385.0,7304.0,5498.0,65.6,0.282,1.6
-Sabah | Tawau,Sabah,Tawau,2024,6751.0,4852.0,3182.0,47.1,0.389,13.2
-Sabah | Lahad Datu,Sabah,Lahad Datu,2024,6557.0,5526.0,3571.0,54.5,0.286,13.6
-Sabah | Semporna,Sabah,Semporna,2024,5604.0,4059.0,2567.0,45.8,0.411,30.4
-Sabah | Sandakan,Sabah,Sandakan,2024,6648.0,5314.0,3677.0,55.3,0.355,15.2
-Sabah | Kinabatangan,Sabah,Kinabatangan,2024,5632.0,4897.0,2482.0,44.1,0.308,26.7
-Sabah | Beluran,Sabah,Beluran,2024,4993.0,4436.0,2750.0,55.1,0.314,33.0
-Sabah | Kota Kinabalu,Sabah,Kota Kinabalu,2024,8715.0,5896.0,4726.0,54.2,0.426,12.0
-Sabah | Ranau,Sabah,Ranau,2024,5330.0,3470.0,2905.0,54.5,0.441,23.5
-Sabah | Kota Belud,Sabah,Kota Belud,2024,5007.0,3512.0,2920.0,58.3,0.361,26.1
-Sabah | Tuaran,Sabah,Tuaran,2024,5388.0,4277.0,3185.0,59.1,0.342,23.7
-Sabah | Penampang,Sabah,Penampang,2024,7550.0,6090.0,4234.0,56.1,0.348,5.7
-Sabah | Papar,Sabah,Papar,2024,6038.0,5177.0,3613.0,59.8,0.313,12.0
-Sabah | Kudat,Sabah,Kudat,2024,4571.0,3249.0,3206.0,70.1,0.385,35.3
-Sabah | Kota Marudu,Sabah,Kota Marudu,2024,4685.0,2877.0,3466.0,74.0,0.421,40.0
-Sabah | Pitas,Sabah,Pitas,2024,4121.0,2785.0,3472.0,84.3,0.411,50.0
-Sabah | Beaufort,Sabah,Beaufort,2024,5048.0,4070.0,3545.0,70.2,0.373,20.4
-Sabah | Kuala Penyu,Sabah,Kuala Penyu,2024,4750.0,3733.0,2826.0,59.5,0.375,14.3
-Sabah | Sipitang,Sabah,Sipitang,2024,5548.0,4606.0,3341.0,60.2,0.306,15.3
-Sabah | Tenom,Sabah,Tenom,2024,5410.0,4161.0,3504.0,64.8,0.336,12.1
-Sabah | Nabawan,Sabah,Nabawan,2024,5146.0,4361.0,3553.0,69.0,0.314,25.4
-Sabah | Keningau,Sabah,Keningau,2024,6033.0,4801.0,3542.0,58.7,0.322,12.8
-Sabah | Tambunan,Sabah,Tambunan,2024,5361.0,4854.0,3508.0,65.4,0.3,8.3
-Sabah | Kunak,Sabah,Kunak,2024,6608.0,4539.0,2797.0,42.3,0.484,29.2
-Sabah | Tongod,Sabah,Tongod,2024,4090.0,3470.0,2465.0,60.3,0.344,41.5
-Sabah | Putatan,Sabah,Putatan,2024,7377.0,6563.0,4188.0,56.8,0.289,6.9
-Sabah | Telupid,Sabah,Telupid,2024,4877.0,4489.0,2659.0,54.5,0.267,22.0
-Sabah | Kalabakan,Sabah,Kalabakan,2024,5174.0,3304.0,2257.0,43.6,0.447,26.8
-Sarawak | Kuching,Sarawak,Kuching,2024,8237.0,6741.0,5184.0,62.9,0.349,7.7
-Sarawak | Bau,Sarawak,Bau,2024,5843.0,4885.0,3965.0,67.9,0.327,6.2
-Sarawak | Lundu,Sarawak,Lundu,2024,5170.0,3918.0,3370.0,65.2,0.345,12.9
-Sarawak | Samarahan,Sarawak,Samarahan,2024,7965.0,6785.0,4973.0,62.4,0.322,6.3
-Sarawak | Serian,Sarawak,Serian,2024,5113.0,4082.0,3594.0,70.3,0.326,11.8
-Sarawak | Simunjan,Sarawak,Simunjan,2024,4246.0,3365.0,3130.0,73.7,0.311,14.9
-Sarawak | Sri Aman,Sarawak,Sri Aman,2024,5349.0,3967.0,3378.0,63.2,0.383,6.2
-Sarawak | Betong,Sarawak,Betong,2024,4572.0,4074.0,2877.0,62.9,0.269,7.6
-Sarawak | Saratok,Sarawak,Saratok,2024,4796.0,3418.0,3127.0,65.2,0.352,5.0
-Sarawak | Sarikei,Sarawak,Sarikei,2024,5792.0,4675.0,3849.0,66.5,0.355,17.8
-Sarawak | Maradong,Sarawak,Maradong,2024,4208.0,3472.0,2864.0,68.1,0.303,16.9
-Sarawak | Daro,Sarawak,Daro,2024,4913.0,3806.0,3076.0,62.6,0.326,26.8
-Sarawak | Julau,Sarawak,Julau,2024,4363.0,3264.0,3401.0,78.0,0.36,26.6
-Sarawak | Sibu,Sarawak,Sibu,2024,6842.0,5737.0,4490.0,65.6,0.32,6.3
-Sarawak | Dalat,Sarawak,Dalat,2024,5416.0,4614.0,3079.0,56.9,0.355,10.1
-Sarawak | Mukah,Sarawak,Mukah,2024,6373.0,5169.0,3650.0,57.3,0.34,11.9
-Sarawak | Kanowit,Sarawak,Kanowit,2024,4549.0,3511.0,3240.0,71.2,0.343,21.8
-Sarawak | Bintulu,Sarawak,Bintulu,2024,10480.0,8317.0,5073.0,48.4,0.369,3.7
-Sarawak | Tatau,Sarawak,Tatau,2024,5807.0,4409.0,3071.0,52.9,0.308,2.6
-Sarawak | Kapit,Sarawak,Kapit,2024,4326.0,3259.0,3683.0,85.1,0.346,15.5
-Sarawak | Song,Sarawak,Song,2024,4077.0,3052.0,2939.0,72.1,0.344,11.3
-Sarawak | Belaga,Sarawak,Belaga,2024,4903.0,3977.0,2757.0,56.2,0.313,13.6
-Sarawak | Miri,Sarawak,Miri,2024,8166.0,6600.0,4609.0,56.4,0.307,3.8
-Sarawak | Marudi,Sarawak,Marudi,2024,5430.0,4519.0,2705.0,49.8,0.309,4.4
-Sarawak | Limbang,Sarawak,Limbang,2024,5202.0,4060.0,3457.0,66.5,0.385,14.4
-Sarawak | Lawas,Sarawak,Lawas,2024,5050.0,3929.0,3241.0,64.2,0.35,14.6
-Sarawak | Matu,Sarawak,Matu,2024,4417.0,3891.0,2992.0,67.7,0.308,9.1
-Sarawak | Asajaya,Sarawak,Asajaya,2024,5165.0,4447.0,3598.0,69.7,0.326,14.0
-Sarawak | Pakan,Sarawak,Pakan,2024,4473.0,3742.0,3444.0,77.0,0.306,14.5
-Sarawak | Selangau,Sarawak,Selangau,2024,4688.0,4170.0,2947.0,62.9,0.291,17.2
-Sarawak | Tebedu,Sarawak,Tebedu,2024,3375.0,3024.0,2639.0,78.2,0.249,25.8
-Sarawak | Pusa,Sarawak,Pusa,2024,4155.0,3276.0,2736.0,65.8,0.339,14.6
-Sarawak | Kabong,Sarawak,Kabong,2024,4136.0,3407.0,3225.0,78.0,0.289,4.5
-Sarawak | Tanjung Manis,Sarawak,Tanjung Manis,2024,4457.0,3837.0,2902.0,65.1,0.303,15.4
-Sarawak | Sebauh,Sarawak,Sebauh,2024,5726.0,4636.0,3311.0,57.8,0.295,2.9
-Sarawak | Bukit Mabong,Sarawak,Bukit Mabong,2024,3783.0,2589.0,3363.0,88.9,0.333,6.3
-Sarawak | Subis,Sarawak,Subis,2024,6475.0,5531.0,3967.0,61.3,0.274,2.4
-Sarawak | Beluru,Sarawak,Beluru,2024,4927.0,4346.0,2844.0,57.7,0.238,10.1
-Sarawak | Telang Usan,Sarawak,Telang Usan,2024,4795.0,4281.0,2824.0,58.9,0.229,1.3
-Pulau Pinang | S.P.Tengah,Pulau Pinang,S.P.Tengah,2024,8413.0,6892.0,5419.0,64.4,0.346,2.8
-Pulau Pinang | S.P.Utara,Pulau Pinang,S.P.Utara,2024,8101.0,6810.0,5232.0,64.6,0.343,3.9
-Pulau Pinang | S.P. Selatan,Pulau Pinang,S.P. Selatan,2024,8234.0,6822.0,5391.0,65.5,0.352,3.0
-Perak | Larut & Matang,Perak,Larut & Matang,2024,6024.0,4843.0,4174.0,69.3,0.335,9.0
-Terengganu | Hulu,Terengganu,Hulu,2024,6360.0,6134.0,4554.0,71.6,0.255,6.6
-Sabah | Membakut,Sabah,Membakut,2024,4997.0,4037.0,3075.0,61.5,0.357,27.4
-Sarawak | Lubok antu,Sarawak,Lubok antu,2024,4820.0,4169.0,3564.0,73.9,0.311,13.0
-Sarawak | Gedong,Sarawak,Gedong,2024,5013.0,3329.0,2950.0,58.8,0.392,16.7
-Sarawak | Sebuyau,Sarawak,Sebuyau,2024,3603.0,2717.0,2462.0,68.3,0.31,21.4
-Sarawak | Siburan,Sarawak,Siburan,2024,6368.0,5217.0,4088.0,64.2,0.335,4.2
-Sarawak | Pantu,Sarawak,Pantu,2024,2988.0,2525.0,2371.0,79.4,0.222,10.9
-Sarawak | Lingga,Sarawak,Lingga,2024,3663.0,2999.0,2412.0,65.8,0.27,6.3

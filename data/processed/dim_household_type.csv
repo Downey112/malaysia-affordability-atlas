@@ -1,10 +1,10 @@
 household_type,household_order
-Single (P.T.U),1
-Single (Car Owner),2
-Married (w/o Children),3
 Married (1 Child),4
 Married (2 Children),5
-Senior Single,6
+Married (w/o Children),3
 Senior Couple,7
+Senior Single,6
+Single (Car Owner),2
+Single (P.T.U),1
 Single Parent (1 Child),8
 Single Parent (2 Children),9
