@@ -1,0 +1,4753 @@
+state,year,percentile,income
+Johor,2024,1,1912.0
+Johor,2024,2,2216.0
+Johor,2024,3,2471.0
+Johor,2024,4,2645.0
+Johor,2024,5,2833.0
+Johor,2024,6,2983.0
+Johor,2024,7,3119.0
+Johor,2024,8,3262.0
+Johor,2024,9,3389.0
+Johor,2024,10,3513.0
+Johor,2024,11,3621.0
+Johor,2024,12,3738.0
+Johor,2024,13,3824.0
+Johor,2024,14,3948.0
+Johor,2024,15,4068.0
+Johor,2024,16,4138.0
+Johor,2024,17,4240.0
+Johor,2024,18,4338.0
+Johor,2024,19,4467.0
+Johor,2024,20,4569.0
+Johor,2024,21,4652.0
+Johor,2024,22,4751.0
+Johor,2024,23,4847.0
+Johor,2024,24,4938.0
+Johor,2024,25,5054.0
+Johor,2024,26,5156.0
+Johor,2024,27,5254.0
+Johor,2024,28,5358.0
+Johor,2024,29,5441.0
+Johor,2024,30,5532.0
+Johor,2024,31,5627.0
+Johor,2024,32,5704.0
+Johor,2024,33,5813.0
+Johor,2024,34,5904.0
+Johor,2024,35,6057.0
+Johor,2024,36,6152.0
+Johor,2024,37,6253.0
+Johor,2024,38,6371.0
+Johor,2024,39,6468.0
+Johor,2024,40,6567.0
+Johor,2024,41,6665.0
+Johor,2024,42,6756.0
+Johor,2024,43,6881.0
+Johor,2024,44,6965.0
+Johor,2024,45,7066.0
+Johor,2024,46,7194.0
+Johor,2024,47,7294.0
+Johor,2024,48,7408.0
+Johor,2024,49,7553.0
+Johor,2024,50,7712.0
+Johor,2024,51,7832.0
+Johor,2024,52,7957.0
+Johor,2024,53,8067.0
+Johor,2024,54,8152.0
+Johor,2024,55,8259.0
+Johor,2024,56,8407.0
+Johor,2024,57,8554.0
+Johor,2024,58,8708.0
+Johor,2024,59,8843.0
+Johor,2024,60,8989.0
+Johor,2024,61,9118.0
+Johor,2024,62,9282.0
+Johor,2024,63,9428.0
+Johor,2024,64,9581.0
+Johor,2024,65,9738.0
+Johor,2024,66,9932.0
+Johor,2024,67,10133.0
+Johor,2024,68,10283.0
+Johor,2024,69,10448.0
+Johor,2024,70,10651.0
+Johor,2024,71,10803.0
+Johor,2024,72,10972.0
+Johor,2024,73,11187.0
+Johor,2024,74,11420.0
+Johor,2024,75,12639.0
+Johor,2024,76,12813.0
+Johor,2024,77,13034.0
+Johor,2024,78,13199.0
+Johor,2024,79,13358.0
+Johor,2024,80,13563.0
+Johor,2024,81,13738.0
+Johor,2024,82,13919.0
+Johor,2024,83,14133.0
+Johor,2024,84,14320.0
+Johor,2024,85,14590.0
+Johor,2024,86,14873.0
+Johor,2024,87,15228.0
+Johor,2024,88,15694.0
+Johor,2024,89,16235.0
+Johor,2024,90,16734.0
+Johor,2024,91,17187.0
+Johor,2024,92,17858.0
+Johor,2024,93,18858.0
+Johor,2024,94,19680.0
+Johor,2024,95,21159.0
+Johor,2024,96,22952.0
+Johor,2024,97,25508.0
+Johor,2024,98,29390.0
+Johor,2024,99,37762.0
+Kedah,2024,1,1298.0
+Kedah,2024,2,1461.0
+Kedah,2024,3,1566.0
+Kedah,2024,4,1652.0
+Kedah,2024,5,1729.0
+Kedah,2024,6,1807.0
+Kedah,2024,7,1888.0
+Kedah,2024,8,1965.0
+Kedah,2024,9,2034.0
+Kedah,2024,10,2200.0
+Kedah,2024,11,2296.0
+Kedah,2024,12,2379.0
+Kedah,2024,13,2451.0
+Kedah,2024,14,2520.0
+Kedah,2024,15,2593.0
+Kedah,2024,16,2648.0
+Kedah,2024,17,2705.0
+Kedah,2024,18,2771.0
+Kedah,2024,19,2844.0
+Kedah,2024,20,2890.0
+Kedah,2024,21,2950.0
+Kedah,2024,22,3001.0
+Kedah,2024,23,3057.0
+Kedah,2024,24,3112.0
+Kedah,2024,25,3162.0
+Kedah,2024,26,3204.0
+Kedah,2024,27,3262.0
+Kedah,2024,28,3309.0
+Kedah,2024,29,3361.0
+Kedah,2024,30,3420.0
+Kedah,2024,31,3463.0
+Kedah,2024,32,3512.0
+Kedah,2024,33,3562.0
+Kedah,2024,34,3615.0
+Kedah,2024,35,3661.0
+Kedah,2024,36,3700.0
+Kedah,2024,37,3756.0
+Kedah,2024,38,3799.0
+Kedah,2024,39,3874.0
+Kedah,2024,40,3936.0
+Kedah,2024,41,4137.0
+Kedah,2024,42,4264.0
+Kedah,2024,43,4396.0
+Kedah,2024,44,4471.0
+Kedah,2024,45,4541.0
+Kedah,2024,46,4624.0
+Kedah,2024,47,4684.0
+Kedah,2024,48,4766.0
+Kedah,2024,49,4836.0
+Kedah,2024,50,4895.0
+Kedah,2024,51,4972.0
+Kedah,2024,52,5044.0
+Kedah,2024,53,5105.0
+Kedah,2024,54,5189.0
+Kedah,2024,55,5256.0
+Kedah,2024,56,5333.0
+Kedah,2024,57,5394.0
+Kedah,2024,58,5486.0
+Kedah,2024,59,5586.0
+Kedah,2024,60,5674.0
+Kedah,2024,61,5744.0
+Kedah,2024,62,5850.0
+Kedah,2024,63,5912.0
+Kedah,2024,64,5992.0
+Kedah,2024,65,6099.0
+Kedah,2024,66,6204.0
+Kedah,2024,67,6361.0
+Kedah,2024,68,6480.0
+Kedah,2024,69,6583.0
+Kedah,2024,70,6683.0
+Kedah,2024,71,6790.0
+Kedah,2024,72,6870.0
+Kedah,2024,73,6956.0
+Kedah,2024,74,7038.0
+Kedah,2024,75,7119.0
+Kedah,2024,76,7276.0
+Kedah,2024,77,7376.0
+Kedah,2024,78,7510.0
+Kedah,2024,79,7637.0
+Kedah,2024,80,7816.0
+Kedah,2024,81,8065.0
+Kedah,2024,82,8433.0
+Kedah,2024,83,8654.0
+Kedah,2024,84,8886.0
+Kedah,2024,85,9105.0
+Kedah,2024,86,9341.0
+Kedah,2024,87,9624.0
+Kedah,2024,88,9911.0
+Kedah,2024,89,10314.0
+Kedah,2024,90,10627.0
+Kedah,2024,91,11010.0
+Kedah,2024,92,11469.0
+Kedah,2024,93,11984.0
+Kedah,2024,94,12503.0
+Kedah,2024,95,12996.0
+Kedah,2024,96,13984.0
+Kedah,2024,97,15078.0
+Kedah,2024,98,17072.0
+Kedah,2024,99,19958.0
+Kelantan,2024,1,1347.0
+Kelantan,2024,2,1439.0
+Kelantan,2024,3,1515.0
+Kelantan,2024,4,1569.0
+Kelantan,2024,5,1629.0
+Kelantan,2024,6,1713.0
+Kelantan,2024,7,1766.0
+Kelantan,2024,8,1829.0
+Kelantan,2024,9,1928.0
+Kelantan,2024,10,2014.0
+Kelantan,2024,11,2071.0
+Kelantan,2024,12,2141.0
+Kelantan,2024,13,2193.0
+Kelantan,2024,14,2246.0
+Kelantan,2024,15,2311.0
+Kelantan,2024,16,2358.0
+Kelantan,2024,17,2396.0
+Kelantan,2024,18,2447.0
+Kelantan,2024,19,2508.0
+Kelantan,2024,20,2541.0
+Kelantan,2024,21,2585.0
+Kelantan,2024,22,2636.0
+Kelantan,2024,23,2675.0
+Kelantan,2024,24,2723.0
+Kelantan,2024,25,2770.0
+Kelantan,2024,26,2818.0
+Kelantan,2024,27,2866.0
+Kelantan,2024,28,2923.0
+Kelantan,2024,29,2967.0
+Kelantan,2024,30,3009.0
+Kelantan,2024,31,3053.0
+Kelantan,2024,32,3105.0
+Kelantan,2024,33,3146.0
+Kelantan,2024,34,3220.0
+Kelantan,2024,35,3279.0
+Kelantan,2024,36,3341.0
+Kelantan,2024,37,3376.0
+Kelantan,2024,38,3423.0
+Kelantan,2024,39,3468.0
+Kelantan,2024,40,3522.0
+Kelantan,2024,41,3573.0
+Kelantan,2024,42,3626.0
+Kelantan,2024,43,3666.0
+Kelantan,2024,44,3724.0
+Kelantan,2024,45,3761.0
+Kelantan,2024,46,3824.0
+Kelantan,2024,47,3890.0
+Kelantan,2024,48,3948.0
+Kelantan,2024,49,4017.0
+Kelantan,2024,50,4083.0
+Kelantan,2024,51,4140.0
+Kelantan,2024,52,4202.0
+Kelantan,2024,53,4261.0
+Kelantan,2024,54,4331.0
+Kelantan,2024,55,4400.0
+Kelantan,2024,56,4478.0
+Kelantan,2024,57,4544.0
+Kelantan,2024,58,4626.0
+Kelantan,2024,59,4691.0
+Kelantan,2024,60,4760.0
+Kelantan,2024,61,4853.0
+Kelantan,2024,62,4928.0
+Kelantan,2024,63,5016.0
+Kelantan,2024,64,5103.0
+Kelantan,2024,65,5187.0
+Kelantan,2024,66,5301.0
+Kelantan,2024,67,5383.0
+Kelantan,2024,68,5456.0
+Kelantan,2024,69,5539.0
+Kelantan,2024,70,5596.0
+Kelantan,2024,71,5697.0
+Kelantan,2024,72,5796.0
+Kelantan,2024,73,5885.0
+Kelantan,2024,74,6051.0
+Kelantan,2024,75,6265.0
+Kelantan,2024,76,6383.0
+Kelantan,2024,77,6497.0
+Kelantan,2024,78,6674.0
+Kelantan,2024,79,6834.0
+Kelantan,2024,80,7002.0
+Kelantan,2024,81,7240.0
+Kelantan,2024,82,7534.0
+Kelantan,2024,83,7761.0
+Kelantan,2024,84,7975.0
+Kelantan,2024,85,8296.0
+Kelantan,2024,86,8546.0
+Kelantan,2024,87,8940.0
+Kelantan,2024,88,9201.0
+Kelantan,2024,89,9574.0
+Kelantan,2024,90,9864.0
+Kelantan,2024,91,10336.0
+Kelantan,2024,92,10910.0
+Kelantan,2024,93,11457.0
+Kelantan,2024,94,12196.0
+Kelantan,2024,95,13045.0
+Kelantan,2024,96,14624.0
+Kelantan,2024,97,15831.0
+Kelantan,2024,98,17789.0
+Kelantan,2024,99,20624.0
+Melaka,2024,1,2757.0
+Melaka,2024,2,2864.0
+Melaka,2024,3,2919.0
+Melaka,2024,4,2982.0
+Melaka,2024,5,3043.0
+Melaka,2024,6,3131.0
+Melaka,2024,7,3199.0
+Melaka,2024,8,3276.0
+Melaka,2024,9,3363.0
+Melaka,2024,10,3449.0
+Melaka,2024,11,3512.0
+Melaka,2024,12,3628.0
+Melaka,2024,13,3720.0
+Melaka,2024,14,3834.0
+Melaka,2024,15,3935.0
+Melaka,2024,16,4003.0
+Melaka,2024,17,4085.0
+Melaka,2024,18,4142.0
+Melaka,2024,19,4218.0
+Melaka,2024,20,4299.0
+Melaka,2024,21,4399.0
+Melaka,2024,22,4474.0
+Melaka,2024,23,4553.0
+Melaka,2024,24,4640.0
+Melaka,2024,25,4737.0
+Melaka,2024,26,4795.0
+Melaka,2024,27,4873.0
+Melaka,2024,28,4961.0
+Melaka,2024,29,5046.0
+Melaka,2024,30,5104.0
+Melaka,2024,31,5244.0
+Melaka,2024,32,5319.0
+Melaka,2024,33,5419.0
+Melaka,2024,34,5502.0
+Melaka,2024,35,5562.0
+Melaka,2024,36,5664.0
+Melaka,2024,37,5759.0
+Melaka,2024,38,5815.0
+Melaka,2024,39,5863.0
+Melaka,2024,40,5916.0
+Melaka,2024,41,6003.0
+Melaka,2024,42,6067.0
+Melaka,2024,43,6199.0
+Melaka,2024,44,6308.0
+Melaka,2024,45,6391.0
+Melaka,2024,46,6504.0
+Melaka,2024,47,6614.0
+Melaka,2024,48,6746.0
+Melaka,2024,49,6814.0
+Melaka,2024,50,6891.0
+Melaka,2024,51,6999.0
+Melaka,2024,52,7168.0
+Melaka,2024,53,7258.0
+Melaka,2024,54,7402.0
+Melaka,2024,55,7527.0
+Melaka,2024,56,7635.0
+Melaka,2024,57,7762.0
+Melaka,2024,58,7860.0
+Melaka,2024,59,7960.0
+Melaka,2024,60,8093.0
+Melaka,2024,61,8221.0
+Melaka,2024,62,8370.0
+Melaka,2024,63,8526.0
+Melaka,2024,64,8663.0
+Melaka,2024,65,8787.0
+Melaka,2024,66,8990.0
+Melaka,2024,67,9126.0
+Melaka,2024,68,9196.0
+Melaka,2024,69,9384.0
+Melaka,2024,70,9541.0
+Melaka,2024,71,9775.0
+Melaka,2024,72,9955.0
+Melaka,2024,73,10127.0
+Melaka,2024,74,10288.0
+Melaka,2024,75,10425.0
+Melaka,2024,76,10703.0
+Melaka,2024,77,10885.0
+Melaka,2024,78,11111.0
+Melaka,2024,79,11374.0
+Melaka,2024,80,11562.0
+Melaka,2024,81,12107.0
+Melaka,2024,82,12554.0
+Melaka,2024,83,12726.0
+Melaka,2024,84,12892.0
+Melaka,2024,85,13241.0
+Melaka,2024,86,13461.0
+Melaka,2024,87,14096.0
+Melaka,2024,88,14572.0
+Melaka,2024,89,15083.0
+Melaka,2024,90,15319.0
+Melaka,2024,91,15839.0
+Melaka,2024,92,16485.0
+Melaka,2024,93,17774.0
+Melaka,2024,94,18434.0
+Melaka,2024,95,19225.0
+Melaka,2024,96,21118.0
+Melaka,2024,97,23233.0
+Melaka,2024,98,27172.0
+Melaka,2024,99,34835.0
+Negeri Sembilan,2024,1,1491.0
+Negeri Sembilan,2024,2,1703.0
+Negeri Sembilan,2024,3,1952.0
+Negeri Sembilan,2024,4,2070.0
+Negeri Sembilan,2024,5,2189.0
+Negeri Sembilan,2024,6,2288.0
+Negeri Sembilan,2024,7,2412.0
+Negeri Sembilan,2024,8,2490.0
+Negeri Sembilan,2024,9,2579.0
+Negeri Sembilan,2024,10,2666.0
+Negeri Sembilan,2024,11,2743.0
+Negeri Sembilan,2024,12,2826.0
+Negeri Sembilan,2024,13,2891.0
+Negeri Sembilan,2024,14,2943.0
+Negeri Sembilan,2024,15,3010.0
+Negeri Sembilan,2024,16,3057.0
+Negeri Sembilan,2024,17,3129.0
+Negeri Sembilan,2024,18,3183.0
+Negeri Sembilan,2024,19,3254.0
+Negeri Sembilan,2024,20,3315.0
+Negeri Sembilan,2024,21,3373.0
+Negeri Sembilan,2024,22,3445.0
+Negeri Sembilan,2024,23,3510.0
+Negeri Sembilan,2024,24,3572.0
+Negeri Sembilan,2024,25,3638.0
+Negeri Sembilan,2024,26,3714.0
+Negeri Sembilan,2024,27,3781.0
+Negeri Sembilan,2024,28,3862.0
+Negeri Sembilan,2024,29,3941.0
+Negeri Sembilan,2024,30,4018.0
+Negeri Sembilan,2024,31,4092.0
+Negeri Sembilan,2024,32,4147.0
+Negeri Sembilan,2024,33,4208.0
+Negeri Sembilan,2024,34,4273.0
+Negeri Sembilan,2024,35,4365.0
+Negeri Sembilan,2024,36,4424.0
+Negeri Sembilan,2024,37,4501.0
+Negeri Sembilan,2024,38,4565.0
+Negeri Sembilan,2024,39,4627.0
+Negeri Sembilan,2024,40,4692.0
+Negeri Sembilan,2024,41,4801.0
+Negeri Sembilan,2024,42,4890.0
+Negeri Sembilan,2024,43,5000.0
+Negeri Sembilan,2024,44,5083.0
+Negeri Sembilan,2024,45,5153.0
+Negeri Sembilan,2024,46,5229.0
+Negeri Sembilan,2024,47,5298.0
+Negeri Sembilan,2024,48,5411.0
+Negeri Sembilan,2024,49,5508.0
+Negeri Sembilan,2024,50,5591.0
+Negeri Sembilan,2024,51,5699.0
+Negeri Sembilan,2024,52,5775.0
+Negeri Sembilan,2024,53,5893.0
+Negeri Sembilan,2024,54,6022.0
+Negeri Sembilan,2024,55,6135.0
+Negeri Sembilan,2024,56,6240.0
+Negeri Sembilan,2024,57,6357.0
+Negeri Sembilan,2024,58,6431.0
+Negeri Sembilan,2024,59,6517.0
+Negeri Sembilan,2024,60,6598.0
+Negeri Sembilan,2024,61,6746.0
+Negeri Sembilan,2024,62,6870.0
+Negeri Sembilan,2024,63,6983.0
+Negeri Sembilan,2024,64,7145.0
+Negeri Sembilan,2024,65,7293.0
+Negeri Sembilan,2024,66,7382.0
+Negeri Sembilan,2024,67,7533.0
+Negeri Sembilan,2024,68,7671.0
+Negeri Sembilan,2024,69,7822.0
+Negeri Sembilan,2024,70,7981.0
+Negeri Sembilan,2024,71,8112.0
+Negeri Sembilan,2024,72,8240.0
+Negeri Sembilan,2024,73,8353.0
+Negeri Sembilan,2024,74,8479.0
+Negeri Sembilan,2024,75,8673.0
+Negeri Sembilan,2024,76,8868.0
+Negeri Sembilan,2024,77,9080.0
+Negeri Sembilan,2024,78,9304.0
+Negeri Sembilan,2024,79,9439.0
+Negeri Sembilan,2024,80,9978.0
+Negeri Sembilan,2024,81,10287.0
+Negeri Sembilan,2024,82,10548.0
+Negeri Sembilan,2024,83,10840.0
+Negeri Sembilan,2024,84,11017.0
+Negeri Sembilan,2024,85,11348.0
+Negeri Sembilan,2024,86,11993.0
+Negeri Sembilan,2024,87,12737.0
+Negeri Sembilan,2024,88,12992.0
+Negeri Sembilan,2024,89,13449.0
+Negeri Sembilan,2024,90,13669.0
+Negeri Sembilan,2024,91,14124.0
+Negeri Sembilan,2024,92,14503.0
+Negeri Sembilan,2024,93,15254.0
+Negeri Sembilan,2024,94,16309.0
+Negeri Sembilan,2024,95,17248.0
+Negeri Sembilan,2024,96,18896.0
+Negeri Sembilan,2024,97,21167.0
+Negeri Sembilan,2024,98,24173.0
+Negeri Sembilan,2024,99,31476.0
+Pahang,2024,1,1724.0
+Pahang,2024,2,1922.0
+Pahang,2024,3,2076.0
+Pahang,2024,4,2264.0
+Pahang,2024,5,2369.0
+Pahang,2024,6,2441.0
+Pahang,2024,7,2533.0
+Pahang,2024,8,2600.0
+Pahang,2024,9,2697.0
+Pahang,2024,10,2746.0
+Pahang,2024,11,2784.0
+Pahang,2024,12,2851.0
+Pahang,2024,13,2913.0
+Pahang,2024,14,2956.0
+Pahang,2024,15,3016.0
+Pahang,2024,16,3061.0
+Pahang,2024,17,3092.0
+Pahang,2024,18,3139.0
+Pahang,2024,19,3203.0
+Pahang,2024,20,3258.0
+Pahang,2024,21,3310.0
+Pahang,2024,22,3362.0
+Pahang,2024,23,3407.0
+Pahang,2024,24,3451.0
+Pahang,2024,25,3504.0
+Pahang,2024,26,3549.0
+Pahang,2024,27,3597.0
+Pahang,2024,28,3656.0
+Pahang,2024,29,3696.0
+Pahang,2024,30,3769.0
+Pahang,2024,31,3818.0
+Pahang,2024,32,3889.0
+Pahang,2024,33,3948.0
+Pahang,2024,34,3991.0
+Pahang,2024,35,4043.0
+Pahang,2024,36,4108.0
+Pahang,2024,37,4165.0
+Pahang,2024,38,4217.0
+Pahang,2024,39,4271.0
+Pahang,2024,40,4329.0
+Pahang,2024,41,4382.0
+Pahang,2024,42,4453.0
+Pahang,2024,43,4524.0
+Pahang,2024,44,4606.0
+Pahang,2024,45,4672.0
+Pahang,2024,46,4743.0
+Pahang,2024,47,4792.0
+Pahang,2024,48,4843.0
+Pahang,2024,49,4919.0
+Pahang,2024,50,4975.0
+Pahang,2024,51,5034.0
+Pahang,2024,52,5084.0
+Pahang,2024,53,5130.0
+Pahang,2024,54,5190.0
+Pahang,2024,55,5244.0
+Pahang,2024,56,5312.0
+Pahang,2024,57,5360.0
+Pahang,2024,58,5410.0
+Pahang,2024,59,5487.0
+Pahang,2024,60,5552.0
+Pahang,2024,61,5607.0
+Pahang,2024,62,5696.0
+Pahang,2024,63,5749.0
+Pahang,2024,64,5793.0
+Pahang,2024,65,5859.0
+Pahang,2024,66,5921.0
+Pahang,2024,67,6045.0
+Pahang,2024,68,6246.0
+Pahang,2024,69,6327.0
+Pahang,2024,70,6409.0
+Pahang,2024,71,6471.0
+Pahang,2024,72,6531.0
+Pahang,2024,73,6594.0
+Pahang,2024,74,6655.0
+Pahang,2024,75,6771.0
+Pahang,2024,76,6871.0
+Pahang,2024,77,6963.0
+Pahang,2024,78,7105.0
+Pahang,2024,79,7746.0
+Pahang,2024,80,8094.0
+Pahang,2024,81,8268.0
+Pahang,2024,82,8431.0
+Pahang,2024,83,8635.0
+Pahang,2024,84,8876.0
+Pahang,2024,85,9154.0
+Pahang,2024,86,9455.0
+Pahang,2024,87,9733.0
+Pahang,2024,88,10015.0
+Pahang,2024,89,10467.0
+Pahang,2024,90,10801.0
+Pahang,2024,91,11404.0
+Pahang,2024,92,11849.0
+Pahang,2024,93,12379.0
+Pahang,2024,94,13383.0
+Pahang,2024,95,14232.0
+Pahang,2024,96,15817.0
+Pahang,2024,97,17181.0
+Pahang,2024,98,19332.0
+Pahang,2024,99,21992.0
+Perak,2024,1,1429.0
+Perak,2024,2,1719.0
+Perak,2024,3,1867.0
+Perak,2024,4,2003.0
+Perak,2024,5,2065.0
+Perak,2024,6,2102.0
+Perak,2024,7,2146.0
+Perak,2024,8,2194.0
+Perak,2024,9,2245.0
+Perak,2024,10,2287.0
+Perak,2024,11,2341.0
+Perak,2024,12,2412.0
+Perak,2024,13,2473.0
+Perak,2024,14,2530.0
+Perak,2024,15,2574.0
+Perak,2024,16,2632.0
+Perak,2024,17,2685.0
+Perak,2024,18,2760.0
+Perak,2024,19,2824.0
+Perak,2024,20,2890.0
+Perak,2024,21,2944.0
+Perak,2024,22,3002.0
+Perak,2024,23,3066.0
+Perak,2024,24,3102.0
+Perak,2024,25,3146.0
+Perak,2024,26,3184.0
+Perak,2024,27,3226.0
+Perak,2024,28,3274.0
+Perak,2024,29,3331.0
+Perak,2024,30,3384.0
+Perak,2024,31,3438.0
+Perak,2024,32,3497.0
+Perak,2024,33,3550.0
+Perak,2024,34,3611.0
+Perak,2024,35,3664.0
+Perak,2024,36,3724.0
+Perak,2024,37,3782.0
+Perak,2024,38,3828.0
+Perak,2024,39,3898.0
+Perak,2024,40,3966.0
+Perak,2024,41,4040.0
+Perak,2024,42,4112.0
+Perak,2024,43,4178.0
+Perak,2024,44,4258.0
+Perak,2024,45,4329.0
+Perak,2024,46,4389.0
+Perak,2024,47,4450.0
+Perak,2024,48,4512.0
+Perak,2024,49,4607.0
+Perak,2024,50,4687.0
+Perak,2024,51,4771.0
+Perak,2024,52,4860.0
+Perak,2024,53,4988.0
+Perak,2024,54,5067.0
+Perak,2024,55,5154.0
+Perak,2024,56,5249.0
+Perak,2024,57,5346.0
+Perak,2024,58,5412.0
+Perak,2024,59,5503.0
+Perak,2024,60,5594.0
+Perak,2024,61,5706.0
+Perak,2024,62,5794.0
+Perak,2024,63,5876.0
+Perak,2024,64,5955.0
+Perak,2024,65,6041.0
+Perak,2024,66,6187.0
+Perak,2024,67,6318.0
+Perak,2024,68,6418.0
+Perak,2024,69,6508.0
+Perak,2024,70,6622.0
+Perak,2024,71,6723.0
+Perak,2024,72,6822.0
+Perak,2024,73,6920.0
+Perak,2024,74,7026.0
+Perak,2024,75,7275.0
+Perak,2024,76,7449.0
+Perak,2024,77,7660.0
+Perak,2024,78,7776.0
+Perak,2024,79,7932.0
+Perak,2024,80,8212.0
+Perak,2024,81,8545.0
+Perak,2024,82,8856.0
+Perak,2024,83,9087.0
+Perak,2024,84,9271.0
+Perak,2024,85,9549.0
+Perak,2024,86,9878.0
+Perak,2024,87,10201.0
+Perak,2024,88,10529.0
+Perak,2024,89,10950.0
+Perak,2024,90,11419.0
+Perak,2024,91,12067.0
+Perak,2024,92,12639.0
+Perak,2024,93,13238.0
+Perak,2024,94,14209.0
+Perak,2024,95,15387.0
+Perak,2024,96,16402.0
+Perak,2024,97,17693.0
+Perak,2024,98,20063.0
+Perak,2024,99,25613.0
+Perlis,2024,1,1296.0
+Perlis,2024,2,1419.0
+Perlis,2024,3,1617.0
+Perlis,2024,4,1690.0
+Perlis,2024,5,1886.0
+Perlis,2024,6,2057.0
+Perlis,2024,7,2115.0
+Perlis,2024,8,2191.0
+Perlis,2024,9,2297.0
+Perlis,2024,10,2406.0
+Perlis,2024,11,2471.0
+Perlis,2024,12,2542.0
+Perlis,2024,13,2653.0
+Perlis,2024,14,2714.0
+Perlis,2024,15,2760.0
+Perlis,2024,16,2809.0
+Perlis,2024,17,2886.0
+Perlis,2024,18,2947.0
+Perlis,2024,19,2993.0
+Perlis,2024,20,3026.0
+Perlis,2024,21,3095.0
+Perlis,2024,22,3129.0
+Perlis,2024,23,3176.0
+Perlis,2024,24,3229.0
+Perlis,2024,25,3274.0
+Perlis,2024,26,3367.0
+Perlis,2024,27,3461.0
+Perlis,2024,28,3496.0
+Perlis,2024,29,3565.0
+Perlis,2024,30,3634.0
+Perlis,2024,31,3662.0
+Perlis,2024,32,3709.0
+Perlis,2024,33,3757.0
+Perlis,2024,34,3849.0
+Perlis,2024,35,3917.0
+Perlis,2024,36,3962.0
+Perlis,2024,37,4065.0
+Perlis,2024,38,4168.0
+Perlis,2024,39,4211.0
+Perlis,2024,40,4273.0
+Perlis,2024,41,4340.0
+Perlis,2024,42,4393.0
+Perlis,2024,43,4460.0
+Perlis,2024,44,4539.0
+Perlis,2024,45,4598.0
+Perlis,2024,46,4720.0
+Perlis,2024,47,4779.0
+Perlis,2024,48,4848.0
+Perlis,2024,49,4902.0
+Perlis,2024,50,4950.0
+Perlis,2024,51,5022.0
+Perlis,2024,52,5140.0
+Perlis,2024,53,5189.0
+Perlis,2024,54,5247.0
+Perlis,2024,55,5319.0
+Perlis,2024,56,5349.0
+Perlis,2024,57,5404.0
+Perlis,2024,58,5493.0
+Perlis,2024,59,5602.0
+Perlis,2024,60,5660.0
+Perlis,2024,61,5756.0
+Perlis,2024,62,5837.0
+Perlis,2024,63,5880.0
+Perlis,2024,64,5944.0
+Perlis,2024,65,6023.0
+Perlis,2024,66,6189.0
+Perlis,2024,67,6392.0
+Perlis,2024,68,6483.0
+Perlis,2024,69,6586.0
+Perlis,2024,70,6673.0
+Perlis,2024,71,6814.0
+Perlis,2024,72,6934.0
+Perlis,2024,73,7024.0
+Perlis,2024,74,7074.0
+Perlis,2024,75,7297.0
+Perlis,2024,76,7360.0
+Perlis,2024,77,7591.0
+Perlis,2024,78,7748.0
+Perlis,2024,79,7882.0
+Perlis,2024,80,8007.0
+Perlis,2024,81,8085.0
+Perlis,2024,82,8323.0
+Perlis,2024,83,8651.0
+Perlis,2024,84,8979.0
+Perlis,2024,85,9120.0
+Perlis,2024,86,9220.0
+Perlis,2024,87,9504.0
+Perlis,2024,88,9846.0
+Perlis,2024,89,10127.0
+Perlis,2024,90,10702.0
+Perlis,2024,91,10915.0
+Perlis,2024,92,11884.0
+Perlis,2024,93,12222.0
+Perlis,2024,94,13260.0
+Perlis,2024,95,14452.0
+Perlis,2024,96,15223.0
+Perlis,2024,97,16181.0
+Perlis,2024,98,17783.0
+Perlis,2024,99,19745.0
+Pulau Pinang,2024,1,1649.0
+Pulau Pinang,2024,2,1915.0
+Pulau Pinang,2024,3,2073.0
+Pulau Pinang,2024,4,2269.0
+Pulau Pinang,2024,5,2440.0
+Pulau Pinang,2024,6,2608.0
+Pulau Pinang,2024,7,2754.0
+Pulau Pinang,2024,8,2918.0
+Pulau Pinang,2024,9,3062.0
+Pulau Pinang,2024,10,3190.0
+Pulau Pinang,2024,11,3303.0
+Pulau Pinang,2024,12,3415.0
+Pulau Pinang,2024,13,3507.0
+Pulau Pinang,2024,14,3608.0
+Pulau Pinang,2024,15,3694.0
+Pulau Pinang,2024,16,3804.0
+Pulau Pinang,2024,17,3926.0
+Pulau Pinang,2024,18,4017.0
+Pulau Pinang,2024,19,4138.0
+Pulau Pinang,2024,20,4232.0
+Pulau Pinang,2024,21,4324.0
+Pulau Pinang,2024,22,4408.0
+Pulau Pinang,2024,23,4515.0
+Pulau Pinang,2024,24,4597.0
+Pulau Pinang,2024,25,4709.0
+Pulau Pinang,2024,26,4817.0
+Pulau Pinang,2024,27,4914.0
+Pulau Pinang,2024,28,5007.0
+Pulau Pinang,2024,29,5105.0
+Pulau Pinang,2024,30,5220.0
+Pulau Pinang,2024,31,5329.0
+Pulau Pinang,2024,32,5430.0
+Pulau Pinang,2024,33,5516.0
+Pulau Pinang,2024,34,5645.0
+Pulau Pinang,2024,35,5768.0
+Pulau Pinang,2024,36,5896.0
+Pulau Pinang,2024,37,6033.0
+Pulau Pinang,2024,38,6133.0
+Pulau Pinang,2024,39,6233.0
+Pulau Pinang,2024,40,6367.0
+Pulau Pinang,2024,41,6461.0
+Pulau Pinang,2024,42,6543.0
+Pulau Pinang,2024,43,6660.0
+Pulau Pinang,2024,44,6764.0
+Pulau Pinang,2024,45,6844.0
+Pulau Pinang,2024,46,6945.0
+Pulau Pinang,2024,47,7022.0
+Pulau Pinang,2024,48,7125.0
+Pulau Pinang,2024,49,7255.0
+Pulau Pinang,2024,50,7386.0
+Pulau Pinang,2024,51,7518.0
+Pulau Pinang,2024,52,7641.0
+Pulau Pinang,2024,53,7749.0
+Pulau Pinang,2024,54,7857.0
+Pulau Pinang,2024,55,7993.0
+Pulau Pinang,2024,56,8139.0
+Pulau Pinang,2024,57,8288.0
+Pulau Pinang,2024,58,8400.0
+Pulau Pinang,2024,59,8524.0
+Pulau Pinang,2024,60,8672.0
+Pulau Pinang,2024,61,8832.0
+Pulau Pinang,2024,62,8953.0
+Pulau Pinang,2024,63,9112.0
+Pulau Pinang,2024,64,9261.0
+Pulau Pinang,2024,65,9440.0
+Pulau Pinang,2024,66,9584.0
+Pulau Pinang,2024,67,9752.0
+Pulau Pinang,2024,68,9904.0
+Pulau Pinang,2024,69,10111.0
+Pulau Pinang,2024,70,10290.0
+Pulau Pinang,2024,71,10492.0
+Pulau Pinang,2024,72,10644.0
+Pulau Pinang,2024,73,10819.0
+Pulau Pinang,2024,74,11015.0
+Pulau Pinang,2024,75,11229.0
+Pulau Pinang,2024,76,11449.0
+Pulau Pinang,2024,77,11724.0
+Pulau Pinang,2024,78,12079.0
+Pulau Pinang,2024,79,12429.0
+Pulau Pinang,2024,80,12676.0
+Pulau Pinang,2024,81,12884.0
+Pulau Pinang,2024,82,13134.0
+Pulau Pinang,2024,83,13389.0
+Pulau Pinang,2024,84,13745.0
+Pulau Pinang,2024,85,14014.0
+Pulau Pinang,2024,86,14325.0
+Pulau Pinang,2024,87,14777.0
+Pulau Pinang,2024,88,15258.0
+Pulau Pinang,2024,89,15897.0
+Pulau Pinang,2024,90,16471.0
+Pulau Pinang,2024,91,17151.0
+Pulau Pinang,2024,92,17797.0
+Pulau Pinang,2024,93,18488.0
+Pulau Pinang,2024,94,19532.0
+Pulau Pinang,2024,95,20759.0
+Pulau Pinang,2024,96,21696.0
+Pulau Pinang,2024,97,24015.0
+Pulau Pinang,2024,98,27235.0
+Pulau Pinang,2024,99,34270.0
+Sabah,2024,1,1224.0
+Sabah,2024,2,1413.0
+Sabah,2024,3,1535.0
+Sabah,2024,4,1652.0
+Sabah,2024,5,1764.0
+Sabah,2024,6,1875.0
+Sabah,2024,7,1956.0
+Sabah,2024,8,2045.0
+Sabah,2024,9,2119.0
+Sabah,2024,10,2186.0
+Sabah,2024,11,2258.0
+Sabah,2024,12,2317.0
+Sabah,2024,13,2389.0
+Sabah,2024,14,2454.0
+Sabah,2024,15,2512.0
+Sabah,2024,16,2565.0
+Sabah,2024,17,2618.0
+Sabah,2024,18,2677.0
+Sabah,2024,19,2728.0
+Sabah,2024,20,2787.0
+Sabah,2024,21,2845.0
+Sabah,2024,22,2894.0
+Sabah,2024,23,2953.0
+Sabah,2024,24,3017.0
+Sabah,2024,25,3087.0
+Sabah,2024,26,3150.0
+Sabah,2024,27,3214.0
+Sabah,2024,28,3291.0
+Sabah,2024,29,3356.0
+Sabah,2024,30,3419.0
+Sabah,2024,31,3476.0
+Sabah,2024,32,3554.0
+Sabah,2024,33,3644.0
+Sabah,2024,34,3713.0
+Sabah,2024,35,3783.0
+Sabah,2024,36,3846.0
+Sabah,2024,37,3911.0
+Sabah,2024,38,3989.0
+Sabah,2024,39,4054.0
+Sabah,2024,40,4123.0
+Sabah,2024,41,4187.0
+Sabah,2024,42,4249.0
+Sabah,2024,43,4331.0
+Sabah,2024,44,4403.0
+Sabah,2024,45,4482.0
+Sabah,2024,46,4549.0
+Sabah,2024,47,4640.0
+Sabah,2024,48,4727.0
+Sabah,2024,49,4818.0
+Sabah,2024,50,4890.0
+Sabah,2024,51,4961.0
+Sabah,2024,52,5025.0
+Sabah,2024,53,5113.0
+Sabah,2024,54,5184.0
+Sabah,2024,55,5265.0
+Sabah,2024,56,5345.0
+Sabah,2024,57,5430.0
+Sabah,2024,58,5520.0
+Sabah,2024,59,5603.0
+Sabah,2024,60,5696.0
+Sabah,2024,61,5787.0
+Sabah,2024,62,5885.0
+Sabah,2024,63,6005.0
+Sabah,2024,64,6265.0
+Sabah,2024,65,6391.0
+Sabah,2024,66,6514.0
+Sabah,2024,67,6612.0
+Sabah,2024,68,6748.0
+Sabah,2024,69,6844.0
+Sabah,2024,70,6955.0
+Sabah,2024,71,7039.0
+Sabah,2024,72,7330.0
+Sabah,2024,73,7517.0
+Sabah,2024,74,7718.0
+Sabah,2024,75,7898.0
+Sabah,2024,76,8053.0
+Sabah,2024,77,8474.0
+Sabah,2024,78,8697.0
+Sabah,2024,79,8898.0
+Sabah,2024,80,9162.0
+Sabah,2024,81,9365.0
+Sabah,2024,82,9690.0
+Sabah,2024,83,9987.0
+Sabah,2024,84,10313.0
+Sabah,2024,85,10691.0
+Sabah,2024,86,11049.0
+Sabah,2024,87,11415.0
+Sabah,2024,88,11837.0
+Sabah,2024,89,12303.0
+Sabah,2024,90,12721.0
+Sabah,2024,91,13292.0
+Sabah,2024,92,13872.0
+Sabah,2024,93,14545.0
+Sabah,2024,94,15320.0
+Sabah,2024,95,16115.0
+Sabah,2024,96,17197.0
+Sabah,2024,97,19442.0
+Sabah,2024,98,22048.0
+Sabah,2024,99,26820.0
+Sarawak,2024,1,1503.0
+Sarawak,2024,2,1699.0
+Sarawak,2024,3,1810.0
+Sarawak,2024,4,1899.0
+Sarawak,2024,5,2008.0
+Sarawak,2024,6,2109.0
+Sarawak,2024,7,2196.0
+Sarawak,2024,8,2271.0
+Sarawak,2024,9,2356.0
+Sarawak,2024,10,2427.0
+Sarawak,2024,11,2508.0
+Sarawak,2024,12,2579.0
+Sarawak,2024,13,2640.0
+Sarawak,2024,14,2725.0
+Sarawak,2024,15,2801.0
+Sarawak,2024,16,2891.0
+Sarawak,2024,17,2950.0
+Sarawak,2024,18,3029.0
+Sarawak,2024,19,3106.0
+Sarawak,2024,20,3168.0
+Sarawak,2024,21,3232.0
+Sarawak,2024,22,3297.0
+Sarawak,2024,23,3368.0
+Sarawak,2024,24,3440.0
+Sarawak,2024,25,3516.0
+Sarawak,2024,26,3595.0
+Sarawak,2024,27,3668.0
+Sarawak,2024,28,3748.0
+Sarawak,2024,29,3829.0
+Sarawak,2024,30,3899.0
+Sarawak,2024,31,3972.0
+Sarawak,2024,32,4060.0
+Sarawak,2024,33,4133.0
+Sarawak,2024,34,4203.0
+Sarawak,2024,35,4278.0
+Sarawak,2024,36,4346.0
+Sarawak,2024,37,4429.0
+Sarawak,2024,38,4511.0
+Sarawak,2024,39,4574.0
+Sarawak,2024,40,4668.0
+Sarawak,2024,41,4762.0
+Sarawak,2024,42,4857.0
+Sarawak,2024,43,4937.0
+Sarawak,2024,44,5021.0
+Sarawak,2024,45,5098.0
+Sarawak,2024,46,5176.0
+Sarawak,2024,47,5245.0
+Sarawak,2024,48,5328.0
+Sarawak,2024,49,5412.0
+Sarawak,2024,50,5504.0
+Sarawak,2024,51,5586.0
+Sarawak,2024,52,5685.0
+Sarawak,2024,53,5764.0
+Sarawak,2024,54,5873.0
+Sarawak,2024,55,5961.0
+Sarawak,2024,56,6068.0
+Sarawak,2024,57,6167.0
+Sarawak,2024,58,6289.0
+Sarawak,2024,59,6404.0
+Sarawak,2024,60,6526.0
+Sarawak,2024,61,6632.0
+Sarawak,2024,62,6759.0
+Sarawak,2024,63,6866.0
+Sarawak,2024,64,6976.0
+Sarawak,2024,65,7067.0
+Sarawak,2024,66,7215.0
+Sarawak,2024,67,7333.0
+Sarawak,2024,68,7497.0
+Sarawak,2024,69,7640.0
+Sarawak,2024,70,7795.0
+Sarawak,2024,71,7963.0
+Sarawak,2024,72,8124.0
+Sarawak,2024,73,8330.0
+Sarawak,2024,74,8494.0
+Sarawak,2024,75,8647.0
+Sarawak,2024,76,8806.0
+Sarawak,2024,77,9049.0
+Sarawak,2024,78,9235.0
+Sarawak,2024,79,9480.0
+Sarawak,2024,80,9709.0
+Sarawak,2024,81,9963.0
+Sarawak,2024,82,10189.0
+Sarawak,2024,83,10484.0
+Sarawak,2024,84,10814.0
+Sarawak,2024,85,11150.0
+Sarawak,2024,86,11403.0
+Sarawak,2024,87,11867.0
+Sarawak,2024,88,12366.0
+Sarawak,2024,89,12719.0
+Sarawak,2024,90,13159.0
+Sarawak,2024,91,13558.0
+Sarawak,2024,92,14101.0
+Sarawak,2024,93,14849.0
+Sarawak,2024,94,15539.0
+Sarawak,2024,95,16438.0
+Sarawak,2024,96,17744.0
+Sarawak,2024,97,19320.0
+Sarawak,2024,98,21615.0
+Sarawak,2024,99,26228.0
+Selangor,2024,1,3027.0
+Selangor,2024,2,3512.0
+Selangor,2024,3,3967.0
+Selangor,2024,4,4304.0
+Selangor,2024,5,4567.0
+Selangor,2024,6,4837.0
+Selangor,2024,7,5067.0
+Selangor,2024,8,5253.0
+Selangor,2024,9,5502.0
+Selangor,2024,10,5643.0
+Selangor,2024,11,5770.0
+Selangor,2024,12,5913.0
+Selangor,2024,13,6189.0
+Selangor,2024,14,6402.0
+Selangor,2024,15,6559.0
+Selangor,2024,16,6706.0
+Selangor,2024,17,6797.0
+Selangor,2024,18,6915.0
+Selangor,2024,19,7018.0
+Selangor,2024,20,7375.0
+Selangor,2024,21,7588.0
+Selangor,2024,22,7714.0
+Selangor,2024,23,7834.0
+Selangor,2024,24,7946.0
+Selangor,2024,25,8042.0
+Selangor,2024,26,8267.0
+Selangor,2024,27,8431.0
+Selangor,2024,28,8489.0
+Selangor,2024,29,8544.0
+Selangor,2024,30,8639.0
+Selangor,2024,31,8711.0
+Selangor,2024,32,8792.0
+Selangor,2024,33,8862.0
+Selangor,2024,34,8948.0
+Selangor,2024,35,9077.0
+Selangor,2024,36,9169.0
+Selangor,2024,37,9269.0
+Selangor,2024,38,9381.0
+Selangor,2024,39,9470.0
+Selangor,2024,40,9572.0
+Selangor,2024,41,9682.0
+Selangor,2024,42,9801.0
+Selangor,2024,43,9989.0
+Selangor,2024,44,10160.0
+Selangor,2024,45,10272.0
+Selangor,2024,46,10358.0
+Selangor,2024,47,10452.0
+Selangor,2024,48,10539.0
+Selangor,2024,49,10624.0
+Selangor,2024,50,10726.0
+Selangor,2024,51,10803.0
+Selangor,2024,52,10886.0
+Selangor,2024,53,10996.0
+Selangor,2024,54,11085.0
+Selangor,2024,55,11167.0
+Selangor,2024,56,11281.0
+Selangor,2024,57,11363.0
+Selangor,2024,58,11461.0
+Selangor,2024,59,11576.0
+Selangor,2024,60,11894.0
+Selangor,2024,61,12177.0
+Selangor,2024,62,12350.0
+Selangor,2024,63,12508.0
+Selangor,2024,64,12672.0
+Selangor,2024,65,12808.0
+Selangor,2024,66,12930.0
+Selangor,2024,67,13083.0
+Selangor,2024,68,13253.0
+Selangor,2024,69,13409.0
+Selangor,2024,70,13598.0
+Selangor,2024,71,13727.0
+Selangor,2024,72,13859.0
+Selangor,2024,73,14053.0
+Selangor,2024,74,14216.0
+Selangor,2024,75,14465.0
+Selangor,2024,76,14785.0
+Selangor,2024,77,15229.0
+Selangor,2024,78,15492.0
+Selangor,2024,79,15764.0
+Selangor,2024,80,16033.0
+Selangor,2024,81,16490.0
+Selangor,2024,82,16831.0
+Selangor,2024,83,17214.0
+Selangor,2024,84,17703.0
+Selangor,2024,85,18094.0
+Selangor,2024,86,18611.0
+Selangor,2024,87,19191.0
+Selangor,2024,88,19854.0
+Selangor,2024,89,20798.0
+Selangor,2024,90,21617.0
+Selangor,2024,91,22565.0
+Selangor,2024,92,23944.0
+Selangor,2024,93,25165.0
+Selangor,2024,94,26485.0
+Selangor,2024,95,28901.0
+Selangor,2024,96,32275.0
+Selangor,2024,97,37648.0
+Selangor,2024,98,43484.0
+Selangor,2024,99,63136.0
+Terengganu,2024,1,2014.0
+Terengganu,2024,2,2538.0
+Terengganu,2024,3,2686.0
+Terengganu,2024,4,2846.0
+Terengganu,2024,5,2971.0
+Terengganu,2024,6,3052.0
+Terengganu,2024,7,3126.0
+Terengganu,2024,8,3191.0
+Terengganu,2024,9,3280.0
+Terengganu,2024,10,3350.0
+Terengganu,2024,11,3427.0
+Terengganu,2024,12,3504.0
+Terengganu,2024,13,3573.0
+Terengganu,2024,14,3647.0
+Terengganu,2024,15,3713.0
+Terengganu,2024,16,3801.0
+Terengganu,2024,17,3886.0
+Terengganu,2024,18,3962.0
+Terengganu,2024,19,4046.0
+Terengganu,2024,20,4131.0
+Terengganu,2024,21,4228.0
+Terengganu,2024,22,4275.0
+Terengganu,2024,23,4380.0
+Terengganu,2024,24,4444.0
+Terengganu,2024,25,4521.0
+Terengganu,2024,26,4583.0
+Terengganu,2024,27,4673.0
+Terengganu,2024,28,4786.0
+Terengganu,2024,29,4865.0
+Terengganu,2024,30,4960.0
+Terengganu,2024,31,5028.0
+Terengganu,2024,32,5126.0
+Terengganu,2024,33,5200.0
+Terengganu,2024,34,5275.0
+Terengganu,2024,35,5375.0
+Terengganu,2024,36,5445.0
+Terengganu,2024,37,5574.0
+Terengganu,2024,38,5705.0
+Terengganu,2024,39,5807.0
+Terengganu,2024,40,5884.0
+Terengganu,2024,41,5980.0
+Terengganu,2024,42,6091.0
+Terengganu,2024,43,6152.0
+Terengganu,2024,44,6232.0
+Terengganu,2024,45,6305.0
+Terengganu,2024,46,6356.0
+Terengganu,2024,47,6423.0
+Terengganu,2024,48,6483.0
+Terengganu,2024,49,6554.0
+Terengganu,2024,50,6627.0
+Terengganu,2024,51,6721.0
+Terengganu,2024,52,6794.0
+Terengganu,2024,53,6870.0
+Terengganu,2024,54,6939.0
+Terengganu,2024,55,7008.0
+Terengganu,2024,56,7077.0
+Terengganu,2024,57,7154.0
+Terengganu,2024,58,7222.0
+Terengganu,2024,59,7294.0
+Terengganu,2024,60,7354.0
+Terengganu,2024,61,7437.0
+Terengganu,2024,62,7505.0
+Terengganu,2024,63,7618.0
+Terengganu,2024,64,7708.0
+Terengganu,2024,65,7804.0
+Terengganu,2024,66,7889.0
+Terengganu,2024,67,7985.0
+Terengganu,2024,68,8076.0
+Terengganu,2024,69,8231.0
+Terengganu,2024,70,8320.0
+Terengganu,2024,71,8443.0
+Terengganu,2024,72,8587.0
+Terengganu,2024,73,8763.0
+Terengganu,2024,74,8899.0
+Terengganu,2024,75,9022.0
+Terengganu,2024,76,9143.0
+Terengganu,2024,77,9302.0
+Terengganu,2024,78,9476.0
+Terengganu,2024,79,9633.0
+Terengganu,2024,80,9789.0
+Terengganu,2024,81,9965.0
+Terengganu,2024,82,10165.0
+Terengganu,2024,83,10440.0
+Terengganu,2024,84,10656.0
+Terengganu,2024,85,11015.0
+Terengganu,2024,86,11381.0
+Terengganu,2024,87,11867.0
+Terengganu,2024,88,12285.0
+Terengganu,2024,89,12966.0
+Terengganu,2024,90,13343.0
+Terengganu,2024,91,13622.0
+Terengganu,2024,92,14284.0
+Terengganu,2024,93,14884.0
+Terengganu,2024,94,16051.0
+Terengganu,2024,95,16960.0
+Terengganu,2024,96,17937.0
+Terengganu,2024,97,19734.0
+Terengganu,2024,98,21759.0
+Terengganu,2024,99,24301.0
+W.P. Kuala Lumpur,2024,1,2576.0
+W.P. Kuala Lumpur,2024,2,3157.0
+W.P. Kuala Lumpur,2024,3,3560.0
+W.P. Kuala Lumpur,2024,4,3783.0
+W.P. Kuala Lumpur,2024,5,3950.0
+W.P. Kuala Lumpur,2024,6,4140.0
+W.P. Kuala Lumpur,2024,7,4377.0
+W.P. Kuala Lumpur,2024,8,4627.0
+W.P. Kuala Lumpur,2024,9,4811.0
+W.P. Kuala Lumpur,2024,10,5096.0
+W.P. Kuala Lumpur,2024,11,5281.0
+W.P. Kuala Lumpur,2024,12,5443.0
+W.P. Kuala Lumpur,2024,13,5630.0
+W.P. Kuala Lumpur,2024,14,5748.0
+W.P. Kuala Lumpur,2024,15,5854.0
+W.P. Kuala Lumpur,2024,16,6134.0
+W.P. Kuala Lumpur,2024,17,6428.0
+W.P. Kuala Lumpur,2024,18,6571.0
+W.P. Kuala Lumpur,2024,19,6670.0
+W.P. Kuala Lumpur,2024,20,6750.0
+W.P. Kuala Lumpur,2024,21,6827.0
+W.P. Kuala Lumpur,2024,22,6910.0
+W.P. Kuala Lumpur,2024,23,6976.0
+W.P. Kuala Lumpur,2024,24,7034.0
+W.P. Kuala Lumpur,2024,25,7527.0
+W.P. Kuala Lumpur,2024,26,7649.0
+W.P. Kuala Lumpur,2024,27,7701.0
+W.P. Kuala Lumpur,2024,28,7792.0
+W.P. Kuala Lumpur,2024,29,7866.0
+W.P. Kuala Lumpur,2024,30,7949.0
+W.P. Kuala Lumpur,2024,31,8176.0
+W.P. Kuala Lumpur,2024,32,8537.0
+W.P. Kuala Lumpur,2024,33,8693.0
+W.P. Kuala Lumpur,2024,34,8850.0
+W.P. Kuala Lumpur,2024,35,8979.0
+W.P. Kuala Lumpur,2024,36,9101.0
+W.P. Kuala Lumpur,2024,37,9227.0
+W.P. Kuala Lumpur,2024,38,9347.0
+W.P. Kuala Lumpur,2024,39,9449.0
+W.P. Kuala Lumpur,2024,40,9632.0
+W.P. Kuala Lumpur,2024,41,9746.0
+W.P. Kuala Lumpur,2024,42,9863.0
+W.P. Kuala Lumpur,2024,43,9998.0
+W.P. Kuala Lumpur,2024,44,10129.0
+W.P. Kuala Lumpur,2024,45,10242.0
+W.P. Kuala Lumpur,2024,46,10349.0
+W.P. Kuala Lumpur,2024,47,10470.0
+W.P. Kuala Lumpur,2024,48,10583.0
+W.P. Kuala Lumpur,2024,49,10678.0
+W.P. Kuala Lumpur,2024,50,10802.0
+W.P. Kuala Lumpur,2024,51,10922.0
+W.P. Kuala Lumpur,2024,52,11066.0
+W.P. Kuala Lumpur,2024,53,11198.0
+W.P. Kuala Lumpur,2024,54,11417.0
+W.P. Kuala Lumpur,2024,55,11557.0
+W.P. Kuala Lumpur,2024,56,11718.0
+W.P. Kuala Lumpur,2024,57,11887.0
+W.P. Kuala Lumpur,2024,58,12055.0
+W.P. Kuala Lumpur,2024,59,12160.0
+W.P. Kuala Lumpur,2024,60,12285.0
+W.P. Kuala Lumpur,2024,61,12389.0
+W.P. Kuala Lumpur,2024,62,12542.0
+W.P. Kuala Lumpur,2024,63,12652.0
+W.P. Kuala Lumpur,2024,64,12783.0
+W.P. Kuala Lumpur,2024,65,13065.0
+W.P. Kuala Lumpur,2024,66,13485.0
+W.P. Kuala Lumpur,2024,67,13694.0
+W.P. Kuala Lumpur,2024,68,14035.0
+W.P. Kuala Lumpur,2024,69,14255.0
+W.P. Kuala Lumpur,2024,70,14548.0
+W.P. Kuala Lumpur,2024,71,14697.0
+W.P. Kuala Lumpur,2024,72,14887.0
+W.P. Kuala Lumpur,2024,73,15086.0
+W.P. Kuala Lumpur,2024,74,15338.0
+W.P. Kuala Lumpur,2024,75,15564.0
+W.P. Kuala Lumpur,2024,76,15758.0
+W.P. Kuala Lumpur,2024,77,15947.0
+W.P. Kuala Lumpur,2024,78,16379.0
+W.P. Kuala Lumpur,2024,79,16632.0
+W.P. Kuala Lumpur,2024,80,17028.0
+W.P. Kuala Lumpur,2024,81,17403.0
+W.P. Kuala Lumpur,2024,82,17742.0
+W.P. Kuala Lumpur,2024,83,18327.0
+W.P. Kuala Lumpur,2024,84,18822.0
+W.P. Kuala Lumpur,2024,85,19480.0
+W.P. Kuala Lumpur,2024,86,20156.0
+W.P. Kuala Lumpur,2024,87,20983.0
+W.P. Kuala Lumpur,2024,88,21870.0
+W.P. Kuala Lumpur,2024,89,22811.0
+W.P. Kuala Lumpur,2024,90,24191.0
+W.P. Kuala Lumpur,2024,91,25516.0
+W.P. Kuala Lumpur,2024,92,26487.0
+W.P. Kuala Lumpur,2024,93,27477.0
+W.P. Kuala Lumpur,2024,94,30050.0
+W.P. Kuala Lumpur,2024,95,31773.0
+W.P. Kuala Lumpur,2024,96,35055.0
+W.P. Kuala Lumpur,2024,97,38677.0
+W.P. Kuala Lumpur,2024,98,48520.0
+W.P. Kuala Lumpur,2024,99,59878.0
+W.P. Labuan,2024,1,1532.0
+W.P. Labuan,2024,2,1913.0
+W.P. Labuan,2024,3,2128.0
+W.P. Labuan,2024,4,2288.0
+W.P. Labuan,2024,5,2504.0
+W.P. Labuan,2024,6,2583.0
+W.P. Labuan,2024,7,2734.0
+W.P. Labuan,2024,8,2882.0
+W.P. Labuan,2024,9,3086.0
+W.P. Labuan,2024,10,3306.0
+W.P. Labuan,2024,11,3433.0
+W.P. Labuan,2024,12,3604.0
+W.P. Labuan,2024,13,3674.0
+W.P. Labuan,2024,14,3801.0
+W.P. Labuan,2024,15,3890.0
+W.P. Labuan,2024,16,3920.0
+W.P. Labuan,2024,17,4032.0
+W.P. Labuan,2024,18,4101.0
+W.P. Labuan,2024,19,4242.0
+W.P. Labuan,2024,20,4408.0
+W.P. Labuan,2024,21,4469.0
+W.P. Labuan,2024,22,4599.0
+W.P. Labuan,2024,23,4696.0
+W.P. Labuan,2024,24,4781.0
+W.P. Labuan,2024,25,4844.0
+W.P. Labuan,2024,26,4909.0
+W.P. Labuan,2024,27,5006.0
+W.P. Labuan,2024,28,5050.0
+W.P. Labuan,2024,29,5150.0
+W.P. Labuan,2024,30,5231.0
+W.P. Labuan,2024,31,5367.0
+W.P. Labuan,2024,32,5422.0
+W.P. Labuan,2024,33,5541.0
+W.P. Labuan,2024,34,5657.0
+W.P. Labuan,2024,35,5714.0
+W.P. Labuan,2024,36,5886.0
+W.P. Labuan,2024,37,6080.0
+W.P. Labuan,2024,38,6102.0
+W.P. Labuan,2024,39,6203.0
+W.P. Labuan,2024,40,6313.0
+W.P. Labuan,2024,41,6393.0
+W.P. Labuan,2024,42,6522.0
+W.P. Labuan,2024,43,6612.0
+W.P. Labuan,2024,44,6749.0
+W.P. Labuan,2024,45,6926.0
+W.P. Labuan,2024,46,7063.0
+W.P. Labuan,2024,47,7252.0
+W.P. Labuan,2024,48,7289.0
+W.P. Labuan,2024,49,7324.0
+W.P. Labuan,2024,50,7383.0
+W.P. Labuan,2024,51,7471.0
+W.P. Labuan,2024,52,7538.0
+W.P. Labuan,2024,53,7621.0
+W.P. Labuan,2024,54,7675.0
+W.P. Labuan,2024,55,7735.0
+W.P. Labuan,2024,56,7835.0
+W.P. Labuan,2024,57,7866.0
+W.P. Labuan,2024,58,7908.0
+W.P. Labuan,2024,59,7948.0
+W.P. Labuan,2024,60,8019.0
+W.P. Labuan,2024,61,8363.0
+W.P. Labuan,2024,62,8585.0
+W.P. Labuan,2024,63,8831.0
+W.P. Labuan,2024,64,9024.0
+W.P. Labuan,2024,65,9157.0
+W.P. Labuan,2024,66,9380.0
+W.P. Labuan,2024,67,9529.0
+W.P. Labuan,2024,68,9567.0
+W.P. Labuan,2024,69,9666.0
+W.P. Labuan,2024,70,9765.0
+W.P. Labuan,2024,71,9971.0
+W.P. Labuan,2024,72,10301.0
+W.P. Labuan,2024,73,10414.0
+W.P. Labuan,2024,74,10655.0
+W.P. Labuan,2024,75,10800.0
+W.P. Labuan,2024,76,10923.0
+W.P. Labuan,2024,77,11061.0
+W.P. Labuan,2024,78,11342.0
+W.P. Labuan,2024,79,11524.0
+W.P. Labuan,2024,80,11628.0
+W.P. Labuan,2024,81,11880.0
+W.P. Labuan,2024,82,11943.0
+W.P. Labuan,2024,83,12137.0
+W.P. Labuan,2024,84,12589.0
+W.P. Labuan,2024,85,13315.0
+W.P. Labuan,2024,86,13510.0
+W.P. Labuan,2024,87,13748.0
+W.P. Labuan,2024,88,13997.0
+W.P. Labuan,2024,89,14399.0
+W.P. Labuan,2024,90,14758.0
+W.P. Labuan,2024,91,15077.0
+W.P. Labuan,2024,92,15948.0
+W.P. Labuan,2024,93,16712.0
+W.P. Labuan,2024,94,17256.0
+W.P. Labuan,2024,95,17923.0
+W.P. Labuan,2024,96,18877.0
+W.P. Labuan,2024,97,19880.0
+W.P. Labuan,2024,98,22718.0
+W.P. Labuan,2024,99,29499.0
+W.P. Putrajaya,2024,1,3842.0
+W.P. Putrajaya,2024,2,4198.0
+W.P. Putrajaya,2024,3,4352.0
+W.P. Putrajaya,2024,4,4536.0
+W.P. Putrajaya,2024,5,4693.0
+W.P. Putrajaya,2024,6,4837.0
+W.P. Putrajaya,2024,7,4905.0
+W.P. Putrajaya,2024,8,5091.0
+W.P. Putrajaya,2024,9,5165.0
+W.P. Putrajaya,2024,10,5249.0
+W.P. Putrajaya,2024,11,5408.0
+W.P. Putrajaya,2024,12,5598.0
+W.P. Putrajaya,2024,13,5826.0
+W.P. Putrajaya,2024,14,5858.0
+W.P. Putrajaya,2024,15,5973.0
+W.P. Putrajaya,2024,16,6273.0
+W.P. Putrajaya,2024,17,6466.0
+W.P. Putrajaya,2024,18,6575.0
+W.P. Putrajaya,2024,19,6736.0
+W.P. Putrajaya,2024,20,6822.0
+W.P. Putrajaya,2024,21,6907.0
+W.P. Putrajaya,2024,22,7197.0
+W.P. Putrajaya,2024,23,7281.0
+W.P. Putrajaya,2024,24,7538.0
+W.P. Putrajaya,2024,25,7673.0
+W.P. Putrajaya,2024,26,7819.0
+W.P. Putrajaya,2024,27,7984.0
+W.P. Putrajaya,2024,28,8062.0
+W.P. Putrajaya,2024,29,8311.0
+W.P. Putrajaya,2024,30,8491.0
+W.P. Putrajaya,2024,31,8706.0
+W.P. Putrajaya,2024,32,8834.0
+W.P. Putrajaya,2024,33,8918.0
+W.P. Putrajaya,2024,34,8985.0
+W.P. Putrajaya,2024,35,9084.0
+W.P. Putrajaya,2024,36,9178.0
+W.P. Putrajaya,2024,37,9317.0
+W.P. Putrajaya,2024,38,9407.0
+W.P. Putrajaya,2024,39,9516.0
+W.P. Putrajaya,2024,40,9624.0
+W.P. Putrajaya,2024,41,9786.0
+W.P. Putrajaya,2024,42,9954.0
+W.P. Putrajaya,2024,43,10032.0
+W.P. Putrajaya,2024,44,10239.0
+W.P. Putrajaya,2024,45,10424.0
+W.P. Putrajaya,2024,46,10515.0
+W.P. Putrajaya,2024,47,10609.0
+W.P. Putrajaya,2024,48,10645.0
+W.P. Putrajaya,2024,49,10683.0
+W.P. Putrajaya,2024,50,10769.0
+W.P. Putrajaya,2024,51,10885.0
+W.P. Putrajaya,2024,52,11387.0
+W.P. Putrajaya,2024,53,11559.0
+W.P. Putrajaya,2024,54,11694.0
+W.P. Putrajaya,2024,55,11848.0
+W.P. Putrajaya,2024,56,11971.0
+W.P. Putrajaya,2024,57,12120.0
+W.P. Putrajaya,2024,58,13399.0
+W.P. Putrajaya,2024,59,13636.0
+W.P. Putrajaya,2024,60,13846.0
+W.P. Putrajaya,2024,61,14142.0
+W.P. Putrajaya,2024,62,14757.0
+W.P. Putrajaya,2024,63,15051.0
+W.P. Putrajaya,2024,64,15188.0
+W.P. Putrajaya,2024,65,15315.0
+W.P. Putrajaya,2024,66,15603.0
+W.P. Putrajaya,2024,67,15946.0
+W.P. Putrajaya,2024,68,16381.0
+W.P. Putrajaya,2024,69,16915.0
+W.P. Putrajaya,2024,70,17164.0
+W.P. Putrajaya,2024,71,17591.0
+W.P. Putrajaya,2024,72,18097.0
+W.P. Putrajaya,2024,73,18249.0
+W.P. Putrajaya,2024,74,18320.0
+W.P. Putrajaya,2024,75,18405.0
+W.P. Putrajaya,2024,76,18445.0
+W.P. Putrajaya,2024,77,18540.0
+W.P. Putrajaya,2024,78,18609.0
+W.P. Putrajaya,2024,79,18898.0
+W.P. Putrajaya,2024,80,19021.0
+W.P. Putrajaya,2024,81,19582.0
+W.P. Putrajaya,2024,82,20183.0
+W.P. Putrajaya,2024,83,20695.0
+W.P. Putrajaya,2024,84,21078.0
+W.P. Putrajaya,2024,85,21570.0
+W.P. Putrajaya,2024,86,22468.0
+W.P. Putrajaya,2024,87,22991.0
+W.P. Putrajaya,2024,88,23457.0
+W.P. Putrajaya,2024,89,24238.0
+W.P. Putrajaya,2024,90,24661.0
+W.P. Putrajaya,2024,91,25897.0
+W.P. Putrajaya,2024,92,26655.0
+W.P. Putrajaya,2024,93,27145.0
+W.P. Putrajaya,2024,94,28151.0
+W.P. Putrajaya,2024,95,30018.0
+W.P. Putrajaya,2024,96,33203.0
+W.P. Putrajaya,2024,97,34469.0
+W.P. Putrajaya,2024,98,40314.0
+W.P. Putrajaya,2024,99,45619.0
+Johor,2022,1,1343.0
+Johor,2022,2,1650.0
+Johor,2022,3,1843.0
+Johor,2022,4,2031.0
+Johor,2022,5,2183.0
+Johor,2022,6,2321.0
+Johor,2022,7,2441.0
+Johor,2022,8,2575.0
+Johor,2022,9,2684.0
+Johor,2022,10,2796.0
+Johor,2022,11,2915.0
+Johor,2022,12,3015.0
+Johor,2022,13,3127.0
+Johor,2022,14,3227.0
+Johor,2022,15,3326.0
+Johor,2022,16,3446.0
+Johor,2022,17,3544.0
+Johor,2022,18,3654.0
+Johor,2022,19,3758.0
+Johor,2022,20,3843.0
+Johor,2022,21,3956.0
+Johor,2022,22,4055.0
+Johor,2022,23,4155.0
+Johor,2022,24,4240.0
+Johor,2022,25,4337.0
+Johor,2022,26,4430.0
+Johor,2022,27,4527.0
+Johor,2022,28,4616.0
+Johor,2022,29,4698.0
+Johor,2022,30,4770.0
+Johor,2022,31,4867.0
+Johor,2022,32,4943.0
+Johor,2022,33,5035.0
+Johor,2022,34,5135.0
+Johor,2022,35,5241.0
+Johor,2022,36,5337.0
+Johor,2022,37,5438.0
+Johor,2022,38,5557.0
+Johor,2022,39,5636.0
+Johor,2022,40,5735.0
+Johor,2022,41,5836.0
+Johor,2022,42,5971.0
+Johor,2022,43,6101.0
+Johor,2022,44,6209.0
+Johor,2022,45,6308.0
+Johor,2022,46,6398.0
+Johor,2022,47,6513.0
+Johor,2022,48,6655.0
+Johor,2022,49,6771.0
+Johor,2022,50,6879.0
+Johor,2022,51,7004.0
+Johor,2022,52,7109.0
+Johor,2022,53,7220.0
+Johor,2022,54,7343.0
+Johor,2022,55,7482.0
+Johor,2022,56,7647.0
+Johor,2022,57,7790.0
+Johor,2022,58,7954.0
+Johor,2022,59,8081.0
+Johor,2022,60,8232.0
+Johor,2022,61,8379.0
+Johor,2022,62,8531.0
+Johor,2022,63,8645.0
+Johor,2022,64,8778.0
+Johor,2022,65,8918.0
+Johor,2022,66,9045.0
+Johor,2022,67,9191.0
+Johor,2022,68,9372.0
+Johor,2022,69,9561.0
+Johor,2022,70,9735.0
+Johor,2022,71,9925.0
+Johor,2022,72,10107.0
+Johor,2022,73,10295.0
+Johor,2022,74,10487.0
+Johor,2022,75,10680.0
+Johor,2022,76,10896.0
+Johor,2022,77,11116.0
+Johor,2022,78,11393.0
+Johor,2022,79,11654.0
+Johor,2022,80,11923.0
+Johor,2022,81,12187.0
+Johor,2022,82,12467.0
+Johor,2022,83,12765.0
+Johor,2022,84,13079.0
+Johor,2022,85,13383.0
+Johor,2022,86,13663.0
+Johor,2022,87,14047.0
+Johor,2022,88,14455.0
+Johor,2022,89,14924.0
+Johor,2022,90,15404.0
+Johor,2022,91,15919.0
+Johor,2022,92,16651.0
+Johor,2022,93,17368.0
+Johor,2022,94,18391.0
+Johor,2022,95,19668.0
+Johor,2022,96,21017.0
+Johor,2022,97,23162.0
+Johor,2022,98,25919.0
+Johor,2022,99,33617.0
+Kedah,2022,1,1051.0
+Kedah,2022,2,1237.0
+Kedah,2022,3,1383.0
+Kedah,2022,4,1521.0
+Kedah,2022,5,1642.0
+Kedah,2022,6,1728.0
+Kedah,2022,7,1821.0
+Kedah,2022,8,1928.0
+Kedah,2022,9,1983.0
+Kedah,2022,10,2082.0
+Kedah,2022,11,2136.0
+Kedah,2022,12,2206.0
+Kedah,2022,13,2270.0
+Kedah,2022,14,2339.0
+Kedah,2022,15,2405.0
+Kedah,2022,16,2465.0
+Kedah,2022,17,2519.0
+Kedah,2022,18,2554.0
+Kedah,2022,19,2600.0
+Kedah,2022,20,2666.0
+Kedah,2022,21,2708.0
+Kedah,2022,22,2748.0
+Kedah,2022,23,2799.0
+Kedah,2022,24,2841.0
+Kedah,2022,25,2907.0
+Kedah,2022,26,2953.0
+Kedah,2022,27,3004.0
+Kedah,2022,28,3050.0
+Kedah,2022,29,3101.0
+Kedah,2022,30,3165.0
+Kedah,2022,31,3219.0
+Kedah,2022,32,3268.0
+Kedah,2022,33,3328.0
+Kedah,2022,34,3385.0
+Kedah,2022,35,3451.0
+Kedah,2022,36,3513.0
+Kedah,2022,37,3568.0
+Kedah,2022,38,3630.0
+Kedah,2022,39,3690.0
+Kedah,2022,40,3754.0
+Kedah,2022,41,3804.0
+Kedah,2022,42,3869.0
+Kedah,2022,43,3927.0
+Kedah,2022,44,4008.0
+Kedah,2022,45,4065.0
+Kedah,2022,46,4125.0
+Kedah,2022,47,4196.0
+Kedah,2022,48,4268.0
+Kedah,2022,49,4339.0
+Kedah,2022,50,4402.0
+Kedah,2022,51,4458.0
+Kedah,2022,52,4536.0
+Kedah,2022,53,4610.0
+Kedah,2022,54,4684.0
+Kedah,2022,55,4755.0
+Kedah,2022,56,4825.0
+Kedah,2022,57,4907.0
+Kedah,2022,58,4980.0
+Kedah,2022,59,5078.0
+Kedah,2022,60,5136.0
+Kedah,2022,61,5229.0
+Kedah,2022,62,5316.0
+Kedah,2022,63,5407.0
+Kedah,2022,64,5474.0
+Kedah,2022,65,5579.0
+Kedah,2022,66,5674.0
+Kedah,2022,67,5779.0
+Kedah,2022,68,5873.0
+Kedah,2022,69,5956.0
+Kedah,2022,70,6053.0
+Kedah,2022,71,6169.0
+Kedah,2022,72,6294.0
+Kedah,2022,73,6423.0
+Kedah,2022,74,6550.0
+Kedah,2022,75,6672.0
+Kedah,2022,76,6804.0
+Kedah,2022,77,6950.0
+Kedah,2022,78,7098.0
+Kedah,2022,79,7261.0
+Kedah,2022,80,7429.0
+Kedah,2022,81,7653.0
+Kedah,2022,82,7843.0
+Kedah,2022,83,8038.0
+Kedah,2022,84,8245.0
+Kedah,2022,85,8472.0
+Kedah,2022,86,8674.0
+Kedah,2022,87,9004.0
+Kedah,2022,88,9313.0
+Kedah,2022,89,9658.0
+Kedah,2022,90,10051.0
+Kedah,2022,91,10468.0
+Kedah,2022,92,10992.0
+Kedah,2022,93,11453.0
+Kedah,2022,94,12158.0
+Kedah,2022,95,12987.0
+Kedah,2022,96,14270.0
+Kedah,2022,97,15371.0
+Kedah,2022,98,17984.0
+Kedah,2022,99,22378.0
+Kelantan,2022,1,1145.0
+Kelantan,2022,2,1230.0
+Kelantan,2022,3,1275.0
+Kelantan,2022,4,1342.0
+Kelantan,2022,5,1396.0
+Kelantan,2022,6,1471.0
+Kelantan,2022,7,1533.0
+Kelantan,2022,8,1600.0
+Kelantan,2022,9,1649.0
+Kelantan,2022,10,1692.0
+Kelantan,2022,11,1745.0
+Kelantan,2022,12,1800.0
+Kelantan,2022,13,1848.0
+Kelantan,2022,14,1907.0
+Kelantan,2022,15,1955.0
+Kelantan,2022,16,2008.0
+Kelantan,2022,17,2067.0
+Kelantan,2022,18,2113.0
+Kelantan,2022,19,2153.0
+Kelantan,2022,20,2190.0
+Kelantan,2022,21,2230.0
+Kelantan,2022,22,2278.0
+Kelantan,2022,23,2317.0
+Kelantan,2022,24,2366.0
+Kelantan,2022,25,2408.0
+Kelantan,2022,26,2446.0
+Kelantan,2022,27,2491.0
+Kelantan,2022,28,2531.0
+Kelantan,2022,29,2581.0
+Kelantan,2022,30,2629.0
+Kelantan,2022,31,2665.0
+Kelantan,2022,32,2712.0
+Kelantan,2022,33,2744.0
+Kelantan,2022,34,2788.0
+Kelantan,2022,35,2831.0
+Kelantan,2022,36,2875.0
+Kelantan,2022,37,2931.0
+Kelantan,2022,38,2976.0
+Kelantan,2022,39,3016.0
+Kelantan,2022,40,3062.0
+Kelantan,2022,41,3114.0
+Kelantan,2022,42,3167.0
+Kelantan,2022,43,3217.0
+Kelantan,2022,44,3267.0
+Kelantan,2022,45,3325.0
+Kelantan,2022,46,3367.0
+Kelantan,2022,47,3436.0
+Kelantan,2022,48,3503.0
+Kelantan,2022,49,3558.0
+Kelantan,2022,50,3614.0
+Kelantan,2022,51,3672.0
+Kelantan,2022,52,3724.0
+Kelantan,2022,53,3801.0
+Kelantan,2022,54,3880.0
+Kelantan,2022,55,3929.0
+Kelantan,2022,56,4007.0
+Kelantan,2022,57,4068.0
+Kelantan,2022,58,4139.0
+Kelantan,2022,59,4206.0
+Kelantan,2022,60,4279.0
+Kelantan,2022,61,4342.0
+Kelantan,2022,62,4418.0
+Kelantan,2022,63,4487.0
+Kelantan,2022,64,4562.0
+Kelantan,2022,65,4652.0
+Kelantan,2022,66,4729.0
+Kelantan,2022,67,4830.0
+Kelantan,2022,68,4925.0
+Kelantan,2022,69,5010.0
+Kelantan,2022,70,5120.0
+Kelantan,2022,71,5237.0
+Kelantan,2022,72,5343.0
+Kelantan,2022,73,5483.0
+Kelantan,2022,74,5586.0
+Kelantan,2022,75,5724.0
+Kelantan,2022,76,5851.0
+Kelantan,2022,77,6002.0
+Kelantan,2022,78,6171.0
+Kelantan,2022,79,6318.0
+Kelantan,2022,80,6469.0
+Kelantan,2022,81,6680.0
+Kelantan,2022,82,6937.0
+Kelantan,2022,83,7203.0
+Kelantan,2022,84,7443.0
+Kelantan,2022,85,7756.0
+Kelantan,2022,86,8001.0
+Kelantan,2022,87,8339.0
+Kelantan,2022,88,8695.0
+Kelantan,2022,89,9101.0
+Kelantan,2022,90,9449.0
+Kelantan,2022,91,9922.0
+Kelantan,2022,92,10383.0
+Kelantan,2022,93,11227.0
+Kelantan,2022,94,12075.0
+Kelantan,2022,95,13076.0
+Kelantan,2022,96,14534.0
+Kelantan,2022,97,15864.0
+Kelantan,2022,98,18299.0
+Kelantan,2022,99,21245.0
+Melaka,2022,1,1673.0
+Melaka,2022,2,2040.0
+Melaka,2022,3,2245.0
+Melaka,2022,4,2388.0
+Melaka,2022,5,2443.0
+Melaka,2022,6,2512.0
+Melaka,2022,7,2588.0
+Melaka,2022,8,2653.0
+Melaka,2022,9,2715.0
+Melaka,2022,10,2820.0
+Melaka,2022,11,2921.0
+Melaka,2022,12,3036.0
+Melaka,2022,13,3100.0
+Melaka,2022,14,3170.0
+Melaka,2022,15,3233.0
+Melaka,2022,16,3328.0
+Melaka,2022,17,3382.0
+Melaka,2022,18,3488.0
+Melaka,2022,19,3574.0
+Melaka,2022,20,3692.0
+Melaka,2022,21,3754.0
+Melaka,2022,22,3820.0
+Melaka,2022,23,3872.0
+Melaka,2022,24,3967.0
+Melaka,2022,25,4019.0
+Melaka,2022,26,4099.0
+Melaka,2022,27,4178.0
+Melaka,2022,28,4250.0
+Melaka,2022,29,4337.0
+Melaka,2022,30,4412.0
+Melaka,2022,31,4483.0
+Melaka,2022,32,4576.0
+Melaka,2022,33,4675.0
+Melaka,2022,34,4754.0
+Melaka,2022,35,4819.0
+Melaka,2022,36,4897.0
+Melaka,2022,37,4976.0
+Melaka,2022,38,5032.0
+Melaka,2022,39,5125.0
+Melaka,2022,40,5216.0
+Melaka,2022,41,5321.0
+Melaka,2022,42,5394.0
+Melaka,2022,43,5515.0
+Melaka,2022,44,5611.0
+Melaka,2022,45,5702.0
+Melaka,2022,46,5816.0
+Melaka,2022,47,5918.0
+Melaka,2022,48,5990.0
+Melaka,2022,49,6105.0
+Melaka,2022,50,6210.0
+Melaka,2022,51,6298.0
+Melaka,2022,52,6392.0
+Melaka,2022,53,6555.0
+Melaka,2022,54,6644.0
+Melaka,2022,55,6780.0
+Melaka,2022,56,6855.0
+Melaka,2022,57,6994.0
+Melaka,2022,58,7171.0
+Melaka,2022,59,7286.0
+Melaka,2022,60,7422.0
+Melaka,2022,61,7587.0
+Melaka,2022,62,7701.0
+Melaka,2022,63,7853.0
+Melaka,2022,64,7988.0
+Melaka,2022,65,8180.0
+Melaka,2022,66,8314.0
+Melaka,2022,67,8494.0
+Melaka,2022,68,8662.0
+Melaka,2022,69,8864.0
+Melaka,2022,70,9028.0
+Melaka,2022,71,9161.0
+Melaka,2022,72,9350.0
+Melaka,2022,73,9514.0
+Melaka,2022,74,9706.0
+Melaka,2022,75,9894.0
+Melaka,2022,76,10025.0
+Melaka,2022,77,10264.0
+Melaka,2022,78,10568.0
+Melaka,2022,79,10866.0
+Melaka,2022,80,11153.0
+Melaka,2022,81,11540.0
+Melaka,2022,82,11850.0
+Melaka,2022,83,12071.0
+Melaka,2022,84,12371.0
+Melaka,2022,85,12706.0
+Melaka,2022,86,13210.0
+Melaka,2022,87,13536.0
+Melaka,2022,88,13885.0
+Melaka,2022,89,14538.0
+Melaka,2022,90,15034.0
+Melaka,2022,91,15735.0
+Melaka,2022,92,16276.0
+Melaka,2022,93,16929.0
+Melaka,2022,94,17920.0
+Melaka,2022,95,18891.0
+Melaka,2022,96,20449.0
+Melaka,2022,97,22545.0
+Melaka,2022,98,25065.0
+Melaka,2022,99,31850.0
+Negeri Sembilan,2022,1,1529.0
+Negeri Sembilan,2022,2,1675.0
+Negeri Sembilan,2022,3,1803.0
+Negeri Sembilan,2022,4,1906.0
+Negeri Sembilan,2022,5,1983.0
+Negeri Sembilan,2022,6,2080.0
+Negeri Sembilan,2022,7,2162.0
+Negeri Sembilan,2022,8,2225.0
+Negeri Sembilan,2022,9,2288.0
+Negeri Sembilan,2022,10,2375.0
+Negeri Sembilan,2022,11,2447.0
+Negeri Sembilan,2022,12,2506.0
+Negeri Sembilan,2022,13,2594.0
+Negeri Sembilan,2022,14,2696.0
+Negeri Sembilan,2022,15,2771.0
+Negeri Sembilan,2022,16,2848.0
+Negeri Sembilan,2022,17,2938.0
+Negeri Sembilan,2022,18,3009.0
+Negeri Sembilan,2022,19,3067.0
+Negeri Sembilan,2022,20,3134.0
+Negeri Sembilan,2022,21,3188.0
+Negeri Sembilan,2022,22,3237.0
+Negeri Sembilan,2022,23,3287.0
+Negeri Sembilan,2022,24,3339.0
+Negeri Sembilan,2022,25,3388.0
+Negeri Sembilan,2022,26,3442.0
+Negeri Sembilan,2022,27,3501.0
+Negeri Sembilan,2022,28,3560.0
+Negeri Sembilan,2022,29,3612.0
+Negeri Sembilan,2022,30,3671.0
+Negeri Sembilan,2022,31,3724.0
+Negeri Sembilan,2022,32,3770.0
+Negeri Sembilan,2022,33,3833.0
+Negeri Sembilan,2022,34,3906.0
+Negeri Sembilan,2022,35,3966.0
+Negeri Sembilan,2022,36,4045.0
+Negeri Sembilan,2022,37,4134.0
+Negeri Sembilan,2022,38,4197.0
+Negeri Sembilan,2022,39,4267.0
+Negeri Sembilan,2022,40,4335.0
+Negeri Sembilan,2022,41,4410.0
+Negeri Sembilan,2022,42,4500.0
+Negeri Sembilan,2022,43,4585.0
+Negeri Sembilan,2022,44,4662.0
+Negeri Sembilan,2022,45,4751.0
+Negeri Sembilan,2022,46,4849.0
+Negeri Sembilan,2022,47,4935.0
+Negeri Sembilan,2022,48,5013.0
+Negeri Sembilan,2022,49,5116.0
+Negeri Sembilan,2022,50,5226.0
+Negeri Sembilan,2022,51,5309.0
+Negeri Sembilan,2022,52,5395.0
+Negeri Sembilan,2022,53,5481.0
+Negeri Sembilan,2022,54,5600.0
+Negeri Sembilan,2022,55,5718.0
+Negeri Sembilan,2022,56,5785.0
+Negeri Sembilan,2022,57,5923.0
+Negeri Sembilan,2022,58,6036.0
+Negeri Sembilan,2022,59,6170.0
+Negeri Sembilan,2022,60,6299.0
+Negeri Sembilan,2022,61,6393.0
+Negeri Sembilan,2022,62,6478.0
+Negeri Sembilan,2022,63,6627.0
+Negeri Sembilan,2022,64,6768.0
+Negeri Sembilan,2022,65,6906.0
+Negeri Sembilan,2022,66,7026.0
+Negeri Sembilan,2022,67,7222.0
+Negeri Sembilan,2022,68,7315.0
+Negeri Sembilan,2022,69,7498.0
+Negeri Sembilan,2022,70,7662.0
+Negeri Sembilan,2022,71,7840.0
+Negeri Sembilan,2022,72,8012.0
+Negeri Sembilan,2022,73,8139.0
+Negeri Sembilan,2022,74,8305.0
+Negeri Sembilan,2022,75,8513.0
+Negeri Sembilan,2022,76,8662.0
+Negeri Sembilan,2022,77,8868.0
+Negeri Sembilan,2022,78,9004.0
+Negeri Sembilan,2022,79,9211.0
+Negeri Sembilan,2022,80,9512.0
+Negeri Sembilan,2022,81,9750.0
+Negeri Sembilan,2022,82,10015.0
+Negeri Sembilan,2022,83,10270.0
+Negeri Sembilan,2022,84,10664.0
+Negeri Sembilan,2022,85,11122.0
+Negeri Sembilan,2022,86,11471.0
+Negeri Sembilan,2022,87,11919.0
+Negeri Sembilan,2022,88,12205.0
+Negeri Sembilan,2022,89,12601.0
+Negeri Sembilan,2022,90,13023.0
+Negeri Sembilan,2022,91,13708.0
+Negeri Sembilan,2022,92,14184.0
+Negeri Sembilan,2022,93,14917.0
+Negeri Sembilan,2022,94,15812.0
+Negeri Sembilan,2022,95,16833.0
+Negeri Sembilan,2022,96,18314.0
+Negeri Sembilan,2022,97,20127.0
+Negeri Sembilan,2022,98,22627.0
+Negeri Sembilan,2022,99,25991.0
+Pahang,2022,1,1541.0
+Pahang,2022,2,1738.0
+Pahang,2022,3,1874.0
+Pahang,2022,4,1992.0
+Pahang,2022,5,2118.0
+Pahang,2022,6,2188.0
+Pahang,2022,7,2298.0
+Pahang,2022,8,2403.0
+Pahang,2022,9,2487.0
+Pahang,2022,10,2562.0
+Pahang,2022,11,2665.0
+Pahang,2022,12,2753.0
+Pahang,2022,13,2837.0
+Pahang,2022,14,2922.0
+Pahang,2022,15,2991.0
+Pahang,2022,16,3049.0
+Pahang,2022,17,3089.0
+Pahang,2022,18,3137.0
+Pahang,2022,19,3180.0
+Pahang,2022,20,3220.0
+Pahang,2022,21,3270.0
+Pahang,2022,22,3320.0
+Pahang,2022,23,3360.0
+Pahang,2022,24,3397.0
+Pahang,2022,25,3434.0
+Pahang,2022,26,3472.0
+Pahang,2022,27,3515.0
+Pahang,2022,28,3553.0
+Pahang,2022,29,3597.0
+Pahang,2022,30,3646.0
+Pahang,2022,31,3692.0
+Pahang,2022,32,3741.0
+Pahang,2022,33,3789.0
+Pahang,2022,34,3835.0
+Pahang,2022,35,3882.0
+Pahang,2022,36,3936.0
+Pahang,2022,37,3994.0
+Pahang,2022,38,4062.0
+Pahang,2022,39,4119.0
+Pahang,2022,40,4163.0
+Pahang,2022,41,4219.0
+Pahang,2022,42,4274.0
+Pahang,2022,43,4320.0
+Pahang,2022,44,4381.0
+Pahang,2022,45,4440.0
+Pahang,2022,46,4508.0
+Pahang,2022,47,4561.0
+Pahang,2022,48,4606.0
+Pahang,2022,49,4669.0
+Pahang,2022,50,4753.0
+Pahang,2022,51,4819.0
+Pahang,2022,52,4891.0
+Pahang,2022,53,4967.0
+Pahang,2022,54,5037.0
+Pahang,2022,55,5106.0
+Pahang,2022,56,5177.0
+Pahang,2022,57,5267.0
+Pahang,2022,58,5332.0
+Pahang,2022,59,5404.0
+Pahang,2022,60,5512.0
+Pahang,2022,61,5593.0
+Pahang,2022,62,5672.0
+Pahang,2022,63,5752.0
+Pahang,2022,64,5830.0
+Pahang,2022,65,5923.0
+Pahang,2022,66,6005.0
+Pahang,2022,67,6098.0
+Pahang,2022,68,6234.0
+Pahang,2022,69,6324.0
+Pahang,2022,70,6415.0
+Pahang,2022,71,6531.0
+Pahang,2022,72,6631.0
+Pahang,2022,73,6772.0
+Pahang,2022,74,6875.0
+Pahang,2022,75,7030.0
+Pahang,2022,76,7170.0
+Pahang,2022,77,7278.0
+Pahang,2022,78,7459.0
+Pahang,2022,79,7622.0
+Pahang,2022,80,7805.0
+Pahang,2022,81,7939.0
+Pahang,2022,82,8126.0
+Pahang,2022,83,8264.0
+Pahang,2022,84,8540.0
+Pahang,2022,85,8718.0
+Pahang,2022,86,8939.0
+Pahang,2022,87,9228.0
+Pahang,2022,88,9530.0
+Pahang,2022,89,9824.0
+Pahang,2022,90,10148.0
+Pahang,2022,91,10509.0
+Pahang,2022,92,10947.0
+Pahang,2022,93,11445.0
+Pahang,2022,94,12145.0
+Pahang,2022,95,12876.0
+Pahang,2022,96,13680.0
+Pahang,2022,97,14818.0
+Pahang,2022,98,16366.0
+Pahang,2022,99,18855.0
+Perak,2022,1,1141.0
+Perak,2022,2,1295.0
+Perak,2022,3,1456.0
+Perak,2022,4,1539.0
+Perak,2022,5,1616.0
+Perak,2022,6,1711.0
+Perak,2022,7,1773.0
+Perak,2022,8,1856.0
+Perak,2022,9,1940.0
+Perak,2022,10,2018.0
+Perak,2022,11,2078.0
+Perak,2022,12,2142.0
+Perak,2022,13,2206.0
+Perak,2022,14,2272.0
+Perak,2022,15,2341.0
+Perak,2022,16,2414.0
+Perak,2022,17,2496.0
+Perak,2022,18,2552.0
+Perak,2022,19,2625.0
+Perak,2022,20,2675.0
+Perak,2022,21,2747.0
+Perak,2022,22,2789.0
+Perak,2022,23,2857.0
+Perak,2022,24,2914.0
+Perak,2022,25,2980.0
+Perak,2022,26,3039.0
+Perak,2022,27,3093.0
+Perak,2022,28,3153.0
+Perak,2022,29,3208.0
+Perak,2022,30,3250.0
+Perak,2022,31,3299.0
+Perak,2022,32,3351.0
+Perak,2022,33,3398.0
+Perak,2022,34,3455.0
+Perak,2022,35,3515.0
+Perak,2022,36,3556.0
+Perak,2022,37,3614.0
+Perak,2022,38,3680.0
+Perak,2022,39,3729.0
+Perak,2022,40,3789.0
+Perak,2022,41,3858.0
+Perak,2022,42,3926.0
+Perak,2022,43,3993.0
+Perak,2022,44,4058.0
+Perak,2022,45,4134.0
+Perak,2022,46,4225.0
+Perak,2022,47,4302.0
+Perak,2022,48,4367.0
+Perak,2022,49,4428.0
+Perak,2022,50,4494.0
+Perak,2022,51,4575.0
+Perak,2022,52,4659.0
+Perak,2022,53,4729.0
+Perak,2022,54,4810.0
+Perak,2022,55,4894.0
+Perak,2022,56,4988.0
+Perak,2022,57,5078.0
+Perak,2022,58,5170.0
+Perak,2022,59,5252.0
+Perak,2022,60,5332.0
+Perak,2022,61,5424.0
+Perak,2022,62,5531.0
+Perak,2022,63,5631.0
+Perak,2022,64,5722.0
+Perak,2022,65,5831.0
+Perak,2022,66,5944.0
+Perak,2022,67,6082.0
+Perak,2022,68,6208.0
+Perak,2022,69,6310.0
+Perak,2022,70,6401.0
+Perak,2022,71,6505.0
+Perak,2022,72,6621.0
+Perak,2022,73,6769.0
+Perak,2022,74,6937.0
+Perak,2022,75,7113.0
+Perak,2022,76,7265.0
+Perak,2022,77,7381.0
+Perak,2022,78,7530.0
+Perak,2022,79,7698.0
+Perak,2022,80,7920.0
+Perak,2022,81,8144.0
+Perak,2022,82,8389.0
+Perak,2022,83,8654.0
+Perak,2022,84,8912.0
+Perak,2022,85,9138.0
+Perak,2022,86,9421.0
+Perak,2022,87,9685.0
+Perak,2022,88,10005.0
+Perak,2022,89,10312.0
+Perak,2022,90,10765.0
+Perak,2022,91,11179.0
+Perak,2022,92,11681.0
+Perak,2022,93,12259.0
+Perak,2022,94,13086.0
+Perak,2022,95,14094.0
+Perak,2022,96,15044.0
+Perak,2022,97,16440.0
+Perak,2022,98,18369.0
+Perak,2022,99,22000.0
+Perlis,2022,1,1071.0
+Perlis,2022,2,1308.0
+Perlis,2022,3,1441.0
+Perlis,2022,4,1573.0
+Perlis,2022,5,1697.0
+Perlis,2022,6,1766.0
+Perlis,2022,7,1872.0
+Perlis,2022,8,1995.0
+Perlis,2022,9,2113.0
+Perlis,2022,10,2201.0
+Perlis,2022,11,2265.0
+Perlis,2022,12,2333.0
+Perlis,2022,13,2399.0
+Perlis,2022,14,2450.0
+Perlis,2022,15,2516.0
+Perlis,2022,16,2578.0
+Perlis,2022,17,2664.0
+Perlis,2022,18,2708.0
+Perlis,2022,19,2761.0
+Perlis,2022,20,2828.0
+Perlis,2022,21,2883.0
+Perlis,2022,22,2920.0
+Perlis,2022,23,2973.0
+Perlis,2022,24,3013.0
+Perlis,2022,25,3073.0
+Perlis,2022,26,3168.0
+Perlis,2022,27,3218.0
+Perlis,2022,28,3274.0
+Perlis,2022,29,3342.0
+Perlis,2022,30,3388.0
+Perlis,2022,31,3447.0
+Perlis,2022,32,3506.0
+Perlis,2022,33,3592.0
+Perlis,2022,34,3657.0
+Perlis,2022,35,3730.0
+Perlis,2022,36,3805.0
+Perlis,2022,37,3866.0
+Perlis,2022,38,3936.0
+Perlis,2022,39,4045.0
+Perlis,2022,40,4092.0
+Perlis,2022,41,4159.0
+Perlis,2022,42,4226.0
+Perlis,2022,43,4287.0
+Perlis,2022,44,4334.0
+Perlis,2022,45,4385.0
+Perlis,2022,46,4429.0
+Perlis,2022,47,4490.0
+Perlis,2022,48,4573.0
+Perlis,2022,49,4670.0
+Perlis,2022,50,4713.0
+Perlis,2022,51,4787.0
+Perlis,2022,52,4850.0
+Perlis,2022,53,4929.0
+Perlis,2022,54,5022.0
+Perlis,2022,55,5060.0
+Perlis,2022,56,5116.0
+Perlis,2022,57,5180.0
+Perlis,2022,58,5244.0
+Perlis,2022,59,5287.0
+Perlis,2022,60,5381.0
+Perlis,2022,61,5459.0
+Perlis,2022,62,5563.0
+Perlis,2022,63,5662.0
+Perlis,2022,64,5756.0
+Perlis,2022,65,5854.0
+Perlis,2022,66,5972.0
+Perlis,2022,67,6098.0
+Perlis,2022,68,6167.0
+Perlis,2022,69,6249.0
+Perlis,2022,70,6371.0
+Perlis,2022,71,6507.0
+Perlis,2022,72,6626.0
+Perlis,2022,73,6769.0
+Perlis,2022,74,6911.0
+Perlis,2022,75,7016.0
+Perlis,2022,76,7152.0
+Perlis,2022,77,7265.0
+Perlis,2022,78,7414.0
+Perlis,2022,79,7542.0
+Perlis,2022,80,7780.0
+Perlis,2022,81,7972.0
+Perlis,2022,82,8128.0
+Perlis,2022,83,8314.0
+Perlis,2022,84,8538.0
+Perlis,2022,85,8797.0
+Perlis,2022,86,9020.0
+Perlis,2022,87,9290.0
+Perlis,2022,88,9578.0
+Perlis,2022,89,9943.0
+Perlis,2022,90,10296.0
+Perlis,2022,91,10697.0
+Perlis,2022,92,11247.0
+Perlis,2022,93,11710.0
+Perlis,2022,94,12426.0
+Perlis,2022,95,13144.0
+Perlis,2022,96,14118.0
+Perlis,2022,97,14952.0
+Perlis,2022,98,16105.0
+Perlis,2022,99,19348.0
+Pulau Pinang,2022,1,1496.0
+Pulau Pinang,2022,2,1790.0
+Pulau Pinang,2022,3,2002.0
+Pulau Pinang,2022,4,2146.0
+Pulau Pinang,2022,5,2258.0
+Pulau Pinang,2022,6,2355.0
+Pulau Pinang,2022,7,2456.0
+Pulau Pinang,2022,8,2565.0
+Pulau Pinang,2022,9,2659.0
+Pulau Pinang,2022,10,2735.0
+Pulau Pinang,2022,11,2860.0
+Pulau Pinang,2022,12,2950.0
+Pulau Pinang,2022,13,3024.0
+Pulau Pinang,2022,14,3107.0
+Pulau Pinang,2022,15,3228.0
+Pulau Pinang,2022,16,3307.0
+Pulau Pinang,2022,17,3395.0
+Pulau Pinang,2022,18,3509.0
+Pulau Pinang,2022,19,3571.0
+Pulau Pinang,2022,20,3678.0
+Pulau Pinang,2022,21,3758.0
+Pulau Pinang,2022,22,3872.0
+Pulau Pinang,2022,23,3966.0
+Pulau Pinang,2022,24,4050.0
+Pulau Pinang,2022,25,4160.0
+Pulau Pinang,2022,26,4267.0
+Pulau Pinang,2022,27,4363.0
+Pulau Pinang,2022,28,4465.0
+Pulau Pinang,2022,29,4552.0
+Pulau Pinang,2022,30,4634.0
+Pulau Pinang,2022,31,4736.0
+Pulau Pinang,2022,32,4827.0
+Pulau Pinang,2022,33,4931.0
+Pulau Pinang,2022,34,5010.0
+Pulau Pinang,2022,35,5114.0
+Pulau Pinang,2022,36,5208.0
+Pulau Pinang,2022,37,5288.0
+Pulau Pinang,2022,38,5397.0
+Pulau Pinang,2022,39,5487.0
+Pulau Pinang,2022,40,5582.0
+Pulau Pinang,2022,41,5678.0
+Pulau Pinang,2022,42,5750.0
+Pulau Pinang,2022,43,5834.0
+Pulau Pinang,2022,44,5933.0
+Pulau Pinang,2022,45,6029.0
+Pulau Pinang,2022,46,6145.0
+Pulau Pinang,2022,47,6237.0
+Pulau Pinang,2022,48,6335.0
+Pulau Pinang,2022,49,6419.0
+Pulau Pinang,2022,50,6502.0
+Pulau Pinang,2022,51,6605.0
+Pulau Pinang,2022,52,6715.0
+Pulau Pinang,2022,53,6807.0
+Pulau Pinang,2022,54,6940.0
+Pulau Pinang,2022,55,7019.0
+Pulau Pinang,2022,56,7142.0
+Pulau Pinang,2022,57,7289.0
+Pulau Pinang,2022,58,7405.0
+Pulau Pinang,2022,59,7533.0
+Pulau Pinang,2022,60,7640.0
+Pulau Pinang,2022,61,7742.0
+Pulau Pinang,2022,62,7917.0
+Pulau Pinang,2022,63,8035.0
+Pulau Pinang,2022,64,8243.0
+Pulau Pinang,2022,65,8345.0
+Pulau Pinang,2022,66,8520.0
+Pulau Pinang,2022,67,8673.0
+Pulau Pinang,2022,68,8824.0
+Pulau Pinang,2022,69,8986.0
+Pulau Pinang,2022,70,9165.0
+Pulau Pinang,2022,71,9317.0
+Pulau Pinang,2022,72,9487.0
+Pulau Pinang,2022,73,9740.0
+Pulau Pinang,2022,74,9934.0
+Pulau Pinang,2022,75,10145.0
+Pulau Pinang,2022,76,10343.0
+Pulau Pinang,2022,77,10647.0
+Pulau Pinang,2022,78,10897.0
+Pulau Pinang,2022,79,11167.0
+Pulau Pinang,2022,80,11492.0
+Pulau Pinang,2022,81,11783.0
+Pulau Pinang,2022,82,12020.0
+Pulau Pinang,2022,83,12401.0
+Pulau Pinang,2022,84,12776.0
+Pulau Pinang,2022,85,13198.0
+Pulau Pinang,2022,86,13572.0
+Pulau Pinang,2022,87,13955.0
+Pulau Pinang,2022,88,14463.0
+Pulau Pinang,2022,89,14953.0
+Pulau Pinang,2022,90,15521.0
+Pulau Pinang,2022,91,16120.0
+Pulau Pinang,2022,92,16753.0
+Pulau Pinang,2022,93,17571.0
+Pulau Pinang,2022,94,18847.0
+Pulau Pinang,2022,95,20344.0
+Pulau Pinang,2022,96,21849.0
+Pulau Pinang,2022,97,23741.0
+Pulau Pinang,2022,98,26557.0
+Pulau Pinang,2022,99,32010.0
+Sabah,2022,1,1181.0
+Sabah,2022,2,1346.0
+Sabah,2022,3,1458.0
+Sabah,2022,4,1561.0
+Sabah,2022,5,1657.0
+Sabah,2022,6,1729.0
+Sabah,2022,7,1809.0
+Sabah,2022,8,1880.0
+Sabah,2022,9,1950.0
+Sabah,2022,10,2005.0
+Sabah,2022,11,2073.0
+Sabah,2022,12,2137.0
+Sabah,2022,13,2185.0
+Sabah,2022,14,2256.0
+Sabah,2022,15,2324.0
+Sabah,2022,16,2379.0
+Sabah,2022,17,2442.0
+Sabah,2022,18,2503.0
+Sabah,2022,19,2557.0
+Sabah,2022,20,2615.0
+Sabah,2022,21,2674.0
+Sabah,2022,22,2727.0
+Sabah,2022,23,2790.0
+Sabah,2022,24,2849.0
+Sabah,2022,25,2907.0
+Sabah,2022,26,2958.0
+Sabah,2022,27,3029.0
+Sabah,2022,28,3083.0
+Sabah,2022,29,3148.0
+Sabah,2022,30,3205.0
+Sabah,2022,31,3259.0
+Sabah,2022,32,3317.0
+Sabah,2022,33,3388.0
+Sabah,2022,34,3439.0
+Sabah,2022,35,3513.0
+Sabah,2022,36,3571.0
+Sabah,2022,37,3638.0
+Sabah,2022,38,3696.0
+Sabah,2022,39,3760.0
+Sabah,2022,40,3837.0
+Sabah,2022,41,3917.0
+Sabah,2022,42,3981.0
+Sabah,2022,43,4049.0
+Sabah,2022,44,4123.0
+Sabah,2022,45,4200.0
+Sabah,2022,46,4274.0
+Sabah,2022,47,4357.0
+Sabah,2022,48,4428.0
+Sabah,2022,49,4497.0
+Sabah,2022,50,4577.0
+Sabah,2022,51,4663.0
+Sabah,2022,52,4762.0
+Sabah,2022,53,4848.0
+Sabah,2022,54,4939.0
+Sabah,2022,55,5039.0
+Sabah,2022,56,5132.0
+Sabah,2022,57,5235.0
+Sabah,2022,58,5329.0
+Sabah,2022,59,5427.0
+Sabah,2022,60,5511.0
+Sabah,2022,61,5606.0
+Sabah,2022,62,5713.0
+Sabah,2022,63,5812.0
+Sabah,2022,64,5921.0
+Sabah,2022,65,6046.0
+Sabah,2022,66,6151.0
+Sabah,2022,67,6265.0
+Sabah,2022,68,6378.0
+Sabah,2022,69,6532.0
+Sabah,2022,70,6692.0
+Sabah,2022,71,6840.0
+Sabah,2022,72,6989.0
+Sabah,2022,73,7149.0
+Sabah,2022,74,7346.0
+Sabah,2022,75,7511.0
+Sabah,2022,76,7707.0
+Sabah,2022,77,7885.0
+Sabah,2022,78,8097.0
+Sabah,2022,79,8324.0
+Sabah,2022,80,8533.0
+Sabah,2022,81,8753.0
+Sabah,2022,82,9060.0
+Sabah,2022,83,9351.0
+Sabah,2022,84,9600.0
+Sabah,2022,85,9892.0
+Sabah,2022,86,10279.0
+Sabah,2022,87,10620.0
+Sabah,2022,88,11005.0
+Sabah,2022,89,11386.0
+Sabah,2022,90,11880.0
+Sabah,2022,91,12343.0
+Sabah,2022,92,12880.0
+Sabah,2022,93,13466.0
+Sabah,2022,94,14302.0
+Sabah,2022,95,15303.0
+Sabah,2022,96,16606.0
+Sabah,2022,97,18119.0
+Sabah,2022,98,20271.0
+Sabah,2022,99,26426.0
+Sarawak,2022,1,1130.0
+Sarawak,2022,2,1307.0
+Sarawak,2022,3,1444.0
+Sarawak,2022,4,1553.0
+Sarawak,2022,5,1669.0
+Sarawak,2022,6,1768.0
+Sarawak,2022,7,1851.0
+Sarawak,2022,8,1942.0
+Sarawak,2022,9,2020.0
+Sarawak,2022,10,2086.0
+Sarawak,2022,11,2142.0
+Sarawak,2022,12,2210.0
+Sarawak,2022,13,2281.0
+Sarawak,2022,14,2342.0
+Sarawak,2022,15,2411.0
+Sarawak,2022,16,2480.0
+Sarawak,2022,17,2558.0
+Sarawak,2022,18,2622.0
+Sarawak,2022,19,2682.0
+Sarawak,2022,20,2748.0
+Sarawak,2022,21,2814.0
+Sarawak,2022,22,2872.0
+Sarawak,2022,23,2949.0
+Sarawak,2022,24,3026.0
+Sarawak,2022,25,3092.0
+Sarawak,2022,26,3158.0
+Sarawak,2022,27,3219.0
+Sarawak,2022,28,3299.0
+Sarawak,2022,29,3363.0
+Sarawak,2022,30,3432.0
+Sarawak,2022,31,3491.0
+Sarawak,2022,32,3564.0
+Sarawak,2022,33,3625.0
+Sarawak,2022,34,3701.0
+Sarawak,2022,35,3775.0
+Sarawak,2022,36,3859.0
+Sarawak,2022,37,3945.0
+Sarawak,2022,38,4020.0
+Sarawak,2022,39,4088.0
+Sarawak,2022,40,4155.0
+Sarawak,2022,41,4246.0
+Sarawak,2022,42,4314.0
+Sarawak,2022,43,4398.0
+Sarawak,2022,44,4477.0
+Sarawak,2022,45,4556.0
+Sarawak,2022,46,4637.0
+Sarawak,2022,47,4717.0
+Sarawak,2022,48,4792.0
+Sarawak,2022,49,4883.0
+Sarawak,2022,50,4978.0
+Sarawak,2022,51,5064.0
+Sarawak,2022,52,5160.0
+Sarawak,2022,53,5252.0
+Sarawak,2022,54,5355.0
+Sarawak,2022,55,5460.0
+Sarawak,2022,56,5551.0
+Sarawak,2022,57,5651.0
+Sarawak,2022,58,5774.0
+Sarawak,2022,59,5878.0
+Sarawak,2022,60,6005.0
+Sarawak,2022,61,6113.0
+Sarawak,2022,62,6207.0
+Sarawak,2022,63,6314.0
+Sarawak,2022,64,6449.0
+Sarawak,2022,65,6575.0
+Sarawak,2022,66,6670.0
+Sarawak,2022,67,6826.0
+Sarawak,2022,68,6983.0
+Sarawak,2022,69,7117.0
+Sarawak,2022,70,7283.0
+Sarawak,2022,71,7460.0
+Sarawak,2022,72,7635.0
+Sarawak,2022,73,7799.0
+Sarawak,2022,74,8004.0
+Sarawak,2022,75,8207.0
+Sarawak,2022,76,8377.0
+Sarawak,2022,77,8580.0
+Sarawak,2022,78,8796.0
+Sarawak,2022,79,8999.0
+Sarawak,2022,80,9207.0
+Sarawak,2022,81,9459.0
+Sarawak,2022,82,9795.0
+Sarawak,2022,83,10062.0
+Sarawak,2022,84,10311.0
+Sarawak,2022,85,10593.0
+Sarawak,2022,86,10922.0
+Sarawak,2022,87,11298.0
+Sarawak,2022,88,11683.0
+Sarawak,2022,89,12135.0
+Sarawak,2022,90,12617.0
+Sarawak,2022,91,13234.0
+Sarawak,2022,92,13763.0
+Sarawak,2022,93,14441.0
+Sarawak,2022,94,15170.0
+Sarawak,2022,95,16012.0
+Sarawak,2022,96,17271.0
+Sarawak,2022,97,18813.0
+Sarawak,2022,98,20659.0
+Sarawak,2022,99,25344.0
+Selangor,2022,1,2548.0
+Selangor,2022,2,3038.0
+Selangor,2022,3,3234.0
+Selangor,2022,4,3425.0
+Selangor,2022,5,3614.0
+Selangor,2022,6,3829.0
+Selangor,2022,7,4008.0
+Selangor,2022,8,4128.0
+Selangor,2022,9,4248.0
+Selangor,2022,10,4395.0
+Selangor,2022,11,4535.0
+Selangor,2022,12,4690.0
+Selangor,2022,13,4835.0
+Selangor,2022,14,4975.0
+Selangor,2022,15,5088.0
+Selangor,2022,16,5223.0
+Selangor,2022,17,5355.0
+Selangor,2022,18,5495.0
+Selangor,2022,19,5611.0
+Selangor,2022,20,5708.0
+Selangor,2022,21,5840.0
+Selangor,2022,22,5966.0
+Selangor,2022,23,6090.0
+Selangor,2022,24,6230.0
+Selangor,2022,25,6371.0
+Selangor,2022,26,6500.0
+Selangor,2022,27,6641.0
+Selangor,2022,28,6790.0
+Selangor,2022,29,6917.0
+Selangor,2022,30,7057.0
+Selangor,2022,31,7198.0
+Selangor,2022,32,7333.0
+Selangor,2022,33,7442.0
+Selangor,2022,34,7579.0
+Selangor,2022,35,7696.0
+Selangor,2022,36,7814.0
+Selangor,2022,37,7950.0
+Selangor,2022,38,8092.0
+Selangor,2022,39,8249.0
+Selangor,2022,40,8388.0
+Selangor,2022,41,8548.0
+Selangor,2022,42,8712.0
+Selangor,2022,43,8868.0
+Selangor,2022,44,9020.0
+Selangor,2022,45,9198.0
+Selangor,2022,46,9342.0
+Selangor,2022,47,9498.0
+Selangor,2022,48,9652.0
+Selangor,2022,49,9821.0
+Selangor,2022,50,9983.0
+Selangor,2022,51,10150.0
+Selangor,2022,52,10291.0
+Selangor,2022,53,10452.0
+Selangor,2022,54,10567.0
+Selangor,2022,55,10683.0
+Selangor,2022,56,10833.0
+Selangor,2022,57,10985.0
+Selangor,2022,58,11138.0
+Selangor,2022,59,11285.0
+Selangor,2022,60,11425.0
+Selangor,2022,61,11568.0
+Selangor,2022,62,11708.0
+Selangor,2022,63,11861.0
+Selangor,2022,64,12021.0
+Selangor,2022,65,12186.0
+Selangor,2022,66,12351.0
+Selangor,2022,67,12525.0
+Selangor,2022,68,12721.0
+Selangor,2022,69,12960.0
+Selangor,2022,70,13167.0
+Selangor,2022,71,13371.0
+Selangor,2022,72,13576.0
+Selangor,2022,73,13769.0
+Selangor,2022,74,14050.0
+Selangor,2022,75,14274.0
+Selangor,2022,76,14490.0
+Selangor,2022,77,14738.0
+Selangor,2022,78,15045.0
+Selangor,2022,79,15351.0
+Selangor,2022,80,15720.0
+Selangor,2022,81,16017.0
+Selangor,2022,82,16390.0
+Selangor,2022,83,16896.0
+Selangor,2022,84,17357.0
+Selangor,2022,85,17848.0
+Selangor,2022,86,18466.0
+Selangor,2022,87,19127.0
+Selangor,2022,88,19889.0
+Selangor,2022,89,20571.0
+Selangor,2022,90,21410.0
+Selangor,2022,91,22303.0
+Selangor,2022,92,23250.0
+Selangor,2022,93,24463.0
+Selangor,2022,94,25925.0
+Selangor,2022,95,27684.0
+Selangor,2022,96,30741.0
+Selangor,2022,97,34668.0
+Selangor,2022,98,40122.0
+Selangor,2022,99,54961.0
+Terengganu,2022,1,1673.0
+Terengganu,2022,2,2013.0
+Terengganu,2022,3,2413.0
+Terengganu,2022,4,2593.0
+Terengganu,2022,5,2694.0
+Terengganu,2022,6,2854.0
+Terengganu,2022,7,2949.0
+Terengganu,2022,8,3036.0
+Terengganu,2022,9,3105.0
+Terengganu,2022,10,3179.0
+Terengganu,2022,11,3244.0
+Terengganu,2022,12,3300.0
+Terengganu,2022,13,3356.0
+Terengganu,2022,14,3433.0
+Terengganu,2022,15,3502.0
+Terengganu,2022,16,3570.0
+Terengganu,2022,17,3637.0
+Terengganu,2022,18,3695.0
+Terengganu,2022,19,3769.0
+Terengganu,2022,20,3834.0
+Terengganu,2022,21,3915.0
+Terengganu,2022,22,3992.0
+Terengganu,2022,23,4047.0
+Terengganu,2022,24,4132.0
+Terengganu,2022,25,4189.0
+Terengganu,2022,26,4246.0
+Terengganu,2022,27,4309.0
+Terengganu,2022,28,4389.0
+Terengganu,2022,29,4456.0
+Terengganu,2022,30,4515.0
+Terengganu,2022,31,4582.0
+Terengganu,2022,32,4637.0
+Terengganu,2022,33,4703.0
+Terengganu,2022,34,4797.0
+Terengganu,2022,35,4872.0
+Terengganu,2022,36,4940.0
+Terengganu,2022,37,4983.0
+Terengganu,2022,38,5042.0
+Terengganu,2022,39,5083.0
+Terengganu,2022,40,5153.0
+Terengganu,2022,41,5219.0
+Terengganu,2022,42,5288.0
+Terengganu,2022,43,5353.0
+Terengganu,2022,44,5408.0
+Terengganu,2022,45,5477.0
+Terengganu,2022,46,5558.0
+Terengganu,2022,47,5632.0
+Terengganu,2022,48,5713.0
+Terengganu,2022,49,5799.0
+Terengganu,2022,50,5878.0
+Terengganu,2022,51,5956.0
+Terengganu,2022,52,6022.0
+Terengganu,2022,53,6096.0
+Terengganu,2022,54,6160.0
+Terengganu,2022,55,6225.0
+Terengganu,2022,56,6313.0
+Terengganu,2022,57,6411.0
+Terengganu,2022,58,6497.0
+Terengganu,2022,59,6579.0
+Terengganu,2022,60,6675.0
+Terengganu,2022,61,6750.0
+Terengganu,2022,62,6820.0
+Terengganu,2022,63,6907.0
+Terengganu,2022,64,7017.0
+Terengganu,2022,65,7096.0
+Terengganu,2022,66,7204.0
+Terengganu,2022,67,7340.0
+Terengganu,2022,68,7442.0
+Terengganu,2022,69,7530.0
+Terengganu,2022,70,7675.0
+Terengganu,2022,71,7816.0
+Terengganu,2022,72,7934.0
+Terengganu,2022,73,8063.0
+Terengganu,2022,74,8257.0
+Terengganu,2022,75,8412.0
+Terengganu,2022,76,8554.0
+Terengganu,2022,77,8672.0
+Terengganu,2022,78,8852.0
+Terengganu,2022,79,9025.0
+Terengganu,2022,80,9230.0
+Terengganu,2022,81,9416.0
+Terengganu,2022,82,9640.0
+Terengganu,2022,83,9935.0
+Terengganu,2022,84,10219.0
+Terengganu,2022,85,10623.0
+Terengganu,2022,86,10941.0
+Terengganu,2022,87,11234.0
+Terengganu,2022,88,11636.0
+Terengganu,2022,89,12099.0
+Terengganu,2022,90,12638.0
+Terengganu,2022,91,13179.0
+Terengganu,2022,92,13857.0
+Terengganu,2022,93,14743.0
+Terengganu,2022,94,15799.0
+Terengganu,2022,95,16862.0
+Terengganu,2022,96,18414.0
+Terengganu,2022,97,20087.0
+Terengganu,2022,98,22248.0
+Terengganu,2022,99,27722.0
+W.P. Kuala Lumpur,2022,1,2443.0
+W.P. Kuala Lumpur,2022,2,2930.0
+W.P. Kuala Lumpur,2022,3,3282.0
+W.P. Kuala Lumpur,2022,4,3510.0
+W.P. Kuala Lumpur,2022,5,3859.0
+W.P. Kuala Lumpur,2022,6,4030.0
+W.P. Kuala Lumpur,2022,7,4198.0
+W.P. Kuala Lumpur,2022,8,4378.0
+W.P. Kuala Lumpur,2022,9,4543.0
+W.P. Kuala Lumpur,2022,10,4685.0
+W.P. Kuala Lumpur,2022,11,4844.0
+W.P. Kuala Lumpur,2022,12,5001.0
+W.P. Kuala Lumpur,2022,13,5166.0
+W.P. Kuala Lumpur,2022,14,5329.0
+W.P. Kuala Lumpur,2022,15,5526.0
+W.P. Kuala Lumpur,2022,16,5704.0
+W.P. Kuala Lumpur,2022,17,5838.0
+W.P. Kuala Lumpur,2022,18,5996.0
+W.P. Kuala Lumpur,2022,19,6122.0
+W.P. Kuala Lumpur,2022,20,6267.0
+W.P. Kuala Lumpur,2022,21,6409.0
+W.P. Kuala Lumpur,2022,22,6517.0
+W.P. Kuala Lumpur,2022,23,6644.0
+W.P. Kuala Lumpur,2022,24,6780.0
+W.P. Kuala Lumpur,2022,25,6920.0
+W.P. Kuala Lumpur,2022,26,7023.0
+W.P. Kuala Lumpur,2022,27,7161.0
+W.P. Kuala Lumpur,2022,28,7306.0
+W.P. Kuala Lumpur,2022,29,7422.0
+W.P. Kuala Lumpur,2022,30,7565.0
+W.P. Kuala Lumpur,2022,31,7727.0
+W.P. Kuala Lumpur,2022,32,7863.0
+W.P. Kuala Lumpur,2022,33,7986.0
+W.P. Kuala Lumpur,2022,34,8115.0
+W.P. Kuala Lumpur,2022,35,8232.0
+W.P. Kuala Lumpur,2022,36,8338.0
+W.P. Kuala Lumpur,2022,37,8475.0
+W.P. Kuala Lumpur,2022,38,8626.0
+W.P. Kuala Lumpur,2022,39,8772.0
+W.P. Kuala Lumpur,2022,40,8882.0
+W.P. Kuala Lumpur,2022,41,9023.0
+W.P. Kuala Lumpur,2022,42,9168.0
+W.P. Kuala Lumpur,2022,43,9292.0
+W.P. Kuala Lumpur,2022,44,9430.0
+W.P. Kuala Lumpur,2022,45,9538.0
+W.P. Kuala Lumpur,2022,46,9664.0
+W.P. Kuala Lumpur,2022,47,9806.0
+W.P. Kuala Lumpur,2022,48,9960.0
+W.P. Kuala Lumpur,2022,49,10097.0
+W.P. Kuala Lumpur,2022,50,10234.0
+W.P. Kuala Lumpur,2022,51,10446.0
+W.P. Kuala Lumpur,2022,52,10592.0
+W.P. Kuala Lumpur,2022,53,10730.0
+W.P. Kuala Lumpur,2022,54,10873.0
+W.P. Kuala Lumpur,2022,55,11030.0
+W.P. Kuala Lumpur,2022,56,11187.0
+W.P. Kuala Lumpur,2022,57,11329.0
+W.P. Kuala Lumpur,2022,58,11516.0
+W.P. Kuala Lumpur,2022,59,11688.0
+W.P. Kuala Lumpur,2022,60,11888.0
+W.P. Kuala Lumpur,2022,61,12076.0
+W.P. Kuala Lumpur,2022,62,12253.0
+W.P. Kuala Lumpur,2022,63,12393.0
+W.P. Kuala Lumpur,2022,64,12620.0
+W.P. Kuala Lumpur,2022,65,12809.0
+W.P. Kuala Lumpur,2022,66,12997.0
+W.P. Kuala Lumpur,2022,67,13204.0
+W.P. Kuala Lumpur,2022,68,13399.0
+W.P. Kuala Lumpur,2022,69,13640.0
+W.P. Kuala Lumpur,2022,70,13874.0
+W.P. Kuala Lumpur,2022,71,14124.0
+W.P. Kuala Lumpur,2022,72,14424.0
+W.P. Kuala Lumpur,2022,73,14716.0
+W.P. Kuala Lumpur,2022,74,15015.0
+W.P. Kuala Lumpur,2022,75,15249.0
+W.P. Kuala Lumpur,2022,76,15545.0
+W.P. Kuala Lumpur,2022,77,15839.0
+W.P. Kuala Lumpur,2022,78,16162.0
+W.P. Kuala Lumpur,2022,79,16448.0
+W.P. Kuala Lumpur,2022,80,16753.0
+W.P. Kuala Lumpur,2022,81,17166.0
+W.P. Kuala Lumpur,2022,82,17527.0
+W.P. Kuala Lumpur,2022,83,17933.0
+W.P. Kuala Lumpur,2022,84,18479.0
+W.P. Kuala Lumpur,2022,85,19005.0
+W.P. Kuala Lumpur,2022,86,19578.0
+W.P. Kuala Lumpur,2022,87,20139.0
+W.P. Kuala Lumpur,2022,88,20920.0
+W.P. Kuala Lumpur,2022,89,21501.0
+W.P. Kuala Lumpur,2022,90,22343.0
+W.P. Kuala Lumpur,2022,91,23868.0
+W.P. Kuala Lumpur,2022,92,24804.0
+W.P. Kuala Lumpur,2022,93,26263.0
+W.P. Kuala Lumpur,2022,94,27996.0
+W.P. Kuala Lumpur,2022,95,29879.0
+W.P. Kuala Lumpur,2022,96,32245.0
+W.P. Kuala Lumpur,2022,97,36884.0
+W.P. Kuala Lumpur,2022,98,47073.0
+W.P. Kuala Lumpur,2022,99,67299.0
+W.P. Labuan,2022,1,2433.0
+W.P. Labuan,2022,2,2669.0
+W.P. Labuan,2022,3,2878.0
+W.P. Labuan,2022,4,3119.0
+W.P. Labuan,2022,5,3279.0
+W.P. Labuan,2022,6,3351.0
+W.P. Labuan,2022,7,3443.0
+W.P. Labuan,2022,8,3520.0
+W.P. Labuan,2022,9,3618.0
+W.P. Labuan,2022,10,3716.0
+W.P. Labuan,2022,11,3819.0
+W.P. Labuan,2022,12,3879.0
+W.P. Labuan,2022,13,3983.0
+W.P. Labuan,2022,14,4079.0
+W.P. Labuan,2022,15,4218.0
+W.P. Labuan,2022,16,4352.0
+W.P. Labuan,2022,17,4422.0
+W.P. Labuan,2022,18,4484.0
+W.P. Labuan,2022,19,4593.0
+W.P. Labuan,2022,20,4680.0
+W.P. Labuan,2022,21,4736.0
+W.P. Labuan,2022,22,4774.0
+W.P. Labuan,2022,23,4878.0
+W.P. Labuan,2022,24,4970.0
+W.P. Labuan,2022,25,5045.0
+W.P. Labuan,2022,26,5115.0
+W.P. Labuan,2022,27,5205.0
+W.P. Labuan,2022,28,5240.0
+W.P. Labuan,2022,29,5329.0
+W.P. Labuan,2022,30,5387.0
+W.P. Labuan,2022,31,5456.0
+W.P. Labuan,2022,32,5505.0
+W.P. Labuan,2022,33,5570.0
+W.P. Labuan,2022,34,5676.0
+W.P. Labuan,2022,35,5723.0
+W.P. Labuan,2022,36,5800.0
+W.P. Labuan,2022,37,5833.0
+W.P. Labuan,2022,38,5906.0
+W.P. Labuan,2022,39,6000.0
+W.P. Labuan,2022,40,6022.0
+W.P. Labuan,2022,41,6109.0
+W.P. Labuan,2022,42,6188.0
+W.P. Labuan,2022,43,6231.0
+W.P. Labuan,2022,44,6309.0
+W.P. Labuan,2022,45,6378.0
+W.P. Labuan,2022,46,6456.0
+W.P. Labuan,2022,47,6659.0
+W.P. Labuan,2022,48,6723.0
+W.P. Labuan,2022,49,6834.0
+W.P. Labuan,2022,50,6904.0
+W.P. Labuan,2022,51,6969.0
+W.P. Labuan,2022,52,7014.0
+W.P. Labuan,2022,53,7106.0
+W.P. Labuan,2022,54,7233.0
+W.P. Labuan,2022,55,7322.0
+W.P. Labuan,2022,56,7425.0
+W.P. Labuan,2022,57,7580.0
+W.P. Labuan,2022,58,7693.0
+W.P. Labuan,2022,59,7749.0
+W.P. Labuan,2022,60,7874.0
+W.P. Labuan,2022,61,7962.0
+W.P. Labuan,2022,62,8066.0
+W.P. Labuan,2022,63,8157.0
+W.P. Labuan,2022,64,8283.0
+W.P. Labuan,2022,65,8381.0
+W.P. Labuan,2022,66,8509.0
+W.P. Labuan,2022,67,8664.0
+W.P. Labuan,2022,68,8798.0
+W.P. Labuan,2022,69,8854.0
+W.P. Labuan,2022,70,9061.0
+W.P. Labuan,2022,71,9159.0
+W.P. Labuan,2022,72,9336.0
+W.P. Labuan,2022,73,9477.0
+W.P. Labuan,2022,74,9620.0
+W.P. Labuan,2022,75,9778.0
+W.P. Labuan,2022,76,9835.0
+W.P. Labuan,2022,77,10051.0
+W.P. Labuan,2022,78,10366.0
+W.P. Labuan,2022,79,10575.0
+W.P. Labuan,2022,80,10764.0
+W.P. Labuan,2022,81,10858.0
+W.P. Labuan,2022,82,11242.0
+W.P. Labuan,2022,83,11612.0
+W.P. Labuan,2022,84,11884.0
+W.P. Labuan,2022,85,12266.0
+W.P. Labuan,2022,86,12526.0
+W.P. Labuan,2022,87,12894.0
+W.P. Labuan,2022,88,13114.0
+W.P. Labuan,2022,89,13769.0
+W.P. Labuan,2022,90,14300.0
+W.P. Labuan,2022,91,14809.0
+W.P. Labuan,2022,92,15360.0
+W.P. Labuan,2022,93,16017.0
+W.P. Labuan,2022,94,17142.0
+W.P. Labuan,2022,95,18296.0
+W.P. Labuan,2022,96,19406.0
+W.P. Labuan,2022,97,20481.0
+W.P. Labuan,2022,98,23097.0
+W.P. Labuan,2022,99,26939.0
+W.P. Putrajaya,2022,1,3382.0
+W.P. Putrajaya,2022,2,3764.0
+W.P. Putrajaya,2022,3,3974.0
+W.P. Putrajaya,2022,4,4204.0
+W.P. Putrajaya,2022,5,4336.0
+W.P. Putrajaya,2022,6,4559.0
+W.P. Putrajaya,2022,7,4708.0
+W.P. Putrajaya,2022,8,4761.0
+W.P. Putrajaya,2022,9,4841.0
+W.P. Putrajaya,2022,10,4962.0
+W.P. Putrajaya,2022,11,4982.0
+W.P. Putrajaya,2022,12,5121.0
+W.P. Putrajaya,2022,13,5330.0
+W.P. Putrajaya,2022,14,5475.0
+W.P. Putrajaya,2022,15,5598.0
+W.P. Putrajaya,2022,16,5770.0
+W.P. Putrajaya,2022,17,5963.0
+W.P. Putrajaya,2022,18,6099.0
+W.P. Putrajaya,2022,19,6212.0
+W.P. Putrajaya,2022,20,6290.0
+W.P. Putrajaya,2022,21,6377.0
+W.P. Putrajaya,2022,22,6542.0
+W.P. Putrajaya,2022,23,6774.0
+W.P. Putrajaya,2022,24,6908.0
+W.P. Putrajaya,2022,25,7001.0
+W.P. Putrajaya,2022,26,7149.0
+W.P. Putrajaya,2022,27,7264.0
+W.P. Putrajaya,2022,28,7383.0
+W.P. Putrajaya,2022,29,7518.0
+W.P. Putrajaya,2022,30,7863.0
+W.P. Putrajaya,2022,31,8043.0
+W.P. Putrajaya,2022,32,8188.0
+W.P. Putrajaya,2022,33,8244.0
+W.P. Putrajaya,2022,34,8383.0
+W.P. Putrajaya,2022,35,8457.0
+W.P. Putrajaya,2022,36,8599.0
+W.P. Putrajaya,2022,37,8713.0
+W.P. Putrajaya,2022,38,8840.0
+W.P. Putrajaya,2022,39,8885.0
+W.P. Putrajaya,2022,40,8956.0
+W.P. Putrajaya,2022,41,9052.0
+W.P. Putrajaya,2022,42,9143.0
+W.P. Putrajaya,2022,43,9242.0
+W.P. Putrajaya,2022,44,9347.0
+W.P. Putrajaya,2022,45,9488.0
+W.P. Putrajaya,2022,46,9609.0
+W.P. Putrajaya,2022,47,9654.0
+W.P. Putrajaya,2022,48,9857.0
+W.P. Putrajaya,2022,49,9911.0
+W.P. Putrajaya,2022,50,10042.0
+W.P. Putrajaya,2022,51,10219.0
+W.P. Putrajaya,2022,52,10356.0
+W.P. Putrajaya,2022,53,10449.0
+W.P. Putrajaya,2022,54,10567.0
+W.P. Putrajaya,2022,55,10681.0
+W.P. Putrajaya,2022,56,10774.0
+W.P. Putrajaya,2022,57,10919.0
+W.P. Putrajaya,2022,58,11082.0
+W.P. Putrajaya,2022,59,11185.0
+W.P. Putrajaya,2022,60,11290.0
+W.P. Putrajaya,2022,61,11408.0
+W.P. Putrajaya,2022,62,11647.0
+W.P. Putrajaya,2022,63,11818.0
+W.P. Putrajaya,2022,64,12112.0
+W.P. Putrajaya,2022,65,12379.0
+W.P. Putrajaya,2022,66,12798.0
+W.P. Putrajaya,2022,67,13067.0
+W.P. Putrajaya,2022,68,13311.0
+W.P. Putrajaya,2022,69,13497.0
+W.P. Putrajaya,2022,70,13703.0
+W.P. Putrajaya,2022,71,13857.0
+W.P. Putrajaya,2022,72,14358.0
+W.P. Putrajaya,2022,73,14677.0
+W.P. Putrajaya,2022,74,15011.0
+W.P. Putrajaya,2022,75,15328.0
+W.P. Putrajaya,2022,76,16457.0
+W.P. Putrajaya,2022,77,16739.0
+W.P. Putrajaya,2022,78,17311.0
+W.P. Putrajaya,2022,79,17789.0
+W.P. Putrajaya,2022,80,18108.0
+W.P. Putrajaya,2022,81,18831.0
+W.P. Putrajaya,2022,82,19458.0
+W.P. Putrajaya,2022,83,19895.0
+W.P. Putrajaya,2022,84,20526.0
+W.P. Putrajaya,2022,85,21725.0
+W.P. Putrajaya,2022,86,22454.0
+W.P. Putrajaya,2022,87,23242.0
+W.P. Putrajaya,2022,88,24207.0
+W.P. Putrajaya,2022,89,25038.0
+W.P. Putrajaya,2022,90,27019.0
+W.P. Putrajaya,2022,91,27818.0
+W.P. Putrajaya,2022,92,29552.0
+W.P. Putrajaya,2022,93,31117.0
+W.P. Putrajaya,2022,94,33234.0
+W.P. Putrajaya,2022,95,35221.0
+W.P. Putrajaya,2022,96,37262.0
+W.P. Putrajaya,2022,97,41458.0
+W.P. Putrajaya,2022,98,48192.0
+W.P. Putrajaya,2022,99,57968.0
+Johor,2019,1,1244.0
+Johor,2019,2,1645.0
+Johor,2019,3,1897.0
+Johor,2019,4,2094.0
+Johor,2019,5,2261.0
+Johor,2019,6,2426.0
+Johor,2019,7,2513.0
+Johor,2019,8,2584.0
+Johor,2019,9,2656.0
+Johor,2019,10,2735.0
+Johor,2019,11,2821.0
+Johor,2019,12,2908.0
+Johor,2019,13,3014.0
+Johor,2019,14,3104.0
+Johor,2019,15,3180.0
+Johor,2019,16,3279.0
+Johor,2019,17,3370.0
+Johor,2019,18,3461.0
+Johor,2019,19,3572.0
+Johor,2019,20,3676.0
+Johor,2019,21,3755.0
+Johor,2019,22,3826.0
+Johor,2019,23,3921.0
+Johor,2019,24,4001.0
+Johor,2019,25,4090.0
+Johor,2019,26,4193.0
+Johor,2019,27,4281.0
+Johor,2019,28,4367.0
+Johor,2019,29,4435.0
+Johor,2019,30,4531.0
+Johor,2019,31,4609.0
+Johor,2019,32,4699.0
+Johor,2019,33,4797.0
+Johor,2019,34,4882.0
+Johor,2019,35,4960.0
+Johor,2019,36,5041.0
+Johor,2019,37,5117.0
+Johor,2019,38,5221.0
+Johor,2019,39,5313.0
+Johor,2019,40,5399.0
+Johor,2019,41,5504.0
+Johor,2019,42,5588.0
+Johor,2019,43,5681.0
+Johor,2019,44,5776.0
+Johor,2019,45,5869.0
+Johor,2019,46,5978.0
+Johor,2019,47,6073.0
+Johor,2019,48,6195.0
+Johor,2019,49,6296.0
+Johor,2019,50,6427.0
+Johor,2019,51,6560.0
+Johor,2019,52,6671.0
+Johor,2019,53,6772.0
+Johor,2019,54,6884.0
+Johor,2019,55,6995.0
+Johor,2019,56,7087.0
+Johor,2019,57,7204.0
+Johor,2019,58,7314.0
+Johor,2019,59,7431.0
+Johor,2019,60,7548.0
+Johor,2019,61,7670.0
+Johor,2019,62,7788.0
+Johor,2019,63,7903.0
+Johor,2019,64,8010.0
+Johor,2019,65,8192.0
+Johor,2019,66,8330.0
+Johor,2019,67,8477.0
+Johor,2019,68,8612.0
+Johor,2019,69,8746.0
+Johor,2019,70,8927.0
+Johor,2019,71,9070.0
+Johor,2019,72,9254.0
+Johor,2019,73,9444.0
+Johor,2019,74,9624.0
+Johor,2019,75,9807.0
+Johor,2019,76,10001.0
+Johor,2019,77,10170.0
+Johor,2019,78,10392.0
+Johor,2019,79,10613.0
+Johor,2019,80,10879.0
+Johor,2019,81,11162.0
+Johor,2019,82,11467.0
+Johor,2019,83,11759.0
+Johor,2019,84,12098.0
+Johor,2019,85,12466.0
+Johor,2019,86,12784.0
+Johor,2019,87,13174.0
+Johor,2019,88,13572.0
+Johor,2019,89,14120.0
+Johor,2019,90,14628.0
+Johor,2019,91,15303.0
+Johor,2019,92,15872.0
+Johor,2019,93,16606.0
+Johor,2019,94,17287.0
+Johor,2019,95,18693.0
+Johor,2019,96,20028.0
+Johor,2019,97,21946.0
+Johor,2019,98,25929.0
+Johor,2019,99,33688.0
+Kedah,2019,1,1077.0
+Kedah,2019,2,1184.0
+Kedah,2019,3,1372.0
+Kedah,2019,4,1529.0
+Kedah,2019,5,1648.0
+Kedah,2019,6,1740.0
+Kedah,2019,7,1811.0
+Kedah,2019,8,1946.0
+Kedah,2019,9,2027.0
+Kedah,2019,10,2099.0
+Kedah,2019,11,2170.0
+Kedah,2019,12,2248.0
+Kedah,2019,13,2340.0
+Kedah,2019,14,2416.0
+Kedah,2019,15,2494.0
+Kedah,2019,16,2539.0
+Kedah,2019,17,2577.0
+Kedah,2019,18,2614.0
+Kedah,2019,19,2645.0
+Kedah,2019,20,2685.0
+Kedah,2019,21,2729.0
+Kedah,2019,22,2789.0
+Kedah,2019,23,2835.0
+Kedah,2019,24,2884.0
+Kedah,2019,25,2941.0
+Kedah,2019,26,2991.0
+Kedah,2019,27,3035.0
+Kedah,2019,28,3090.0
+Kedah,2019,29,3132.0
+Kedah,2019,30,3182.0
+Kedah,2019,31,3234.0
+Kedah,2019,32,3290.0
+Kedah,2019,33,3343.0
+Kedah,2019,34,3399.0
+Kedah,2019,35,3444.0
+Kedah,2019,36,3500.0
+Kedah,2019,37,3551.0
+Kedah,2019,38,3610.0
+Kedah,2019,39,3677.0
+Kedah,2019,40,3709.0
+Kedah,2019,41,3782.0
+Kedah,2019,42,3853.0
+Kedah,2019,43,3915.0
+Kedah,2019,44,3989.0
+Kedah,2019,45,4037.0
+Kedah,2019,46,4097.0
+Kedah,2019,47,4152.0
+Kedah,2019,48,4216.0
+Kedah,2019,49,4278.0
+Kedah,2019,50,4324.0
+Kedah,2019,51,4393.0
+Kedah,2019,52,4445.0
+Kedah,2019,53,4535.0
+Kedah,2019,54,4608.0
+Kedah,2019,55,4679.0
+Kedah,2019,56,4748.0
+Kedah,2019,57,4820.0
+Kedah,2019,58,4912.0
+Kedah,2019,59,4965.0
+Kedah,2019,60,5055.0
+Kedah,2019,61,5146.0
+Kedah,2019,62,5262.0
+Kedah,2019,63,5342.0
+Kedah,2019,64,5452.0
+Kedah,2019,65,5547.0
+Kedah,2019,66,5632.0
+Kedah,2019,67,5751.0
+Kedah,2019,68,5853.0
+Kedah,2019,69,5974.0
+Kedah,2019,70,6102.0
+Kedah,2019,71,6239.0
+Kedah,2019,72,6393.0
+Kedah,2019,73,6508.0
+Kedah,2019,74,6639.0
+Kedah,2019,75,6802.0
+Kedah,2019,76,6941.0
+Kedah,2019,77,7105.0
+Kedah,2019,78,7239.0
+Kedah,2019,79,7403.0
+Kedah,2019,80,7549.0
+Kedah,2019,81,7819.0
+Kedah,2019,82,7994.0
+Kedah,2019,83,8206.0
+Kedah,2019,84,8457.0
+Kedah,2019,85,8655.0
+Kedah,2019,86,8902.0
+Kedah,2019,87,9196.0
+Kedah,2019,88,9535.0
+Kedah,2019,89,9861.0
+Kedah,2019,90,10204.0
+Kedah,2019,91,10611.0
+Kedah,2019,92,11073.0
+Kedah,2019,93,11532.0
+Kedah,2019,94,12097.0
+Kedah,2019,95,12798.0
+Kedah,2019,96,14181.0
+Kedah,2019,97,15769.0
+Kedah,2019,98,17699.0
+Kedah,2019,99,21955.0
+Kelantan,2019,1,975.0
+Kelantan,2019,2,1107.0
+Kelantan,2019,3,1200.0
+Kelantan,2019,4,1388.0
+Kelantan,2019,5,1486.0
+Kelantan,2019,6,1563.0
+Kelantan,2019,7,1627.0
+Kelantan,2019,8,1681.0
+Kelantan,2019,9,1741.0
+Kelantan,2019,10,1792.0
+Kelantan,2019,11,1845.0
+Kelantan,2019,12,1906.0
+Kelantan,2019,13,1960.0
+Kelantan,2019,14,2006.0
+Kelantan,2019,15,2066.0
+Kelantan,2019,16,2114.0
+Kelantan,2019,17,2156.0
+Kelantan,2019,18,2206.0
+Kelantan,2019,19,2257.0
+Kelantan,2019,20,2300.0
+Kelantan,2019,21,2356.0
+Kelantan,2019,22,2401.0
+Kelantan,2019,23,2454.0
+Kelantan,2019,24,2490.0
+Kelantan,2019,25,2513.0
+Kelantan,2019,26,2531.0
+Kelantan,2019,27,2555.0
+Kelantan,2019,28,2583.0
+Kelantan,2019,29,2605.0
+Kelantan,2019,30,2639.0
+Kelantan,2019,31,2671.0
+Kelantan,2019,32,2699.0
+Kelantan,2019,33,2737.0
+Kelantan,2019,34,2777.0
+Kelantan,2019,35,2818.0
+Kelantan,2019,36,2861.0
+Kelantan,2019,37,2912.0
+Kelantan,2019,38,2959.0
+Kelantan,2019,39,2994.0
+Kelantan,2019,40,3029.0
+Kelantan,2019,41,3068.0
+Kelantan,2019,42,3114.0
+Kelantan,2019,43,3169.0
+Kelantan,2019,44,3225.0
+Kelantan,2019,45,3284.0
+Kelantan,2019,46,3332.0
+Kelantan,2019,47,3387.0
+Kelantan,2019,48,3457.0
+Kelantan,2019,49,3507.0
+Kelantan,2019,50,3564.0
+Kelantan,2019,51,3623.0
+Kelantan,2019,52,3682.0
+Kelantan,2019,53,3746.0
+Kelantan,2019,54,3804.0
+Kelantan,2019,55,3861.0
+Kelantan,2019,56,3939.0
+Kelantan,2019,57,4010.0
+Kelantan,2019,58,4079.0
+Kelantan,2019,59,4144.0
+Kelantan,2019,60,4241.0
+Kelantan,2019,61,4329.0
+Kelantan,2019,62,4419.0
+Kelantan,2019,63,4502.0
+Kelantan,2019,64,4591.0
+Kelantan,2019,65,4682.0
+Kelantan,2019,66,4778.0
+Kelantan,2019,67,4890.0
+Kelantan,2019,68,4966.0
+Kelantan,2019,69,5068.0
+Kelantan,2019,70,5187.0
+Kelantan,2019,71,5302.0
+Kelantan,2019,72,5432.0
+Kelantan,2019,73,5573.0
+Kelantan,2019,74,5710.0
+Kelantan,2019,75,5827.0
+Kelantan,2019,76,5968.0
+Kelantan,2019,77,6110.0
+Kelantan,2019,78,6269.0
+Kelantan,2019,79,6481.0
+Kelantan,2019,80,6619.0
+Kelantan,2019,81,6787.0
+Kelantan,2019,82,7038.0
+Kelantan,2019,83,7340.0
+Kelantan,2019,84,7571.0
+Kelantan,2019,85,7825.0
+Kelantan,2019,86,8122.0
+Kelantan,2019,87,8344.0
+Kelantan,2019,88,8649.0
+Kelantan,2019,89,9058.0
+Kelantan,2019,90,9509.0
+Kelantan,2019,91,9977.0
+Kelantan,2019,92,10795.0
+Kelantan,2019,93,11311.0
+Kelantan,2019,94,12095.0
+Kelantan,2019,95,12974.0
+Kelantan,2019,96,13779.0
+Kelantan,2019,97,15116.0
+Kelantan,2019,98,16719.0
+Kelantan,2019,99,19812.0
+Melaka,2019,1,1305.0
+Melaka,2019,2,1578.0
+Melaka,2019,3,1806.0
+Melaka,2019,4,1981.0
+Melaka,2019,5,2080.0
+Melaka,2019,6,2242.0
+Melaka,2019,7,2376.0
+Melaka,2019,8,2520.0
+Melaka,2019,9,2566.0
+Melaka,2019,10,2618.0
+Melaka,2019,11,2664.0
+Melaka,2019,12,2708.0
+Melaka,2019,13,2778.0
+Melaka,2019,14,2838.0
+Melaka,2019,15,2907.0
+Melaka,2019,16,2974.0
+Melaka,2019,17,3029.0
+Melaka,2019,18,3144.0
+Melaka,2019,19,3208.0
+Melaka,2019,20,3318.0
+Melaka,2019,21,3390.0
+Melaka,2019,22,3474.0
+Melaka,2019,23,3547.0
+Melaka,2019,24,3621.0
+Melaka,2019,25,3744.0
+Melaka,2019,26,3790.0
+Melaka,2019,27,3919.0
+Melaka,2019,28,4013.0
+Melaka,2019,29,4113.0
+Melaka,2019,30,4186.0
+Melaka,2019,31,4259.0
+Melaka,2019,32,4353.0
+Melaka,2019,33,4455.0
+Melaka,2019,34,4571.0
+Melaka,2019,35,4654.0
+Melaka,2019,36,4738.0
+Melaka,2019,37,4821.0
+Melaka,2019,38,4895.0
+Melaka,2019,39,5008.0
+Melaka,2019,40,5109.0
+Melaka,2019,41,5222.0
+Melaka,2019,42,5320.0
+Melaka,2019,43,5423.0
+Melaka,2019,44,5577.0
+Melaka,2019,45,5661.0
+Melaka,2019,46,5750.0
+Melaka,2019,47,5856.0
+Melaka,2019,48,5928.0
+Melaka,2019,49,5991.0
+Melaka,2019,50,6063.0
+Melaka,2019,51,6152.0
+Melaka,2019,52,6257.0
+Melaka,2019,53,6380.0
+Melaka,2019,54,6452.0
+Melaka,2019,55,6553.0
+Melaka,2019,56,6632.0
+Melaka,2019,57,6715.0
+Melaka,2019,58,6811.0
+Melaka,2019,59,6891.0
+Melaka,2019,60,7005.0
+Melaka,2019,61,7157.0
+Melaka,2019,62,7265.0
+Melaka,2019,63,7364.0
+Melaka,2019,64,7464.0
+Melaka,2019,65,7609.0
+Melaka,2019,66,7734.0
+Melaka,2019,67,7890.0
+Melaka,2019,68,8044.0
+Melaka,2019,69,8192.0
+Melaka,2019,70,8358.0
+Melaka,2019,71,8552.0
+Melaka,2019,72,8777.0
+Melaka,2019,73,9045.0
+Melaka,2019,74,9247.0
+Melaka,2019,75,9481.0
+Melaka,2019,76,9659.0
+Melaka,2019,77,9947.0
+Melaka,2019,78,10264.0
+Melaka,2019,79,10499.0
+Melaka,2019,80,10729.0
+Melaka,2019,81,10950.0
+Melaka,2019,82,11300.0
+Melaka,2019,83,11716.0
+Melaka,2019,84,11954.0
+Melaka,2019,85,12313.0
+Melaka,2019,86,12706.0
+Melaka,2019,87,13112.0
+Melaka,2019,88,13437.0
+Melaka,2019,89,13903.0
+Melaka,2019,90,14406.0
+Melaka,2019,91,15030.0
+Melaka,2019,92,15596.0
+Melaka,2019,93,16114.0
+Melaka,2019,94,16815.0
+Melaka,2019,95,17427.0
+Melaka,2019,96,19309.0
+Melaka,2019,97,22204.0
+Melaka,2019,98,26837.0
+Melaka,2019,99,33005.0
+Negeri Sembilan,2019,1,1187.0
+Negeri Sembilan,2019,2,1492.0
+Negeri Sembilan,2019,3,1653.0
+Negeri Sembilan,2019,4,1808.0
+Negeri Sembilan,2019,5,1945.0
+Negeri Sembilan,2019,6,2039.0
+Negeri Sembilan,2019,7,2190.0
+Negeri Sembilan,2019,8,2290.0
+Negeri Sembilan,2019,9,2354.0
+Negeri Sembilan,2019,10,2403.0
+Negeri Sembilan,2019,11,2462.0
+Negeri Sembilan,2019,12,2519.0
+Negeri Sembilan,2019,13,2549.0
+Negeri Sembilan,2019,14,2573.0
+Negeri Sembilan,2019,15,2610.0
+Negeri Sembilan,2019,16,2649.0
+Negeri Sembilan,2019,17,2681.0
+Negeri Sembilan,2019,18,2715.0
+Negeri Sembilan,2019,19,2748.0
+Negeri Sembilan,2019,20,2800.0
+Negeri Sembilan,2019,21,2847.0
+Negeri Sembilan,2019,22,2902.0
+Negeri Sembilan,2019,23,2953.0
+Negeri Sembilan,2019,24,3010.0
+Negeri Sembilan,2019,25,3069.0
+Negeri Sembilan,2019,26,3127.0
+Negeri Sembilan,2019,27,3201.0
+Negeri Sembilan,2019,28,3276.0
+Negeri Sembilan,2019,29,3351.0
+Negeri Sembilan,2019,30,3427.0
+Negeri Sembilan,2019,31,3499.0
+Negeri Sembilan,2019,32,3573.0
+Negeri Sembilan,2019,33,3667.0
+Negeri Sembilan,2019,34,3746.0
+Negeri Sembilan,2019,35,3842.0
+Negeri Sembilan,2019,36,3907.0
+Negeri Sembilan,2019,37,3977.0
+Negeri Sembilan,2019,38,4058.0
+Negeri Sembilan,2019,39,4149.0
+Negeri Sembilan,2019,40,4209.0
+Negeri Sembilan,2019,41,4299.0
+Negeri Sembilan,2019,42,4351.0
+Negeri Sembilan,2019,43,4441.0
+Negeri Sembilan,2019,44,4553.0
+Negeri Sembilan,2019,45,4629.0
+Negeri Sembilan,2019,46,4718.0
+Negeri Sembilan,2019,47,4840.0
+Negeri Sembilan,2019,48,4918.0
+Negeri Sembilan,2019,49,4958.0
+Negeri Sembilan,2019,50,5005.0
+Negeri Sembilan,2019,51,5056.0
+Negeri Sembilan,2019,52,5109.0
+Negeri Sembilan,2019,53,5190.0
+Negeri Sembilan,2019,54,5248.0
+Negeri Sembilan,2019,55,5385.0
+Negeri Sembilan,2019,56,5466.0
+Negeri Sembilan,2019,57,5546.0
+Negeri Sembilan,2019,58,5633.0
+Negeri Sembilan,2019,59,5706.0
+Negeri Sembilan,2019,60,5865.0
+Negeri Sembilan,2019,61,6039.0
+Negeri Sembilan,2019,62,6180.0
+Negeri Sembilan,2019,63,6297.0
+Negeri Sembilan,2019,64,6391.0
+Negeri Sembilan,2019,65,6524.0
+Negeri Sembilan,2019,66,6635.0
+Negeri Sembilan,2019,67,6795.0
+Negeri Sembilan,2019,68,6919.0
+Negeri Sembilan,2019,69,7059.0
+Negeri Sembilan,2019,70,7206.0
+Negeri Sembilan,2019,71,7360.0
+Negeri Sembilan,2019,72,7513.0
+Negeri Sembilan,2019,73,7675.0
+Negeri Sembilan,2019,74,7893.0
+Negeri Sembilan,2019,75,8022.0
+Negeri Sembilan,2019,76,8237.0
+Negeri Sembilan,2019,77,8485.0
+Negeri Sembilan,2019,78,8734.0
+Negeri Sembilan,2019,79,8995.0
+Negeri Sembilan,2019,80,9299.0
+Negeri Sembilan,2019,81,9556.0
+Negeri Sembilan,2019,82,9907.0
+Negeri Sembilan,2019,83,10254.0
+Negeri Sembilan,2019,84,10568.0
+Negeri Sembilan,2019,85,10843.0
+Negeri Sembilan,2019,86,11295.0
+Negeri Sembilan,2019,87,11756.0
+Negeri Sembilan,2019,88,12131.0
+Negeri Sembilan,2019,89,12769.0
+Negeri Sembilan,2019,90,13256.0
+Negeri Sembilan,2019,91,13913.0
+Negeri Sembilan,2019,92,14546.0
+Negeri Sembilan,2019,93,15928.0
+Negeri Sembilan,2019,94,16863.0
+Negeri Sembilan,2019,95,17979.0
+Negeri Sembilan,2019,96,19547.0
+Negeri Sembilan,2019,97,21053.0
+Negeri Sembilan,2019,98,24827.0
+Negeri Sembilan,2019,99,28178.0
+Pahang,2019,1,1162.0
+Pahang,2019,2,1563.0
+Pahang,2019,3,1780.0
+Pahang,2019,4,1952.0
+Pahang,2019,5,2082.0
+Pahang,2019,6,2224.0
+Pahang,2019,7,2341.0
+Pahang,2019,8,2435.0
+Pahang,2019,9,2505.0
+Pahang,2019,10,2553.0
+Pahang,2019,11,2587.0
+Pahang,2019,12,2633.0
+Pahang,2019,13,2677.0
+Pahang,2019,14,2714.0
+Pahang,2019,15,2765.0
+Pahang,2019,16,2816.0
+Pahang,2019,17,2862.0
+Pahang,2019,18,2921.0
+Pahang,2019,19,2966.0
+Pahang,2019,20,3017.0
+Pahang,2019,21,3071.0
+Pahang,2019,22,3109.0
+Pahang,2019,23,3144.0
+Pahang,2019,24,3179.0
+Pahang,2019,25,3223.0
+Pahang,2019,26,3264.0
+Pahang,2019,27,3317.0
+Pahang,2019,28,3363.0
+Pahang,2019,29,3404.0
+Pahang,2019,30,3452.0
+Pahang,2019,31,3488.0
+Pahang,2019,32,3523.0
+Pahang,2019,33,3563.0
+Pahang,2019,34,3592.0
+Pahang,2019,35,3648.0
+Pahang,2019,36,3704.0
+Pahang,2019,37,3744.0
+Pahang,2019,38,3801.0
+Pahang,2019,39,3855.0
+Pahang,2019,40,3899.0
+Pahang,2019,41,3947.0
+Pahang,2019,42,4008.0
+Pahang,2019,43,4066.0
+Pahang,2019,44,4121.0
+Pahang,2019,45,4162.0
+Pahang,2019,46,4216.0
+Pahang,2019,47,4278.0
+Pahang,2019,48,4325.0
+Pahang,2019,49,4377.0
+Pahang,2019,50,4441.0
+Pahang,2019,51,4485.0
+Pahang,2019,52,4534.0
+Pahang,2019,53,4606.0
+Pahang,2019,54,4664.0
+Pahang,2019,55,4739.0
+Pahang,2019,56,4798.0
+Pahang,2019,57,4866.0
+Pahang,2019,58,4972.0
+Pahang,2019,59,5055.0
+Pahang,2019,60,5132.0
+Pahang,2019,61,5215.0
+Pahang,2019,62,5320.0
+Pahang,2019,63,5398.0
+Pahang,2019,64,5499.0
+Pahang,2019,65,5586.0
+Pahang,2019,66,5674.0
+Pahang,2019,67,5794.0
+Pahang,2019,68,5907.0
+Pahang,2019,69,6026.0
+Pahang,2019,70,6131.0
+Pahang,2019,71,6256.0
+Pahang,2019,72,6367.0
+Pahang,2019,73,6479.0
+Pahang,2019,74,6613.0
+Pahang,2019,75,6775.0
+Pahang,2019,76,6927.0
+Pahang,2019,77,7047.0
+Pahang,2019,78,7239.0
+Pahang,2019,79,7416.0
+Pahang,2019,80,7599.0
+Pahang,2019,81,7763.0
+Pahang,2019,82,7974.0
+Pahang,2019,83,8158.0
+Pahang,2019,84,8411.0
+Pahang,2019,85,8697.0
+Pahang,2019,86,9017.0
+Pahang,2019,87,9365.0
+Pahang,2019,88,9619.0
+Pahang,2019,89,10029.0
+Pahang,2019,90,10438.0
+Pahang,2019,91,10919.0
+Pahang,2019,92,11394.0
+Pahang,2019,93,11858.0
+Pahang,2019,94,12507.0
+Pahang,2019,95,13154.0
+Pahang,2019,96,14466.0
+Pahang,2019,97,15661.0
+Pahang,2019,98,17641.0
+Pahang,2019,99,21371.0
+Perak,2019,1,990.0
+Perak,2019,2,1164.0
+Perak,2019,3,1363.0
+Perak,2019,4,1540.0
+Perak,2019,5,1656.0
+Perak,2019,6,1753.0
+Perak,2019,7,1831.0
+Perak,2019,8,1905.0
+Perak,2019,9,1973.0
+Perak,2019,10,2044.0
+Perak,2019,11,2120.0
+Perak,2019,12,2184.0
+Perak,2019,13,2279.0
+Perak,2019,14,2345.0
+Perak,2019,15,2406.0
+Perak,2019,16,2481.0
+Perak,2019,17,2520.0
+Perak,2019,18,2549.0
+Perak,2019,19,2580.0
+Perak,2019,20,2615.0
+Perak,2019,21,2654.0
+Perak,2019,22,2685.0
+Perak,2019,23,2726.0
+Perak,2019,24,2774.0
+Perak,2019,25,2825.0
+Perak,2019,26,2868.0
+Perak,2019,27,2917.0
+Perak,2019,28,2960.0
+Perak,2019,29,3002.0
+Perak,2019,30,3046.0
+Perak,2019,31,3124.0
+Perak,2019,32,3184.0
+Perak,2019,33,3240.0
+Perak,2019,34,3292.0
+Perak,2019,35,3346.0
+Perak,2019,36,3418.0
+Perak,2019,37,3477.0
+Perak,2019,38,3546.0
+Perak,2019,39,3597.0
+Perak,2019,40,3659.0
+Perak,2019,41,3714.0
+Perak,2019,42,3780.0
+Perak,2019,43,3839.0
+Perak,2019,44,3905.0
+Perak,2019,45,3964.0
+Perak,2019,46,4036.0
+Perak,2019,47,4085.0
+Perak,2019,48,4142.0
+Perak,2019,49,4208.0
+Perak,2019,50,4274.0
+Perak,2019,51,4344.0
+Perak,2019,52,4407.0
+Perak,2019,53,4489.0
+Perak,2019,54,4566.0
+Perak,2019,55,4636.0
+Perak,2019,56,4716.0
+Perak,2019,57,4779.0
+Perak,2019,58,4852.0
+Perak,2019,59,4953.0
+Perak,2019,60,5042.0
+Perak,2019,61,5117.0
+Perak,2019,62,5208.0
+Perak,2019,63,5304.0
+Perak,2019,64,5403.0
+Perak,2019,65,5536.0
+Perak,2019,66,5683.0
+Perak,2019,67,5808.0
+Perak,2019,68,5914.0
+Perak,2019,69,6003.0
+Perak,2019,70,6088.0
+Perak,2019,71,6216.0
+Perak,2019,72,6328.0
+Perak,2019,73,6456.0
+Perak,2019,74,6580.0
+Perak,2019,75,6731.0
+Perak,2019,76,6848.0
+Perak,2019,77,7026.0
+Perak,2019,78,7239.0
+Perak,2019,79,7438.0
+Perak,2019,80,7639.0
+Perak,2019,81,7825.0
+Perak,2019,82,7996.0
+Perak,2019,83,8217.0
+Perak,2019,84,8495.0
+Perak,2019,85,8772.0
+Perak,2019,86,9026.0
+Perak,2019,87,9270.0
+Perak,2019,88,9596.0
+Perak,2019,89,9982.0
+Perak,2019,90,10307.0
+Perak,2019,91,10703.0
+Perak,2019,92,11297.0
+Perak,2019,93,11878.0
+Perak,2019,94,12663.0
+Perak,2019,95,13705.0
+Perak,2019,96,14703.0
+Perak,2019,97,15860.0
+Perak,2019,98,18063.0
+Perak,2019,99,22232.0
+Perlis,2019,1,866.0
+Perlis,2019,2,1083.0
+Perlis,2019,3,1239.0
+Perlis,2019,4,1546.0
+Perlis,2019,5,1618.0
+Perlis,2019,6,1748.0
+Perlis,2019,7,1868.0
+Perlis,2019,8,2009.0
+Perlis,2019,9,2094.0
+Perlis,2019,10,2157.0
+Perlis,2019,11,2222.0
+Perlis,2019,12,2299.0
+Perlis,2019,13,2402.0
+Perlis,2019,14,2457.0
+Perlis,2019,15,2497.0
+Perlis,2019,16,2519.0
+Perlis,2019,17,2558.0
+Perlis,2019,18,2584.0
+Perlis,2019,19,2631.0
+Perlis,2019,20,2664.0
+Perlis,2019,21,2693.0
+Perlis,2019,22,2737.0
+Perlis,2019,23,2773.0
+Perlis,2019,24,2847.0
+Perlis,2019,25,2883.0
+Perlis,2019,26,2966.0
+Perlis,2019,27,3017.0
+Perlis,2019,28,3061.0
+Perlis,2019,29,3169.0
+Perlis,2019,30,3229.0
+Perlis,2019,31,3301.0
+Perlis,2019,32,3370.0
+Perlis,2019,33,3435.0
+Perlis,2019,34,3494.0
+Perlis,2019,35,3552.0
+Perlis,2019,36,3629.0
+Perlis,2019,37,3672.0
+Perlis,2019,38,3766.0
+Perlis,2019,39,3833.0
+Perlis,2019,40,3869.0
+Perlis,2019,41,3926.0
+Perlis,2019,42,3974.0
+Perlis,2019,43,4047.0
+Perlis,2019,44,4136.0
+Perlis,2019,45,4227.0
+Perlis,2019,46,4276.0
+Perlis,2019,47,4329.0
+Perlis,2019,48,4438.0
+Perlis,2019,49,4499.0
+Perlis,2019,50,4596.0
+Perlis,2019,51,4638.0
+Perlis,2019,52,4704.0
+Perlis,2019,53,4793.0
+Perlis,2019,54,4889.0
+Perlis,2019,55,4971.0
+Perlis,2019,56,5018.0
+Perlis,2019,57,5052.0
+Perlis,2019,58,5150.0
+Perlis,2019,59,5252.0
+Perlis,2019,60,5376.0
+Perlis,2019,61,5442.0
+Perlis,2019,62,5566.0
+Perlis,2019,63,5658.0
+Perlis,2019,64,5779.0
+Perlis,2019,65,5902.0
+Perlis,2019,66,6005.0
+Perlis,2019,67,6089.0
+Perlis,2019,68,6194.0
+Perlis,2019,69,6322.0
+Perlis,2019,70,6438.0
+Perlis,2019,71,6576.0
+Perlis,2019,72,6693.0
+Perlis,2019,73,6844.0
+Perlis,2019,74,6992.0
+Perlis,2019,75,7089.0
+Perlis,2019,76,7280.0
+Perlis,2019,77,7360.0
+Perlis,2019,78,7531.0
+Perlis,2019,79,7692.0
+Perlis,2019,80,7929.0
+Perlis,2019,81,8076.0
+Perlis,2019,82,8278.0
+Perlis,2019,83,8479.0
+Perlis,2019,84,8572.0
+Perlis,2019,85,8771.0
+Perlis,2019,86,8930.0
+Perlis,2019,87,9106.0
+Perlis,2019,88,9289.0
+Perlis,2019,89,9546.0
+Perlis,2019,90,9837.0
+Perlis,2019,91,10340.0
+Perlis,2019,92,10712.0
+Perlis,2019,93,11200.0
+Perlis,2019,94,11666.0
+Perlis,2019,95,12078.0
+Perlis,2019,96,12796.0
+Perlis,2019,97,13834.0
+Perlis,2019,98,14839.0
+Perlis,2019,99,17955.0
+Pulau Pinang,2019,1,1458.0
+Pulau Pinang,2019,2,1770.0
+Pulau Pinang,2019,3,2032.0
+Pulau Pinang,2019,4,2176.0
+Pulau Pinang,2019,5,2357.0
+Pulau Pinang,2019,6,2495.0
+Pulau Pinang,2019,7,2567.0
+Pulau Pinang,2019,8,2625.0
+Pulau Pinang,2019,9,2672.0
+Pulau Pinang,2019,10,2769.0
+Pulau Pinang,2019,11,2864.0
+Pulau Pinang,2019,12,2981.0
+Pulau Pinang,2019,13,3069.0
+Pulau Pinang,2019,14,3165.0
+Pulau Pinang,2019,15,3232.0
+Pulau Pinang,2019,16,3322.0
+Pulau Pinang,2019,17,3388.0
+Pulau Pinang,2019,18,3470.0
+Pulau Pinang,2019,19,3554.0
+Pulau Pinang,2019,20,3632.0
+Pulau Pinang,2019,21,3714.0
+Pulau Pinang,2019,22,3829.0
+Pulau Pinang,2019,23,3914.0
+Pulau Pinang,2019,24,3990.0
+Pulau Pinang,2019,25,4065.0
+Pulau Pinang,2019,26,4121.0
+Pulau Pinang,2019,27,4207.0
+Pulau Pinang,2019,28,4287.0
+Pulau Pinang,2019,29,4362.0
+Pulau Pinang,2019,30,4459.0
+Pulau Pinang,2019,31,4539.0
+Pulau Pinang,2019,32,4633.0
+Pulau Pinang,2019,33,4722.0
+Pulau Pinang,2019,34,4801.0
+Pulau Pinang,2019,35,4891.0
+Pulau Pinang,2019,36,4990.0
+Pulau Pinang,2019,37,5055.0
+Pulau Pinang,2019,38,5147.0
+Pulau Pinang,2019,39,5227.0
+Pulau Pinang,2019,40,5309.0
+Pulau Pinang,2019,41,5385.0
+Pulau Pinang,2019,42,5472.0
+Pulau Pinang,2019,43,5542.0
+Pulau Pinang,2019,44,5620.0
+Pulau Pinang,2019,45,5704.0
+Pulau Pinang,2019,46,5799.0
+Pulau Pinang,2019,47,5895.0
+Pulau Pinang,2019,48,5989.0
+Pulau Pinang,2019,49,6078.0
+Pulau Pinang,2019,50,6170.0
+Pulau Pinang,2019,51,6278.0
+Pulau Pinang,2019,52,6383.0
+Pulau Pinang,2019,53,6480.0
+Pulau Pinang,2019,54,6614.0
+Pulau Pinang,2019,55,6725.0
+Pulau Pinang,2019,56,6820.0
+Pulau Pinang,2019,57,6949.0
+Pulau Pinang,2019,58,7049.0
+Pulau Pinang,2019,59,7159.0
+Pulau Pinang,2019,60,7263.0
+Pulau Pinang,2019,61,7367.0
+Pulau Pinang,2019,62,7521.0
+Pulau Pinang,2019,63,7612.0
+Pulau Pinang,2019,64,7719.0
+Pulau Pinang,2019,65,7856.0
+Pulau Pinang,2019,66,8013.0
+Pulau Pinang,2019,67,8143.0
+Pulau Pinang,2019,68,8253.0
+Pulau Pinang,2019,69,8416.0
+Pulau Pinang,2019,70,8561.0
+Pulau Pinang,2019,71,8731.0
+Pulau Pinang,2019,72,8910.0
+Pulau Pinang,2019,73,9063.0
+Pulau Pinang,2019,74,9295.0
+Pulau Pinang,2019,75,9551.0
+Pulau Pinang,2019,76,9805.0
+Pulau Pinang,2019,77,10059.0
+Pulau Pinang,2019,78,10238.0
+Pulau Pinang,2019,79,10443.0
+Pulau Pinang,2019,80,10679.0
+Pulau Pinang,2019,81,10932.0
+Pulau Pinang,2019,82,11170.0
+Pulau Pinang,2019,83,11370.0
+Pulau Pinang,2019,84,11683.0
+Pulau Pinang,2019,85,11981.0
+Pulau Pinang,2019,86,12270.0
+Pulau Pinang,2019,87,12619.0
+Pulau Pinang,2019,88,13124.0
+Pulau Pinang,2019,89,13537.0
+Pulau Pinang,2019,90,14001.0
+Pulau Pinang,2019,91,14567.0
+Pulau Pinang,2019,92,15083.0
+Pulau Pinang,2019,93,15781.0
+Pulau Pinang,2019,94,16485.0
+Pulau Pinang,2019,95,17641.0
+Pulau Pinang,2019,96,19189.0
+Pulau Pinang,2019,97,21175.0
+Pulau Pinang,2019,98,24088.0
+Pulau Pinang,2019,99,32642.0
+Sabah,2019,1,980.0
+Sabah,2019,2,1116.0
+Sabah,2019,3,1221.0
+Sabah,2019,4,1398.0
+Sabah,2019,5,1516.0
+Sabah,2019,6,1587.0
+Sabah,2019,7,1654.0
+Sabah,2019,8,1711.0
+Sabah,2019,9,1775.0
+Sabah,2019,10,1835.0
+Sabah,2019,11,1904.0
+Sabah,2019,12,1966.0
+Sabah,2019,13,2027.0
+Sabah,2019,14,2083.0
+Sabah,2019,15,2135.0
+Sabah,2019,16,2195.0
+Sabah,2019,17,2260.0
+Sabah,2019,18,2332.0
+Sabah,2019,19,2386.0
+Sabah,2019,20,2443.0
+Sabah,2019,21,2491.0
+Sabah,2019,22,2528.0
+Sabah,2019,23,2558.0
+Sabah,2019,24,2585.0
+Sabah,2019,25,2620.0
+Sabah,2019,26,2661.0
+Sabah,2019,27,2697.0
+Sabah,2019,28,2744.0
+Sabah,2019,29,2803.0
+Sabah,2019,30,2861.0
+Sabah,2019,31,2926.0
+Sabah,2019,32,2988.0
+Sabah,2019,33,3045.0
+Sabah,2019,34,3109.0
+Sabah,2019,35,3162.0
+Sabah,2019,36,3231.0
+Sabah,2019,37,3296.0
+Sabah,2019,38,3361.0
+Sabah,2019,39,3416.0
+Sabah,2019,40,3489.0
+Sabah,2019,41,3555.0
+Sabah,2019,42,3644.0
+Sabah,2019,43,3713.0
+Sabah,2019,44,3794.0
+Sabah,2019,45,3864.0
+Sabah,2019,46,3933.0
+Sabah,2019,47,4019.0
+Sabah,2019,48,4086.0
+Sabah,2019,49,4146.0
+Sabah,2019,50,4235.0
+Sabah,2019,51,4326.0
+Sabah,2019,52,4409.0
+Sabah,2019,53,4485.0
+Sabah,2019,54,4570.0
+Sabah,2019,55,4667.0
+Sabah,2019,56,4762.0
+Sabah,2019,57,4873.0
+Sabah,2019,58,4978.0
+Sabah,2019,59,5078.0
+Sabah,2019,60,5176.0
+Sabah,2019,61,5285.0
+Sabah,2019,62,5397.0
+Sabah,2019,63,5512.0
+Sabah,2019,64,5623.0
+Sabah,2019,65,5765.0
+Sabah,2019,66,5875.0
+Sabah,2019,67,5996.0
+Sabah,2019,68,6126.0
+Sabah,2019,69,6240.0
+Sabah,2019,70,6376.0
+Sabah,2019,71,6502.0
+Sabah,2019,72,6660.0
+Sabah,2019,73,6828.0
+Sabah,2019,74,7002.0
+Sabah,2019,75,7197.0
+Sabah,2019,76,7342.0
+Sabah,2019,77,7548.0
+Sabah,2019,78,7774.0
+Sabah,2019,79,7993.0
+Sabah,2019,80,8199.0
+Sabah,2019,81,8417.0
+Sabah,2019,82,8653.0
+Sabah,2019,83,8938.0
+Sabah,2019,84,9262.0
+Sabah,2019,85,9567.0
+Sabah,2019,86,9885.0
+Sabah,2019,87,10224.0
+Sabah,2019,88,10635.0
+Sabah,2019,89,11020.0
+Sabah,2019,90,11461.0
+Sabah,2019,91,11936.0
+Sabah,2019,92,12431.0
+Sabah,2019,93,13034.0
+Sabah,2019,94,13753.0
+Sabah,2019,95,14718.0
+Sabah,2019,96,15728.0
+Sabah,2019,97,17458.0
+Sabah,2019,98,19455.0
+Sabah,2019,99,23915.0
+Sarawak,2019,1,1033.0
+Sarawak,2019,2,1146.0
+Sarawak,2019,3,1237.0
+Sarawak,2019,4,1456.0
+Sarawak,2019,5,1546.0
+Sarawak,2019,6,1638.0
+Sarawak,2019,7,1721.0
+Sarawak,2019,8,1797.0
+Sarawak,2019,9,1869.0
+Sarawak,2019,10,1950.0
+Sarawak,2019,11,2019.0
+Sarawak,2019,12,2087.0
+Sarawak,2019,13,2144.0
+Sarawak,2019,14,2202.0
+Sarawak,2019,15,2260.0
+Sarawak,2019,16,2329.0
+Sarawak,2019,17,2399.0
+Sarawak,2019,18,2457.0
+Sarawak,2019,19,2508.0
+Sarawak,2019,20,2540.0
+Sarawak,2019,21,2572.0
+Sarawak,2019,22,2610.0
+Sarawak,2019,23,2657.0
+Sarawak,2019,24,2695.0
+Sarawak,2019,25,2742.0
+Sarawak,2019,26,2807.0
+Sarawak,2019,27,2858.0
+Sarawak,2019,28,2908.0
+Sarawak,2019,29,2968.0
+Sarawak,2019,30,3032.0
+Sarawak,2019,31,3092.0
+Sarawak,2019,32,3159.0
+Sarawak,2019,33,3222.0
+Sarawak,2019,34,3288.0
+Sarawak,2019,35,3357.0
+Sarawak,2019,36,3418.0
+Sarawak,2019,37,3492.0
+Sarawak,2019,38,3564.0
+Sarawak,2019,39,3650.0
+Sarawak,2019,40,3719.0
+Sarawak,2019,41,3799.0
+Sarawak,2019,42,3876.0
+Sarawak,2019,43,3959.0
+Sarawak,2019,44,4028.0
+Sarawak,2019,45,4111.0
+Sarawak,2019,46,4200.0
+Sarawak,2019,47,4279.0
+Sarawak,2019,48,4360.0
+Sarawak,2019,49,4453.0
+Sarawak,2019,50,4544.0
+Sarawak,2019,51,4632.0
+Sarawak,2019,52,4721.0
+Sarawak,2019,53,4808.0
+Sarawak,2019,54,4883.0
+Sarawak,2019,55,4978.0
+Sarawak,2019,56,5077.0
+Sarawak,2019,57,5178.0
+Sarawak,2019,58,5267.0
+Sarawak,2019,59,5365.0
+Sarawak,2019,60,5477.0
+Sarawak,2019,61,5577.0
+Sarawak,2019,62,5704.0
+Sarawak,2019,63,5839.0
+Sarawak,2019,64,5964.0
+Sarawak,2019,65,6085.0
+Sarawak,2019,66,6231.0
+Sarawak,2019,67,6363.0
+Sarawak,2019,68,6481.0
+Sarawak,2019,69,6607.0
+Sarawak,2019,70,6776.0
+Sarawak,2019,71,6911.0
+Sarawak,2019,72,7063.0
+Sarawak,2019,73,7213.0
+Sarawak,2019,74,7376.0
+Sarawak,2019,75,7580.0
+Sarawak,2019,76,7773.0
+Sarawak,2019,77,8003.0
+Sarawak,2019,78,8178.0
+Sarawak,2019,79,8382.0
+Sarawak,2019,80,8649.0
+Sarawak,2019,81,8898.0
+Sarawak,2019,82,9118.0
+Sarawak,2019,83,9419.0
+Sarawak,2019,84,9699.0
+Sarawak,2019,85,10015.0
+Sarawak,2019,86,10372.0
+Sarawak,2019,87,10716.0
+Sarawak,2019,88,11056.0
+Sarawak,2019,89,11435.0
+Sarawak,2019,90,11858.0
+Sarawak,2019,91,12336.0
+Sarawak,2019,92,12936.0
+Sarawak,2019,93,13565.0
+Sarawak,2019,94,14232.0
+Sarawak,2019,95,15039.0
+Sarawak,2019,96,16011.0
+Sarawak,2019,97,17250.0
+Sarawak,2019,98,19679.0
+Sarawak,2019,99,23394.0
+Selangor,2019,1,1832.0
+Selangor,2019,2,2161.0
+Selangor,2019,3,2469.0
+Selangor,2019,4,2610.0
+Selangor,2019,5,2757.0
+Selangor,2019,6,2945.0
+Selangor,2019,7,3098.0
+Selangor,2019,8,3242.0
+Selangor,2019,9,3372.0
+Selangor,2019,10,3479.0
+Selangor,2019,11,3599.0
+Selangor,2019,12,3710.0
+Selangor,2019,13,3834.0
+Selangor,2019,14,3962.0
+Selangor,2019,15,4071.0
+Selangor,2019,16,4168.0
+Selangor,2019,17,4299.0
+Selangor,2019,18,4399.0
+Selangor,2019,19,4527.0
+Selangor,2019,20,4657.0
+Selangor,2019,21,4771.0
+Selangor,2019,22,4892.0
+Selangor,2019,23,5023.0
+Selangor,2019,24,5151.0
+Selangor,2019,25,5253.0
+Selangor,2019,26,5358.0
+Selangor,2019,27,5484.0
+Selangor,2019,28,5615.0
+Selangor,2019,29,5729.0
+Selangor,2019,30,5837.0
+Selangor,2019,31,5928.0
+Selangor,2019,32,6053.0
+Selangor,2019,33,6194.0
+Selangor,2019,34,6311.0
+Selangor,2019,35,6423.0
+Selangor,2019,36,6548.0
+Selangor,2019,37,6644.0
+Selangor,2019,38,6771.0
+Selangor,2019,39,6880.0
+Selangor,2019,40,6959.0
+Selangor,2019,41,7055.0
+Selangor,2019,42,7167.0
+Selangor,2019,43,7262.0
+Selangor,2019,44,7398.0
+Selangor,2019,45,7509.0
+Selangor,2019,46,7643.0
+Selangor,2019,47,7809.0
+Selangor,2019,48,7939.0
+Selangor,2019,49,8076.0
+Selangor,2019,50,8210.0
+Selangor,2019,51,8343.0
+Selangor,2019,52,8500.0
+Selangor,2019,53,8627.0
+Selangor,2019,54,8780.0
+Selangor,2019,55,8914.0
+Selangor,2019,56,9080.0
+Selangor,2019,57,9232.0
+Selangor,2019,58,9387.0
+Selangor,2019,59,9563.0
+Selangor,2019,60,9740.0
+Selangor,2019,61,9905.0
+Selangor,2019,62,10052.0
+Selangor,2019,63,10235.0
+Selangor,2019,64,10438.0
+Selangor,2019,65,10634.0
+Selangor,2019,66,10794.0
+Selangor,2019,67,11016.0
+Selangor,2019,68,11212.0
+Selangor,2019,69,11409.0
+Selangor,2019,70,11656.0
+Selangor,2019,71,11845.0
+Selangor,2019,72,12091.0
+Selangor,2019,73,12331.0
+Selangor,2019,74,12599.0
+Selangor,2019,75,12895.0
+Selangor,2019,76,13173.0
+Selangor,2019,77,13485.0
+Selangor,2019,78,13801.0
+Selangor,2019,79,14113.0
+Selangor,2019,80,14439.0
+Selangor,2019,81,14802.0
+Selangor,2019,82,15187.0
+Selangor,2019,83,15651.0
+Selangor,2019,84,16122.0
+Selangor,2019,85,16773.0
+Selangor,2019,86,17340.0
+Selangor,2019,87,17846.0
+Selangor,2019,88,18647.0
+Selangor,2019,89,19300.0
+Selangor,2019,90,20181.0
+Selangor,2019,91,21139.0
+Selangor,2019,92,22294.0
+Selangor,2019,93,23650.0
+Selangor,2019,94,25122.0
+Selangor,2019,95,26853.0
+Selangor,2019,96,29312.0
+Selangor,2019,97,33272.0
+Selangor,2019,98,38544.0
+Selangor,2019,99,49484.0
+Terengganu,2019,1,1238.0
+Terengganu,2019,2,1688.0
+Terengganu,2019,3,1948.0
+Terengganu,2019,4,2188.0
+Terengganu,2019,5,2368.0
+Terengganu,2019,6,2538.0
+Terengganu,2019,7,2617.0
+Terengganu,2019,8,2751.0
+Terengganu,2019,9,2852.0
+Terengganu,2019,10,2923.0
+Terengganu,2019,11,2985.0
+Terengganu,2019,12,3035.0
+Terengganu,2019,13,3068.0
+Terengganu,2019,14,3106.0
+Terengganu,2019,15,3148.0
+Terengganu,2019,16,3190.0
+Terengganu,2019,17,3233.0
+Terengganu,2019,18,3267.0
+Terengganu,2019,19,3314.0
+Terengganu,2019,20,3372.0
+Terengganu,2019,21,3436.0
+Terengganu,2019,22,3506.0
+Terengganu,2019,23,3554.0
+Terengganu,2019,24,3605.0
+Terengganu,2019,25,3657.0
+Terengganu,2019,26,3723.0
+Terengganu,2019,27,3790.0
+Terengganu,2019,28,3853.0
+Terengganu,2019,29,3910.0
+Terengganu,2019,30,3992.0
+Terengganu,2019,31,4069.0
+Terengganu,2019,32,4145.0
+Terengganu,2019,33,4223.0
+Terengganu,2019,34,4277.0
+Terengganu,2019,35,4327.0
+Terengganu,2019,36,4408.0
+Terengganu,2019,37,4479.0
+Terengganu,2019,38,4552.0
+Terengganu,2019,39,4619.0
+Terengganu,2019,40,4719.0
+Terengganu,2019,41,4803.0
+Terengganu,2019,42,4890.0
+Terengganu,2019,43,4988.0
+Terengganu,2019,44,5071.0
+Terengganu,2019,45,5159.0
+Terengganu,2019,46,5232.0
+Terengganu,2019,47,5316.0
+Terengganu,2019,48,5402.0
+Terengganu,2019,49,5495.0
+Terengganu,2019,50,5545.0
+Terengganu,2019,51,5642.0
+Terengganu,2019,52,5733.0
+Terengganu,2019,53,5815.0
+Terengganu,2019,54,5940.0
+Terengganu,2019,55,6069.0
+Terengganu,2019,56,6138.0
+Terengganu,2019,57,6236.0
+Terengganu,2019,58,6353.0
+Terengganu,2019,59,6456.0
+Terengganu,2019,60,6543.0
+Terengganu,2019,61,6618.0
+Terengganu,2019,62,6736.0
+Terengganu,2019,63,6819.0
+Terengganu,2019,64,6956.0
+Terengganu,2019,65,7017.0
+Terengganu,2019,66,7130.0
+Terengganu,2019,67,7247.0
+Terengganu,2019,68,7348.0
+Terengganu,2019,69,7465.0
+Terengganu,2019,70,7587.0
+Terengganu,2019,71,7720.0
+Terengganu,2019,72,7838.0
+Terengganu,2019,73,8016.0
+Terengganu,2019,74,8187.0
+Terengganu,2019,75,8395.0
+Terengganu,2019,76,8567.0
+Terengganu,2019,77,8768.0
+Terengganu,2019,78,8909.0
+Terengganu,2019,79,9129.0
+Terengganu,2019,80,9259.0
+Terengganu,2019,81,9434.0
+Terengganu,2019,82,9661.0
+Terengganu,2019,83,9870.0
+Terengganu,2019,84,10110.0
+Terengganu,2019,85,10338.0
+Terengganu,2019,86,10643.0
+Terengganu,2019,87,11040.0
+Terengganu,2019,88,11408.0
+Terengganu,2019,89,11830.0
+Terengganu,2019,90,12136.0
+Terengganu,2019,91,12663.0
+Terengganu,2019,92,13049.0
+Terengganu,2019,93,13718.0
+Terengganu,2019,94,14346.0
+Terengganu,2019,95,15447.0
+Terengganu,2019,96,16388.0
+Terengganu,2019,97,17553.0
+Terengganu,2019,98,19539.0
+Terengganu,2019,99,24514.0
+W.P. Kuala Lumpur,2019,1,3068.0
+W.P. Kuala Lumpur,2019,2,3572.0
+W.P. Kuala Lumpur,2019,3,3826.0
+W.P. Kuala Lumpur,2019,4,4107.0
+W.P. Kuala Lumpur,2019,5,4337.0
+W.P. Kuala Lumpur,2019,6,4493.0
+W.P. Kuala Lumpur,2019,7,4671.0
+W.P. Kuala Lumpur,2019,8,4817.0
+W.P. Kuala Lumpur,2019,9,4993.0
+W.P. Kuala Lumpur,2019,10,5147.0
+W.P. Kuala Lumpur,2019,11,5346.0
+W.P. Kuala Lumpur,2019,12,5506.0
+W.P. Kuala Lumpur,2019,13,5639.0
+W.P. Kuala Lumpur,2019,14,5769.0
+W.P. Kuala Lumpur,2019,15,5914.0
+W.P. Kuala Lumpur,2019,16,6069.0
+W.P. Kuala Lumpur,2019,17,6202.0
+W.P. Kuala Lumpur,2019,18,6337.0
+W.P. Kuala Lumpur,2019,19,6479.0
+W.P. Kuala Lumpur,2019,20,6625.0
+W.P. Kuala Lumpur,2019,21,6765.0
+W.P. Kuala Lumpur,2019,22,6901.0
+W.P. Kuala Lumpur,2019,23,7049.0
+W.P. Kuala Lumpur,2019,24,7169.0
+W.P. Kuala Lumpur,2019,25,7297.0
+W.P. Kuala Lumpur,2019,26,7459.0
+W.P. Kuala Lumpur,2019,27,7597.0
+W.P. Kuala Lumpur,2019,28,7727.0
+W.P. Kuala Lumpur,2019,29,7848.0
+W.P. Kuala Lumpur,2019,30,7970.0
+W.P. Kuala Lumpur,2019,31,8097.0
+W.P. Kuala Lumpur,2019,32,8214.0
+W.P. Kuala Lumpur,2019,33,8330.0
+W.P. Kuala Lumpur,2019,34,8433.0
+W.P. Kuala Lumpur,2019,35,8549.0
+W.P. Kuala Lumpur,2019,36,8656.0
+W.P. Kuala Lumpur,2019,37,8769.0
+W.P. Kuala Lumpur,2019,38,8908.0
+W.P. Kuala Lumpur,2019,39,9017.0
+W.P. Kuala Lumpur,2019,40,9149.0
+W.P. Kuala Lumpur,2019,41,9263.0
+W.P. Kuala Lumpur,2019,42,9391.0
+W.P. Kuala Lumpur,2019,43,9505.0
+W.P. Kuala Lumpur,2019,44,9659.0
+W.P. Kuala Lumpur,2019,45,9841.0
+W.P. Kuala Lumpur,2019,46,9989.0
+W.P. Kuala Lumpur,2019,47,10135.0
+W.P. Kuala Lumpur,2019,48,10267.0
+W.P. Kuala Lumpur,2019,49,10419.0
+W.P. Kuala Lumpur,2019,50,10548.0
+W.P. Kuala Lumpur,2019,51,10672.0
+W.P. Kuala Lumpur,2019,52,10833.0
+W.P. Kuala Lumpur,2019,53,10996.0
+W.P. Kuala Lumpur,2019,54,11123.0
+W.P. Kuala Lumpur,2019,55,11254.0
+W.P. Kuala Lumpur,2019,56,11415.0
+W.P. Kuala Lumpur,2019,57,11595.0
+W.P. Kuala Lumpur,2019,58,11777.0
+W.P. Kuala Lumpur,2019,59,11938.0
+W.P. Kuala Lumpur,2019,60,12075.0
+W.P. Kuala Lumpur,2019,61,12254.0
+W.P. Kuala Lumpur,2019,62,12412.0
+W.P. Kuala Lumpur,2019,63,12624.0
+W.P. Kuala Lumpur,2019,64,12800.0
+W.P. Kuala Lumpur,2019,65,12998.0
+W.P. Kuala Lumpur,2019,66,13238.0
+W.P. Kuala Lumpur,2019,67,13454.0
+W.P. Kuala Lumpur,2019,68,13613.0
+W.P. Kuala Lumpur,2019,69,13850.0
+W.P. Kuala Lumpur,2019,70,14103.0
+W.P. Kuala Lumpur,2019,71,14293.0
+W.P. Kuala Lumpur,2019,72,14500.0
+W.P. Kuala Lumpur,2019,73,14752.0
+W.P. Kuala Lumpur,2019,74,15008.0
+W.P. Kuala Lumpur,2019,75,15278.0
+W.P. Kuala Lumpur,2019,76,15473.0
+W.P. Kuala Lumpur,2019,77,15723.0
+W.P. Kuala Lumpur,2019,78,15995.0
+W.P. Kuala Lumpur,2019,79,16369.0
+W.P. Kuala Lumpur,2019,80,16639.0
+W.P. Kuala Lumpur,2019,81,17114.0
+W.P. Kuala Lumpur,2019,82,17561.0
+W.P. Kuala Lumpur,2019,83,18046.0
+W.P. Kuala Lumpur,2019,84,18555.0
+W.P. Kuala Lumpur,2019,85,19117.0
+W.P. Kuala Lumpur,2019,86,19613.0
+W.P. Kuala Lumpur,2019,87,20293.0
+W.P. Kuala Lumpur,2019,88,21165.0
+W.P. Kuala Lumpur,2019,89,21788.0
+W.P. Kuala Lumpur,2019,90,22623.0
+W.P. Kuala Lumpur,2019,91,23714.0
+W.P. Kuala Lumpur,2019,92,24946.0
+W.P. Kuala Lumpur,2019,93,27026.0
+W.P. Kuala Lumpur,2019,94,29346.0
+W.P. Kuala Lumpur,2019,95,31670.0
+W.P. Kuala Lumpur,2019,96,34680.0
+W.P. Kuala Lumpur,2019,97,38450.0
+W.P. Kuala Lumpur,2019,98,45623.0
+W.P. Kuala Lumpur,2019,99,61962.0
+W.P. Labuan,2019,1,2159.0
+W.P. Labuan,2019,2,2277.0
+W.P. Labuan,2019,3,2470.0
+W.P. Labuan,2019,4,2569.0
+W.P. Labuan,2019,5,2617.0
+W.P. Labuan,2019,6,2664.0
+W.P. Labuan,2019,7,2778.0
+W.P. Labuan,2019,8,2882.0
+W.P. Labuan,2019,9,2937.0
+W.P. Labuan,2019,10,3082.0
+W.P. Labuan,2019,11,3215.0
+W.P. Labuan,2019,12,3308.0
+W.P. Labuan,2019,13,3375.0
+W.P. Labuan,2019,14,3608.0
+W.P. Labuan,2019,15,3771.0
+W.P. Labuan,2019,16,3868.0
+W.P. Labuan,2019,17,3996.0
+W.P. Labuan,2019,18,4150.0
+W.P. Labuan,2019,19,4246.0
+W.P. Labuan,2019,20,4274.0
+W.P. Labuan,2019,21,4302.0
+W.P. Labuan,2019,22,4341.0
+W.P. Labuan,2019,23,4425.0
+W.P. Labuan,2019,24,4492.0
+W.P. Labuan,2019,25,4586.0
+W.P. Labuan,2019,26,4683.0
+W.P. Labuan,2019,27,4796.0
+W.P. Labuan,2019,28,4878.0
+W.P. Labuan,2019,29,4957.0
+W.P. Labuan,2019,30,5012.0
+W.P. Labuan,2019,31,5103.0
+W.P. Labuan,2019,32,5252.0
+W.P. Labuan,2019,33,5326.0
+W.P. Labuan,2019,34,5378.0
+W.P. Labuan,2019,35,5455.0
+W.P. Labuan,2019,36,5545.0
+W.P. Labuan,2019,37,5658.0
+W.P. Labuan,2019,38,5723.0
+W.P. Labuan,2019,39,5821.0
+W.P. Labuan,2019,40,5909.0
+W.P. Labuan,2019,41,5998.0
+W.P. Labuan,2019,42,6112.0
+W.P. Labuan,2019,43,6214.0
+W.P. Labuan,2019,44,6269.0
+W.P. Labuan,2019,45,6343.0
+W.P. Labuan,2019,46,6400.0
+W.P. Labuan,2019,47,6568.0
+W.P. Labuan,2019,48,6600.0
+W.P. Labuan,2019,49,6687.0
+W.P. Labuan,2019,50,6728.0
+W.P. Labuan,2019,51,6885.0
+W.P. Labuan,2019,52,6993.0
+W.P. Labuan,2019,53,7037.0
+W.P. Labuan,2019,54,7107.0
+W.P. Labuan,2019,55,7272.0
+W.P. Labuan,2019,56,7335.0
+W.P. Labuan,2019,57,7531.0
+W.P. Labuan,2019,58,7651.0
+W.P. Labuan,2019,59,7720.0
+W.P. Labuan,2019,60,7904.0
+W.P. Labuan,2019,61,7991.0
+W.P. Labuan,2019,62,8196.0
+W.P. Labuan,2019,63,8297.0
+W.P. Labuan,2019,64,8441.0
+W.P. Labuan,2019,65,8594.0
+W.P. Labuan,2019,66,8785.0
+W.P. Labuan,2019,67,9032.0
+W.P. Labuan,2019,68,9238.0
+W.P. Labuan,2019,69,9331.0
+W.P. Labuan,2019,70,9438.0
+W.P. Labuan,2019,71,9603.0
+W.P. Labuan,2019,72,9826.0
+W.P. Labuan,2019,73,9993.0
+W.P. Labuan,2019,74,10114.0
+W.P. Labuan,2019,75,10242.0
+W.P. Labuan,2019,76,10409.0
+W.P. Labuan,2019,77,10586.0
+W.P. Labuan,2019,78,10853.0
+W.P. Labuan,2019,79,11097.0
+W.P. Labuan,2019,80,11389.0
+W.P. Labuan,2019,81,11606.0
+W.P. Labuan,2019,82,12107.0
+W.P. Labuan,2019,83,12652.0
+W.P. Labuan,2019,84,13127.0
+W.P. Labuan,2019,85,13375.0
+W.P. Labuan,2019,86,13807.0
+W.P. Labuan,2019,87,14013.0
+W.P. Labuan,2019,88,14501.0
+W.P. Labuan,2019,89,15015.0
+W.P. Labuan,2019,90,15231.0
+W.P. Labuan,2019,91,16085.0
+W.P. Labuan,2019,92,16683.0
+W.P. Labuan,2019,93,17309.0
+W.P. Labuan,2019,94,18103.0
+W.P. Labuan,2019,95,19363.0
+W.P. Labuan,2019,96,20380.0
+W.P. Labuan,2019,97,23422.0
+W.P. Labuan,2019,98,24541.0
+W.P. Labuan,2019,99,30250.0
+W.P. Putrajaya,2019,1,3414.0
+W.P. Putrajaya,2019,2,3762.0
+W.P. Putrajaya,2019,3,3940.0
+W.P. Putrajaya,2019,4,4112.0
+W.P. Putrajaya,2019,5,4190.0
+W.P. Putrajaya,2019,6,4282.0
+W.P. Putrajaya,2019,7,4375.0
+W.P. Putrajaya,2019,8,4485.0
+W.P. Putrajaya,2019,9,4628.0
+W.P. Putrajaya,2019,10,4752.0
+W.P. Putrajaya,2019,11,4842.0
+W.P. Putrajaya,2019,12,5008.0
+W.P. Putrajaya,2019,13,5142.0
+W.P. Putrajaya,2019,14,5234.0
+W.P. Putrajaya,2019,15,5294.0
+W.P. Putrajaya,2019,16,5516.0
+W.P. Putrajaya,2019,17,5612.0
+W.P. Putrajaya,2019,18,5760.0
+W.P. Putrajaya,2019,19,5842.0
+W.P. Putrajaya,2019,20,5989.0
+W.P. Putrajaya,2019,21,6196.0
+W.P. Putrajaya,2019,22,6363.0
+W.P. Putrajaya,2019,23,6504.0
+W.P. Putrajaya,2019,24,6697.0
+W.P. Putrajaya,2019,25,6829.0
+W.P. Putrajaya,2019,26,7003.0
+W.P. Putrajaya,2019,27,7076.0
+W.P. Putrajaya,2019,28,7223.0
+W.P. Putrajaya,2019,29,7350.0
+W.P. Putrajaya,2019,30,7446.0
+W.P. Putrajaya,2019,31,7563.0
+W.P. Putrajaya,2019,32,7720.0
+W.P. Putrajaya,2019,33,7906.0
+W.P. Putrajaya,2019,34,7950.0
+W.P. Putrajaya,2019,35,8180.0
+W.P. Putrajaya,2019,36,8267.0
+W.P. Putrajaya,2019,37,8380.0
+W.P. Putrajaya,2019,38,8474.0
+W.P. Putrajaya,2019,39,8619.0
+W.P. Putrajaya,2019,40,8649.0
+W.P. Putrajaya,2019,41,8812.0
+W.P. Putrajaya,2019,42,8969.0
+W.P. Putrajaya,2019,43,9082.0
+W.P. Putrajaya,2019,44,9253.0
+W.P. Putrajaya,2019,45,9380.0
+W.P. Putrajaya,2019,46,9470.0
+W.P. Putrajaya,2019,47,9594.0
+W.P. Putrajaya,2019,48,9684.0
+W.P. Putrajaya,2019,49,9877.0
+W.P. Putrajaya,2019,50,9986.0
+W.P. Putrajaya,2019,51,10182.0
+W.P. Putrajaya,2019,52,10314.0
+W.P. Putrajaya,2019,53,10499.0
+W.P. Putrajaya,2019,54,10662.0
+W.P. Putrajaya,2019,55,10818.0
+W.P. Putrajaya,2019,56,11055.0
+W.P. Putrajaya,2019,57,11105.0
+W.P. Putrajaya,2019,58,11244.0
+W.P. Putrajaya,2019,59,11453.0
+W.P. Putrajaya,2019,60,11587.0
+W.P. Putrajaya,2019,61,11758.0
+W.P. Putrajaya,2019,62,11917.0
+W.P. Putrajaya,2019,63,12015.0
+W.P. Putrajaya,2019,64,12133.0
+W.P. Putrajaya,2019,65,12522.0
+W.P. Putrajaya,2019,66,12693.0
+W.P. Putrajaya,2019,67,12826.0
+W.P. Putrajaya,2019,68,13105.0
+W.P. Putrajaya,2019,69,13280.0
+W.P. Putrajaya,2019,70,13529.0
+W.P. Putrajaya,2019,71,13926.0
+W.P. Putrajaya,2019,72,14162.0
+W.P. Putrajaya,2019,73,14455.0
+W.P. Putrajaya,2019,74,14698.0
+W.P. Putrajaya,2019,75,15078.0
+W.P. Putrajaya,2019,76,15326.0
+W.P. Putrajaya,2019,77,15489.0
+W.P. Putrajaya,2019,78,15694.0
+W.P. Putrajaya,2019,79,15914.0
+W.P. Putrajaya,2019,80,16329.0
+W.P. Putrajaya,2019,81,16964.0
+W.P. Putrajaya,2019,82,17494.0
+W.P. Putrajaya,2019,83,18110.0
+W.P. Putrajaya,2019,84,18355.0
+W.P. Putrajaya,2019,85,19015.0
+W.P. Putrajaya,2019,86,19561.0
+W.P. Putrajaya,2019,87,20118.0
+W.P. Putrajaya,2019,88,20626.0
+W.P. Putrajaya,2019,89,21272.0
+W.P. Putrajaya,2019,90,22339.0
+W.P. Putrajaya,2019,91,23838.0
+W.P. Putrajaya,2019,92,25222.0
+W.P. Putrajaya,2019,93,27005.0
+W.P. Putrajaya,2019,94,30090.0
+W.P. Putrajaya,2019,95,32309.0
+W.P. Putrajaya,2019,96,37204.0
+W.P. Putrajaya,2019,97,39000.0
+W.P. Putrajaya,2019,98,51131.0
+W.P. Putrajaya,2019,99,60337.0

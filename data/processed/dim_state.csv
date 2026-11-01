@@ -1,0 +1,17 @@
+state,region,is_federal_territory,shops_count,thin_coverage_flag
+Melaka,Peninsular Malaysia,false,54,false
+Kedah,Peninsular Malaysia,false,122,false
+Pulau Pinang,Peninsular Malaysia,false,153,false
+W.P. Kuala Lumpur,Peninsular Malaysia,true,191,false
+Sarawak,East Malaysia,false,240,false
+Perak,Peninsular Malaysia,false,195,false
+Pahang,Peninsular Malaysia,false,195,false
+W.P. Labuan,East Malaysia,true,16,true
+Terengganu,Peninsular Malaysia,false,151,false
+Negeri Sembilan,Peninsular Malaysia,false,74,false
+Kelantan,Peninsular Malaysia,false,216,false
+W.P. Putrajaya,Peninsular Malaysia,true,28,true
+Johor,Peninsular Malaysia,false,224,false
+Perlis,Peninsular Malaysia,false,39,false
+Selangor,Peninsular Malaysia,false,139,false
+Sabah,East Malaysia,false,221,false

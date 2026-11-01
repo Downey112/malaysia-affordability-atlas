@@ -1,0 +1,41 @@
+basket_id,item_code,category_rule,quantity,item_name,reason
+core,,BERAS_10KG,1,BERAS 10KG (state geometric mean across 10 kg items),Main carbohydrate staple
+core,1,,1,AYAM BERSIH - STANDARD,1kg
+core,1110,,1,TELUR AYAM GRED B,tray of 30
+core,1476,,1,IKAN KEMBUNG,1kg
+core,918,,1,MINYAK MASAK PAKET,price-controlled; 1kg packet
+core,1589,,1,GULA PUTIH BERTAPIS KASAR,price-controlled; 1kg
+core,129,,1,BAWANG BESAR KUNING/HOLLAND,1kg
+staples_16,1,,1,AYAM BERSIH - STANDARD,1kg
+staples_16,1110,,1,TELUR AYAM GRED B,tray of 30
+staples_16,1476,,1,IKAN KEMBUNG,1kg
+staples_16,918,,1,MINYAK MASAK PAKET,price-controlled; 1kg packet
+staples_16,1589,,1,GULA PUTIH BERTAPIS KASAR,price-controlled; 1kg
+staples_16,917,,1,TEPUNG GANDUM CAP SAUH,1kg
+staples_16,129,,1,BAWANG BESAR KUNING/HOLLAND,1kg
+staples_16,1564,,1,BAWANG PUTIH IMPORT (CHINA),1kg
+staples_16,1131,,1,UBI KENTANG IMPORT (CHINA),1kg
+staples_16,114,,1,TOMATO,1kg
+staples_16,1558,,1,SAWI HIJAU,1kg
+staples_16,191,,1,SARDIN CAP AYAM (SOS TOMATO),425 g
+staples_16,1976,,1,MAGGI MI SEGERA PERISA KARI,5 x 79g
+staples_16,883,,1,KRIMER MANIS BERVITAMIN CAP F&N,500 g
+staples_16,1611,,1,SANTAN KELAPA JENAMA KARA,200 ml
+staples_16,2114,,1,MILO (PAKET),900 g
+staples_plus_rice,,BERAS_10KG,1,BERAS 10KG (state geometric mean across 10 kg items),Main carbohydrate staple
+staples_plus_rice,1,,1,AYAM BERSIH - STANDARD,1kg
+staples_plus_rice,1110,,1,TELUR AYAM GRED B,tray of 30
+staples_plus_rice,1476,,1,IKAN KEMBUNG,1kg
+staples_plus_rice,918,,1,MINYAK MASAK PAKET,price-controlled; 1kg packet
+staples_plus_rice,1589,,1,GULA PUTIH BERTAPIS KASAR,price-controlled; 1kg
+staples_plus_rice,917,,1,TEPUNG GANDUM CAP SAUH,1kg
+staples_plus_rice,129,,1,BAWANG BESAR KUNING/HOLLAND,1kg
+staples_plus_rice,1564,,1,BAWANG PUTIH IMPORT (CHINA),1kg
+staples_plus_rice,1131,,1,UBI KENTANG IMPORT (CHINA),1kg
+staples_plus_rice,114,,1,TOMATO,1kg
+staples_plus_rice,1558,,1,SAWI HIJAU,1kg
+staples_plus_rice,191,,1,SARDIN CAP AYAM (SOS TOMATO),425 g
+staples_plus_rice,1976,,1,MAGGI MI SEGERA PERISA KARI,5 x 79g
+staples_plus_rice,883,,1,KRIMER MANIS BERVITAMIN CAP F&N,500 g
+staples_plus_rice,1611,,1,SANTAN KELAPA JENAMA KARA,200 ml
+staples_plus_rice,2114,,1,MILO (PAKET),900 g

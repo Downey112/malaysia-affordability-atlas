@@ -1,0 +1,109 @@
+city,household_type,budget_rm
+Klang Valley,Single (P.T.U),1970
+Klang Valley,Single (Car Owner),2800
+Klang Valley,Married (w/o Children),4970
+Klang Valley,Married (1 Child),6420
+Klang Valley,Married (2 Children),7440
+Klang Valley,Senior Single,2690
+Klang Valley,Senior Couple,3390
+Klang Valley,Single Parent (1 Child),5120
+Klang Valley,Single Parent (2 Children),6070
+Alor Setar,Single (P.T.U),1600
+Alor Setar,Single (Car Owner),2210
+Alor Setar,Married (w/o Children),3940
+Alor Setar,Married (1 Child),5130
+Alor Setar,Married (2 Children),5880
+Alor Setar,Senior Single,2160
+Alor Setar,Senior Couple,2760
+Alor Setar,Single Parent (1 Child),3970
+Alor Setar,Single Parent (2 Children),4640
+Kota Kinabalu,Single (P.T.U),1730
+Kota Kinabalu,Single (Car Owner),2330
+Kota Kinabalu,Married (w/o Children),4200
+Kota Kinabalu,Married (1 Child),5460
+Kota Kinabalu,Married (2 Children),6290
+Kota Kinabalu,Senior Single,2430
+Kota Kinabalu,Senior Couple,3080
+Kota Kinabalu,Single Parent (1 Child),4280
+Kota Kinabalu,Single Parent (2 Children),5020
+Johor Bahru,Single (P.T.U),1790
+Johor Bahru,Single (Car Owner),2400
+Johor Bahru,Married (w/o Children),4360
+Johor Bahru,Married (1 Child),5770
+Johor Bahru,Married (2 Children),6560
+Johor Bahru,Senior Single,2500
+Johor Bahru,Senior Couple,3180
+Johor Bahru,Single Parent (1 Child),4530
+Johor Bahru,Single Parent (2 Children),5280
+K. Terengganu,Single (P.T.U),1710
+K. Terengganu,Single (Car Owner),2320
+K. Terengganu,Married (w/o Children),4120
+K. Terengganu,Married (1 Child),5320
+K. Terengganu,Married (2 Children),6080
+K. Terengganu,Senior Single,2220
+K. Terengganu,Senior Couple,2870
+K. Terengganu,Single Parent (1 Child),4150
+K. Terengganu,Single Parent (2 Children),4830
+Kuching,Single (P.T.U),1730
+Kuching,Single (Car Owner),2320
+Kuching,Married (w/o Children),4120
+Kuching,Married (1 Child),5380
+Kuching,Married (2 Children),6170
+Kuching,Senior Single,2300
+Kuching,Senior Couple,2940
+Kuching,Single Parent (1 Child),4190
+Kuching,Single Parent (2 Children),4900
+Kuantan,Single (P.T.U),1730
+Kuantan,Single (Car Owner),2320
+Kuantan,Married (w/o Children),4130
+Kuantan,Married (1 Child),5380
+Kuantan,Married (2 Children),6170
+Kuantan,Senior Single,2300
+Kuantan,Senior Couple,2940
+Kuantan,Single Parent (1 Child),4200
+Kuantan,Single Parent (2 Children),4910
+Kota Bharu,Single (P.T.U),1610
+Kota Bharu,Single (Car Owner),2260
+Kota Bharu,Married (w/o Children),4010
+Kota Bharu,Married (1 Child),5250
+Kota Bharu,Married (2 Children),5990
+Kota Bharu,Senior Single,2200
+Kota Bharu,Senior Couple,2840
+Kota Bharu,Single Parent (1 Child),4080
+Kota Bharu,Single Parent (2 Children),4750
+Georgetown,Single (P.T.U),1860
+Georgetown,Single (Car Owner),2570
+Georgetown,Married (w/o Children),4600
+Georgetown,Married (1 Child),6030
+Georgetown,Married (2 Children),6870
+Georgetown,Senior Single,2620
+Georgetown,Senior Couple,3300
+Georgetown,Single Parent (1 Child),4800
+Georgetown,Single Parent (2 Children),5540
+Ipoh,Single (P.T.U),1740
+Ipoh,Single (Car Owner),2360
+Ipoh,Married (w/o Children),4210
+Ipoh,Married (1 Child),5470
+Ipoh,Married (2 Children),6290
+Ipoh,Senior Single,2370
+Ipoh,Senior Couple,3020
+Ipoh,Single Parent (1 Child),4320
+Ipoh,Single Parent (2 Children),5040
+Seremban,Single (P.T.U),1780
+Seremban,Single (Car Owner),2400
+Seremban,Married (w/o Children),4390
+Seremban,Married (1 Child),5740
+Seremban,Married (2 Children),6540
+Seremban,Senior Single,2440
+Seremban,Senior Couple,3080
+Seremban,Single Parent (1 Child),4530
+Seremban,Single Parent (2 Children),5270
+Malacca City,Single (P.T.U),1740
+Malacca City,Single (Car Owner),2370
+Malacca City,Married (w/o Children),4230
+Malacca City,Married (1 Child),5500
+Malacca City,Married (2 Children),6320
+Malacca City,Senior Single,2360
+Malacca City,Senior Couple,3000
+Malacca City,Single Parent (1 Child),4320
+Malacca City,Single Parent (2 Children),5050
