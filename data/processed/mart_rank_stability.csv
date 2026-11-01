@@ -1,0 +1,13 @@
+percentile,basket_pair,spearman_rank_corr
+10,core vs staples_16,0.9676
+10,core vs staples_plus_rice,0.9794
+10,staples_16 vs staples_plus_rice,0.9941
+20,core vs staples_16,0.961
+20,core vs staples_plus_rice,0.9934
+20,staples_16 vs staples_plus_rice,0.9794
+40,core vs staples_16,0.9875
+40,core vs staples_plus_rice,0.9853
+40,staples_16 vs staples_plus_rice,0.9963
+50,core vs staples_16,0.9824
+50,core vs staples_plus_rice,0.9882
+50,staples_16 vs staples_plus_rice,0.9971

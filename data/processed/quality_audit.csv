@@ -1,0 +1,8 @@
+step,category,rule_description,expected_value,actual_value
+1,Coverage,States and territories in dim_state,16,16
+2,Coverage,Districts in dim_district (2024),162,162
+3,Reconciliation,"Malaysia 2024 median income matches the published RM7,017",7017,7017
+4,Reconciliation,"Malaysia 2024 poverty line matches the published RM2,705",2705,2705
+5,Completeness,State-basket pairs in fact_basket_state,48,48
+6,Completeness,State-group pairs in fact_spending_state,208,208
+7,Method,Basket price rows read from PriceCatcher,336897,336897

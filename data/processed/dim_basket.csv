@@ -1,0 +1,4 @@
+basket_id,basket_name,basket_order,items_count,has_rice,description
+core,Core 7 (with rice),1,7,true,"Rice, chicken, eggs, ikan kembung, cooking oil, sugar and onions"
+staples_16,Staples 16 (no rice),2,16,,The 16 staples used in the PriceCatcher Retail Pricing project
+staples_plus_rice,Staples + rice (17 items),3,17,true,The 16 staples plus 10 kg of rice
