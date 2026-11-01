@@ -7,18 +7,18 @@ Kedah,core,10,6,458.7,2200.0,20.85
 Kedah,core,20,6,458.7,2890.0,15.87
 Kedah,core,40,6,458.7,3936.0,11.65
 Kedah,core,50,6,458.7,4895.0,9.37
-Kelantan,staples_plus_rice,10,6,929.88,2014.0,46.17
-Kelantan,staples_plus_rice,20,6,929.88,2541.0,36.6
-Kelantan,staples_plus_rice,40,6,929.88,3522.0,26.4
-Kelantan,staples_plus_rice,50,6,929.88,4083.0,22.77
+Kelantan,core,10,6,495.96,2014.0,24.63
+Kelantan,core,20,6,495.96,2541.0,19.52
+Kelantan,core,40,6,495.96,3522.0,14.08
+Kelantan,core,50,6,495.96,4083.0,12.15
 Melaka,core,10,6,482.76,3449.0,14.0
 Melaka,core,20,6,482.76,4299.0,11.23
 Melaka,core,40,6,482.76,5916.0,8.16
 Melaka,core,50,6,482.76,6891.0,7.01
-Negeri Sembilan,staples_plus_rice,10,6,882.9,2666.0,33.12
-Negeri Sembilan,staples_plus_rice,20,6,882.9,3315.0,26.63
-Negeri Sembilan,staples_plus_rice,40,6,882.9,4692.0,18.82
-Negeri Sembilan,staples_plus_rice,50,6,882.9,5591.0,15.79
+Negeri Sembilan,core,10,6,479.82,2666.0,18.0
+Negeri Sembilan,core,20,6,479.82,3315.0,14.47
+Negeri Sembilan,core,40,6,479.82,4692.0,10.23
+Negeri Sembilan,core,50,6,479.82,5591.0,8.58
 Pahang,core,10,6,478.62,2746.0,17.43
 Pahang,core,20,6,478.62,3258.0,14.69
 Pahang,core,40,6,478.62,4329.0,11.06
@@ -31,34 +31,34 @@ Perlis,core,10,6,468.78,2406.0,19.48
 Perlis,core,20,6,468.78,3026.0,15.49
 Perlis,core,40,6,468.78,4273.0,10.97
 Perlis,core,50,6,468.78,4950.0,9.47
-Pulau Pinang,core,10,6,467.7,3190.0,14.66
-Pulau Pinang,core,20,6,467.7,4232.0,11.05
-Pulau Pinang,core,40,6,467.7,6367.0,7.35
-Pulau Pinang,core,50,6,467.7,7386.0,6.33
+Pulau Pinang,staples_plus_rice,10,6,876.36,3190.0,27.47
+Pulau Pinang,staples_plus_rice,20,6,876.36,4232.0,20.71
+Pulau Pinang,staples_plus_rice,40,6,876.36,6367.0,13.76
+Pulau Pinang,staples_plus_rice,50,6,876.36,7386.0,11.87
 Sabah,staples_plus_rice,10,6,910.56,2186.0,41.65
 Sabah,staples_plus_rice,20,6,910.56,2787.0,32.67
 Sabah,staples_plus_rice,40,6,910.56,4123.0,22.08
 Sabah,staples_plus_rice,50,6,910.56,4890.0,18.62
-Sarawak,staples_plus_rice,10,6,927.78,2427.0,38.23
-Sarawak,staples_plus_rice,20,6,927.78,3168.0,29.29
-Sarawak,staples_plus_rice,40,6,927.78,4668.0,19.88
-Sarawak,staples_plus_rice,50,6,927.78,5504.0,16.86
+Sarawak,core,10,6,462.54,2427.0,19.06
+Sarawak,core,20,6,462.54,3168.0,14.6
+Sarawak,core,40,6,462.54,4668.0,9.91
+Sarawak,core,50,6,462.54,5504.0,8.4
 Selangor,core,10,6,487.5,5643.0,8.64
 Selangor,core,20,6,487.5,7375.0,6.61
 Selangor,core,40,6,487.5,9572.0,5.09
 Selangor,core,50,6,487.5,10726.0,4.55
-Terengganu,staples_plus_rice,10,6,918.6,3350.0,27.42
-Terengganu,staples_plus_rice,20,6,918.6,4131.0,22.24
-Terengganu,staples_plus_rice,40,6,918.6,5884.0,15.61
-Terengganu,staples_plus_rice,50,6,918.6,6627.0,13.86
-W.P. Kuala Lumpur,core,10,6,496.56,5096.0,9.74
-W.P. Kuala Lumpur,core,20,6,496.56,6750.0,7.36
-W.P. Kuala Lumpur,core,40,6,496.56,9632.0,5.16
-W.P. Kuala Lumpur,core,50,6,496.56,10802.0,4.6
-W.P. Labuan,core,10,6,470.82,3306.0,14.24
-W.P. Labuan,core,20,6,470.82,4408.0,10.68
-W.P. Labuan,core,40,6,470.82,6313.0,7.46
-W.P. Labuan,core,50,6,470.82,7383.0,6.38
+Terengganu,core,10,6,488.04,3350.0,14.57
+Terengganu,core,20,6,488.04,4131.0,11.81
+Terengganu,core,40,6,488.04,5884.0,8.29
+Terengganu,core,50,6,488.04,6627.0,7.36
+W.P. Kuala Lumpur,staples_plus_rice,10,6,924.3,5096.0,18.14
+W.P. Kuala Lumpur,staples_plus_rice,20,6,924.3,6750.0,13.69
+W.P. Kuala Lumpur,staples_plus_rice,40,6,924.3,9632.0,9.6
+W.P. Kuala Lumpur,staples_plus_rice,50,6,924.3,10802.0,8.56
+W.P. Labuan,staples_plus_rice,10,6,914.7,3306.0,27.67
+W.P. Labuan,staples_plus_rice,20,6,914.7,4408.0,20.75
+W.P. Labuan,staples_plus_rice,40,6,914.7,6313.0,14.49
+W.P. Labuan,staples_plus_rice,50,6,914.7,7383.0,12.39
 W.P. Putrajaya,staples_plus_rice,10,6,952.98,5249.0,18.16
 W.P. Putrajaya,staples_plus_rice,20,6,952.98,6822.0,13.97
 W.P. Putrajaya,staples_plus_rice,40,6,952.98,9624.0,9.9
@@ -71,18 +71,18 @@ Kedah,staples_plus_rice,10,6,861.54,2200.0,39.16
 Kedah,staples_plus_rice,20,6,861.54,2890.0,29.81
 Kedah,staples_plus_rice,40,6,861.54,3936.0,21.89
 Kedah,staples_plus_rice,50,6,861.54,4895.0,17.6
-Kelantan,staples_16,10,6,721.32,2014.0,35.82
-Kelantan,staples_16,20,6,721.32,2541.0,28.39
-Kelantan,staples_16,40,6,721.32,3522.0,20.48
-Kelantan,staples_16,50,6,721.32,4083.0,17.67
+Kelantan,staples_plus_rice,10,6,929.88,2014.0,46.17
+Kelantan,staples_plus_rice,20,6,929.88,2541.0,36.6
+Kelantan,staples_plus_rice,40,6,929.88,3522.0,26.4
+Kelantan,staples_plus_rice,50,6,929.88,4083.0,22.77
 Melaka,staples_plus_rice,10,6,897.48,3449.0,26.02
 Melaka,staples_plus_rice,20,6,897.48,4299.0,20.88
 Melaka,staples_plus_rice,40,6,897.48,5916.0,15.17
 Melaka,staples_plus_rice,50,6,897.48,6891.0,13.02
-Negeri Sembilan,staples_16,10,6,686.34,2666.0,25.74
-Negeri Sembilan,staples_16,20,6,686.34,3315.0,20.7
-Negeri Sembilan,staples_16,40,6,686.34,4692.0,14.63
-Negeri Sembilan,staples_16,50,6,686.34,5591.0,12.28
+Negeri Sembilan,staples_plus_rice,10,6,882.9,2666.0,33.12
+Negeri Sembilan,staples_plus_rice,20,6,882.9,3315.0,26.63
+Negeri Sembilan,staples_plus_rice,40,6,882.9,4692.0,18.82
+Negeri Sembilan,staples_plus_rice,50,6,882.9,5591.0,15.79
 Pahang,staples_plus_rice,10,6,893.16,2746.0,32.53
 Pahang,staples_plus_rice,20,6,893.16,3258.0,27.41
 Pahang,staples_plus_rice,40,6,893.16,4329.0,20.63
@@ -95,34 +95,34 @@ Perlis,staples_plus_rice,10,6,886.8,2406.0,36.86
 Perlis,staples_plus_rice,20,6,886.8,3026.0,29.31
 Perlis,staples_plus_rice,40,6,886.8,4273.0,20.75
 Perlis,staples_plus_rice,50,6,886.8,4950.0,17.92
-Pulau Pinang,staples_plus_rice,10,6,876.36,3190.0,27.47
-Pulau Pinang,staples_plus_rice,20,6,876.36,4232.0,20.71
-Pulau Pinang,staples_plus_rice,40,6,876.36,6367.0,13.76
-Pulau Pinang,staples_plus_rice,50,6,876.36,7386.0,11.87
+Pulau Pinang,staples_16,10,6,679.92,3190.0,21.31
+Pulau Pinang,staples_16,20,6,679.92,4232.0,16.07
+Pulau Pinang,staples_16,40,6,679.92,6367.0,10.68
+Pulau Pinang,staples_16,50,6,679.92,7386.0,9.21
 Sabah,staples_16,10,6,737.82,2186.0,33.75
 Sabah,staples_16,20,6,737.82,2787.0,26.47
 Sabah,staples_16,40,6,737.82,4123.0,17.9
 Sabah,staples_16,50,6,737.82,4890.0,15.09
-Sarawak,staples_16,10,6,750.72,2427.0,30.93
-Sarawak,staples_16,20,6,750.72,3168.0,23.7
-Sarawak,staples_16,40,6,750.72,4668.0,16.08
-Sarawak,staples_16,50,6,750.72,5504.0,13.64
+Sarawak,staples_plus_rice,10,6,927.78,2427.0,38.23
+Sarawak,staples_plus_rice,20,6,927.78,3168.0,29.29
+Sarawak,staples_plus_rice,40,6,927.78,4668.0,19.88
+Sarawak,staples_plus_rice,50,6,927.78,5504.0,16.86
 Selangor,staples_plus_rice,10,6,898.8,5643.0,15.93
 Selangor,staples_plus_rice,20,6,898.8,7375.0,12.19
 Selangor,staples_plus_rice,40,6,898.8,9572.0,9.39
 Selangor,staples_plus_rice,50,6,898.8,10726.0,8.38
-Terengganu,staples_16,10,6,719.22,3350.0,21.47
-Terengganu,staples_16,20,6,719.22,4131.0,17.41
-Terengganu,staples_16,40,6,719.22,5884.0,12.22
-Terengganu,staples_16,50,6,719.22,6627.0,10.85
-W.P. Kuala Lumpur,staples_plus_rice,10,6,924.3,5096.0,18.14
-W.P. Kuala Lumpur,staples_plus_rice,20,6,924.3,6750.0,13.69
-W.P. Kuala Lumpur,staples_plus_rice,40,6,924.3,9632.0,9.6
-W.P. Kuala Lumpur,staples_plus_rice,50,6,924.3,10802.0,8.56
-W.P. Labuan,staples_plus_rice,10,6,914.7,3306.0,27.67
-W.P. Labuan,staples_plus_rice,20,6,914.7,4408.0,20.75
-W.P. Labuan,staples_plus_rice,40,6,914.7,6313.0,14.49
-W.P. Labuan,staples_plus_rice,50,6,914.7,7383.0,12.39
+Terengganu,staples_plus_rice,10,6,918.6,3350.0,27.42
+Terengganu,staples_plus_rice,20,6,918.6,4131.0,22.24
+Terengganu,staples_plus_rice,40,6,918.6,5884.0,15.61
+Terengganu,staples_plus_rice,50,6,918.6,6627.0,13.86
+W.P. Kuala Lumpur,staples_16,10,6,715.92,5096.0,14.05
+W.P. Kuala Lumpur,staples_16,20,6,715.92,6750.0,10.61
+W.P. Kuala Lumpur,staples_16,40,6,715.92,9632.0,7.43
+W.P. Kuala Lumpur,staples_16,50,6,715.92,10802.0,6.63
+W.P. Labuan,staples_16,10,6,745.32,3306.0,22.54
+W.P. Labuan,staples_16,20,6,745.32,4408.0,16.91
+W.P. Labuan,staples_16,40,6,745.32,6313.0,11.81
+W.P. Labuan,staples_16,50,6,745.32,7383.0,10.1
 W.P. Putrajaya,staples_16,10,6,743.04,5249.0,14.16
 W.P. Putrajaya,staples_16,20,6,743.04,6822.0,10.89
 W.P. Putrajaya,staples_16,40,6,743.04,9624.0,7.72
@@ -135,18 +135,18 @@ Kedah,staples_16,10,6,665.28,2200.0,30.24
 Kedah,staples_16,20,6,665.28,2890.0,23.02
 Kedah,staples_16,40,6,665.28,3936.0,16.9
 Kedah,staples_16,50,6,665.28,4895.0,13.59
-Kelantan,core,10,6,495.96,2014.0,24.63
-Kelantan,core,20,6,495.96,2541.0,19.52
-Kelantan,core,40,6,495.96,3522.0,14.08
-Kelantan,core,50,6,495.96,4083.0,12.15
+Kelantan,staples_16,10,6,721.32,2014.0,35.82
+Kelantan,staples_16,20,6,721.32,2541.0,28.39
+Kelantan,staples_16,40,6,721.32,3522.0,20.48
+Kelantan,staples_16,50,6,721.32,4083.0,17.67
 Melaka,staples_16,10,6,698.7,3449.0,20.26
 Melaka,staples_16,20,6,698.7,4299.0,16.25
 Melaka,staples_16,40,6,698.7,5916.0,11.81
 Melaka,staples_16,50,6,698.7,6891.0,10.14
-Negeri Sembilan,core,10,6,479.82,2666.0,18.0
-Negeri Sembilan,core,20,6,479.82,3315.0,14.47
-Negeri Sembilan,core,40,6,479.82,4692.0,10.23
-Negeri Sembilan,core,50,6,479.82,5591.0,8.58
+Negeri Sembilan,staples_16,10,6,686.34,2666.0,25.74
+Negeri Sembilan,staples_16,20,6,686.34,3315.0,20.7
+Negeri Sembilan,staples_16,40,6,686.34,4692.0,14.63
+Negeri Sembilan,staples_16,50,6,686.34,5591.0,12.28
 Pahang,staples_16,10,6,701.4,2746.0,25.54
 Pahang,staples_16,20,6,701.4,3258.0,21.53
 Pahang,staples_16,40,6,701.4,4329.0,16.2
@@ -159,34 +159,34 @@ Perlis,staples_16,10,6,691.86,2406.0,28.76
 Perlis,staples_16,20,6,691.86,3026.0,22.86
 Perlis,staples_16,40,6,691.86,4273.0,16.19
 Perlis,staples_16,50,6,691.86,4950.0,13.98
-Pulau Pinang,staples_16,10,6,679.92,3190.0,21.31
-Pulau Pinang,staples_16,20,6,679.92,4232.0,16.07
-Pulau Pinang,staples_16,40,6,679.92,6367.0,10.68
-Pulau Pinang,staples_16,50,6,679.92,7386.0,9.21
+Pulau Pinang,core,10,6,467.7,3190.0,14.66
+Pulau Pinang,core,20,6,467.7,4232.0,11.05
+Pulau Pinang,core,40,6,467.7,6367.0,7.35
+Pulau Pinang,core,50,6,467.7,7386.0,6.33
 Sabah,core,10,6,464.82,2186.0,21.26
 Sabah,core,20,6,464.82,2787.0,16.68
 Sabah,core,40,6,464.82,4123.0,11.27
 Sabah,core,50,6,464.82,4890.0,9.51
-Sarawak,core,10,6,462.54,2427.0,19.06
-Sarawak,core,20,6,462.54,3168.0,14.6
-Sarawak,core,40,6,462.54,4668.0,9.91
-Sarawak,core,50,6,462.54,5504.0,8.4
+Sarawak,staples_16,10,6,750.72,2427.0,30.93
+Sarawak,staples_16,20,6,750.72,3168.0,23.7
+Sarawak,staples_16,40,6,750.72,4668.0,16.08
+Sarawak,staples_16,50,6,750.72,5504.0,13.64
 Selangor,staples_16,10,6,698.88,5643.0,12.38
 Selangor,staples_16,20,6,698.88,7375.0,9.48
 Selangor,staples_16,40,6,698.88,9572.0,7.3
 Selangor,staples_16,50,6,698.88,10726.0,6.52
-Terengganu,core,10,6,488.04,3350.0,14.57
-Terengganu,core,20,6,488.04,4131.0,11.81
-Terengganu,core,40,6,488.04,5884.0,8.29
-Terengganu,core,50,6,488.04,6627.0,7.36
-W.P. Kuala Lumpur,staples_16,10,6,715.92,5096.0,14.05
-W.P. Kuala Lumpur,staples_16,20,6,715.92,6750.0,10.61
-W.P. Kuala Lumpur,staples_16,40,6,715.92,9632.0,7.43
-W.P. Kuala Lumpur,staples_16,50,6,715.92,10802.0,6.63
-W.P. Labuan,staples_16,10,6,745.32,3306.0,22.54
-W.P. Labuan,staples_16,20,6,745.32,4408.0,16.91
-W.P. Labuan,staples_16,40,6,745.32,6313.0,11.81
-W.P. Labuan,staples_16,50,6,745.32,7383.0,10.1
+Terengganu,staples_16,10,6,719.22,3350.0,21.47
+Terengganu,staples_16,20,6,719.22,4131.0,17.41
+Terengganu,staples_16,40,6,719.22,5884.0,12.22
+Terengganu,staples_16,50,6,719.22,6627.0,10.85
+W.P. Kuala Lumpur,core,10,6,496.56,5096.0,9.74
+W.P. Kuala Lumpur,core,20,6,496.56,6750.0,7.36
+W.P. Kuala Lumpur,core,40,6,496.56,9632.0,5.16
+W.P. Kuala Lumpur,core,50,6,496.56,10802.0,4.6
+W.P. Labuan,core,10,6,470.82,3306.0,14.24
+W.P. Labuan,core,20,6,470.82,4408.0,10.68
+W.P. Labuan,core,40,6,470.82,6313.0,7.46
+W.P. Labuan,core,50,6,470.82,7383.0,6.38
 W.P. Putrajaya,core,10,6,509.04,5249.0,9.7
 W.P. Putrajaya,core,20,6,509.04,6822.0,7.46
 W.P. Putrajaya,core,40,6,509.04,9624.0,5.29
@@ -199,18 +199,18 @@ Kedah,core,10,4,305.8,2200.0,13.9
 Kedah,core,20,4,305.8,2890.0,10.58
 Kedah,core,40,4,305.8,3936.0,7.77
 Kedah,core,50,4,305.8,4895.0,6.25
-Kelantan,staples_plus_rice,10,4,619.92,2014.0,30.78
-Kelantan,staples_plus_rice,20,4,619.92,2541.0,24.4
-Kelantan,staples_plus_rice,40,4,619.92,3522.0,17.6
-Kelantan,staples_plus_rice,50,4,619.92,4083.0,15.18
+Kelantan,core,10,4,330.64,2014.0,16.42
+Kelantan,core,20,4,330.64,2541.0,13.01
+Kelantan,core,40,4,330.64,3522.0,9.39
+Kelantan,core,50,4,330.64,4083.0,8.1
 Melaka,core,10,4,321.84,3449.0,9.33
 Melaka,core,20,4,321.84,4299.0,7.49
 Melaka,core,40,4,321.84,5916.0,5.44
 Melaka,core,50,4,321.84,6891.0,4.67
-Negeri Sembilan,staples_plus_rice,10,4,588.6,2666.0,22.08
-Negeri Sembilan,staples_plus_rice,20,4,588.6,3315.0,17.76
-Negeri Sembilan,staples_plus_rice,40,4,588.6,4692.0,12.54
-Negeri Sembilan,staples_plus_rice,50,4,588.6,5591.0,10.53
+Negeri Sembilan,core,10,4,319.88,2666.0,12.0
+Negeri Sembilan,core,20,4,319.88,3315.0,9.65
+Negeri Sembilan,core,40,4,319.88,4692.0,6.82
+Negeri Sembilan,core,50,4,319.88,5591.0,5.72
 Pahang,core,10,4,319.08,2746.0,11.62
 Pahang,core,20,4,319.08,3258.0,9.79
 Pahang,core,40,4,319.08,4329.0,7.37
@@ -223,34 +223,34 @@ Perlis,core,10,4,312.52,2406.0,12.99
 Perlis,core,20,4,312.52,3026.0,10.33
 Perlis,core,40,4,312.52,4273.0,7.31
 Perlis,core,50,4,312.52,4950.0,6.31
-Pulau Pinang,core,10,4,311.8,3190.0,9.77
-Pulau Pinang,core,20,4,311.8,4232.0,7.37
-Pulau Pinang,core,40,4,311.8,6367.0,4.9
-Pulau Pinang,core,50,4,311.8,7386.0,4.22
+Pulau Pinang,staples_plus_rice,10,4,584.24,3190.0,18.31
+Pulau Pinang,staples_plus_rice,20,4,584.24,4232.0,13.81
+Pulau Pinang,staples_plus_rice,40,4,584.24,6367.0,9.18
+Pulau Pinang,staples_plus_rice,50,4,584.24,7386.0,7.91
 Sabah,staples_plus_rice,10,4,607.04,2186.0,27.77
 Sabah,staples_plus_rice,20,4,607.04,2787.0,21.78
 Sabah,staples_plus_rice,40,4,607.04,4123.0,14.72
 Sabah,staples_plus_rice,50,4,607.04,4890.0,12.41
-Sarawak,staples_plus_rice,10,4,618.52,2427.0,25.48
-Sarawak,staples_plus_rice,20,4,618.52,3168.0,19.52
-Sarawak,staples_plus_rice,40,4,618.52,4668.0,13.25
-Sarawak,staples_plus_rice,50,4,618.52,5504.0,11.24
+Sarawak,core,10,4,308.36,2427.0,12.71
+Sarawak,core,20,4,308.36,3168.0,9.73
+Sarawak,core,40,4,308.36,4668.0,6.61
+Sarawak,core,50,4,308.36,5504.0,5.6
 Selangor,core,10,4,325.0,5643.0,5.76
 Selangor,core,20,4,325.0,7375.0,4.41
 Selangor,core,40,4,325.0,9572.0,3.4
 Selangor,core,50,4,325.0,10726.0,3.03
-Terengganu,staples_plus_rice,10,4,612.4,3350.0,18.28
-Terengganu,staples_plus_rice,20,4,612.4,4131.0,14.82
-Terengganu,staples_plus_rice,40,4,612.4,5884.0,10.41
-Terengganu,staples_plus_rice,50,4,612.4,6627.0,9.24
-W.P. Kuala Lumpur,core,10,4,331.04,5096.0,6.5
-W.P. Kuala Lumpur,core,20,4,331.04,6750.0,4.9
-W.P. Kuala Lumpur,core,40,4,331.04,9632.0,3.44
-W.P. Kuala Lumpur,core,50,4,331.04,10802.0,3.06
-W.P. Labuan,core,10,4,313.88,3306.0,9.49
-W.P. Labuan,core,20,4,313.88,4408.0,7.12
-W.P. Labuan,core,40,4,313.88,6313.0,4.97
-W.P. Labuan,core,50,4,313.88,7383.0,4.25
+Terengganu,core,10,4,325.36,3350.0,9.71
+Terengganu,core,20,4,325.36,4131.0,7.88
+Terengganu,core,40,4,325.36,5884.0,5.53
+Terengganu,core,50,4,325.36,6627.0,4.91
+W.P. Kuala Lumpur,staples_plus_rice,10,4,616.2,5096.0,12.09
+W.P. Kuala Lumpur,staples_plus_rice,20,4,616.2,6750.0,9.13
+W.P. Kuala Lumpur,staples_plus_rice,40,4,616.2,9632.0,6.4
+W.P. Kuala Lumpur,staples_plus_rice,50,4,616.2,10802.0,5.7
+W.P. Labuan,staples_plus_rice,10,4,609.8,3306.0,18.45
+W.P. Labuan,staples_plus_rice,20,4,609.8,4408.0,13.83
+W.P. Labuan,staples_plus_rice,40,4,609.8,6313.0,9.66
+W.P. Labuan,staples_plus_rice,50,4,609.8,7383.0,8.26
 W.P. Putrajaya,staples_plus_rice,10,4,635.32,5249.0,12.1
 W.P. Putrajaya,staples_plus_rice,20,4,635.32,6822.0,9.31
 W.P. Putrajaya,staples_plus_rice,40,4,635.32,9624.0,6.6
@@ -263,18 +263,18 @@ Kedah,staples_plus_rice,10,4,574.36,2200.0,26.11
 Kedah,staples_plus_rice,20,4,574.36,2890.0,19.87
 Kedah,staples_plus_rice,40,4,574.36,3936.0,14.59
 Kedah,staples_plus_rice,50,4,574.36,4895.0,11.73
-Kelantan,staples_16,10,4,480.88,2014.0,23.88
-Kelantan,staples_16,20,4,480.88,2541.0,18.92
-Kelantan,staples_16,40,4,480.88,3522.0,13.65
-Kelantan,staples_16,50,4,480.88,4083.0,11.78
+Kelantan,staples_plus_rice,10,4,619.92,2014.0,30.78
+Kelantan,staples_plus_rice,20,4,619.92,2541.0,24.4
+Kelantan,staples_plus_rice,40,4,619.92,3522.0,17.6
+Kelantan,staples_plus_rice,50,4,619.92,4083.0,15.18
 Melaka,staples_plus_rice,10,4,598.32,3449.0,17.35
 Melaka,staples_plus_rice,20,4,598.32,4299.0,13.92
 Melaka,staples_plus_rice,40,4,598.32,5916.0,10.11
 Melaka,staples_plus_rice,50,4,598.32,6891.0,8.68
-Negeri Sembilan,staples_16,10,4,457.56,2666.0,17.16
-Negeri Sembilan,staples_16,20,4,457.56,3315.0,13.8
-Negeri Sembilan,staples_16,40,4,457.56,4692.0,9.75
-Negeri Sembilan,staples_16,50,4,457.56,5591.0,8.18
+Negeri Sembilan,staples_plus_rice,10,4,588.6,2666.0,22.08
+Negeri Sembilan,staples_plus_rice,20,4,588.6,3315.0,17.76
+Negeri Sembilan,staples_plus_rice,40,4,588.6,4692.0,12.54
+Negeri Sembilan,staples_plus_rice,50,4,588.6,5591.0,10.53
 Pahang,staples_plus_rice,10,4,595.44,2746.0,21.68
 Pahang,staples_plus_rice,20,4,595.44,3258.0,18.28
 Pahang,staples_plus_rice,40,4,595.44,4329.0,13.75
@@ -287,34 +287,34 @@ Perlis,staples_plus_rice,10,4,591.2,2406.0,24.57
 Perlis,staples_plus_rice,20,4,591.2,3026.0,19.54
 Perlis,staples_plus_rice,40,4,591.2,4273.0,13.84
 Perlis,staples_plus_rice,50,4,591.2,4950.0,11.94
-Pulau Pinang,staples_plus_rice,10,4,584.24,3190.0,18.31
-Pulau Pinang,staples_plus_rice,20,4,584.24,4232.0,13.81
-Pulau Pinang,staples_plus_rice,40,4,584.24,6367.0,9.18
-Pulau Pinang,staples_plus_rice,50,4,584.24,7386.0,7.91
+Pulau Pinang,staples_16,10,4,453.28,3190.0,14.21
+Pulau Pinang,staples_16,20,4,453.28,4232.0,10.71
+Pulau Pinang,staples_16,40,4,453.28,6367.0,7.12
+Pulau Pinang,staples_16,50,4,453.28,7386.0,6.14
 Sabah,staples_16,10,4,491.88,2186.0,22.5
 Sabah,staples_16,20,4,491.88,2787.0,17.65
 Sabah,staples_16,40,4,491.88,4123.0,11.93
 Sabah,staples_16,50,4,491.88,4890.0,10.06
-Sarawak,staples_16,10,4,500.48,2427.0,20.62
-Sarawak,staples_16,20,4,500.48,3168.0,15.8
-Sarawak,staples_16,40,4,500.48,4668.0,10.72
-Sarawak,staples_16,50,4,500.48,5504.0,9.09
+Sarawak,staples_plus_rice,10,4,618.52,2427.0,25.48
+Sarawak,staples_plus_rice,20,4,618.52,3168.0,19.52
+Sarawak,staples_plus_rice,40,4,618.52,4668.0,13.25
+Sarawak,staples_plus_rice,50,4,618.52,5504.0,11.24
 Selangor,staples_plus_rice,10,4,599.2,5643.0,10.62
 Selangor,staples_plus_rice,20,4,599.2,7375.0,8.12
 Selangor,staples_plus_rice,40,4,599.2,9572.0,6.26
 Selangor,staples_plus_rice,50,4,599.2,10726.0,5.59
-Terengganu,staples_16,10,4,479.48,3350.0,14.31
-Terengganu,staples_16,20,4,479.48,4131.0,11.61
-Terengganu,staples_16,40,4,479.48,5884.0,8.15
-Terengganu,staples_16,50,4,479.48,6627.0,7.24
-W.P. Kuala Lumpur,staples_plus_rice,10,4,616.2,5096.0,12.09
-W.P. Kuala Lumpur,staples_plus_rice,20,4,616.2,6750.0,9.13
-W.P. Kuala Lumpur,staples_plus_rice,40,4,616.2,9632.0,6.4
-W.P. Kuala Lumpur,staples_plus_rice,50,4,616.2,10802.0,5.7
-W.P. Labuan,staples_plus_rice,10,4,609.8,3306.0,18.45
-W.P. Labuan,staples_plus_rice,20,4,609.8,4408.0,13.83
-W.P. Labuan,staples_plus_rice,40,4,609.8,6313.0,9.66
-W.P. Labuan,staples_plus_rice,50,4,609.8,7383.0,8.26
+Terengganu,staples_plus_rice,10,4,612.4,3350.0,18.28
+Terengganu,staples_plus_rice,20,4,612.4,4131.0,14.82
+Terengganu,staples_plus_rice,40,4,612.4,5884.0,10.41
+Terengganu,staples_plus_rice,50,4,612.4,6627.0,9.24
+W.P. Kuala Lumpur,staples_16,10,4,477.28,5096.0,9.37
+W.P. Kuala Lumpur,staples_16,20,4,477.28,6750.0,7.07
+W.P. Kuala Lumpur,staples_16,40,4,477.28,9632.0,4.96
+W.P. Kuala Lumpur,staples_16,50,4,477.28,10802.0,4.42
+W.P. Labuan,staples_16,10,4,496.88,3306.0,15.03
+W.P. Labuan,staples_16,20,4,496.88,4408.0,11.27
+W.P. Labuan,staples_16,40,4,496.88,6313.0,7.87
+W.P. Labuan,staples_16,50,4,496.88,7383.0,6.73
 W.P. Putrajaya,staples_16,10,4,495.36,5249.0,9.44
 W.P. Putrajaya,staples_16,20,4,495.36,6822.0,7.26
 W.P. Putrajaya,staples_16,40,4,495.36,9624.0,5.15
@@ -327,18 +327,18 @@ Kedah,staples_16,10,4,443.52,2200.0,20.16
 Kedah,staples_16,20,4,443.52,2890.0,15.35
 Kedah,staples_16,40,4,443.52,3936.0,11.27
 Kedah,staples_16,50,4,443.52,4895.0,9.06
-Kelantan,core,10,4,330.64,2014.0,16.42
-Kelantan,core,20,4,330.64,2541.0,13.01
-Kelantan,core,40,4,330.64,3522.0,9.39
-Kelantan,core,50,4,330.64,4083.0,8.1
+Kelantan,staples_16,10,4,480.88,2014.0,23.88
+Kelantan,staples_16,20,4,480.88,2541.0,18.92
+Kelantan,staples_16,40,4,480.88,3522.0,13.65
+Kelantan,staples_16,50,4,480.88,4083.0,11.78
 Melaka,staples_16,10,4,465.8,3449.0,13.51
 Melaka,staples_16,20,4,465.8,4299.0,10.84
 Melaka,staples_16,40,4,465.8,5916.0,7.87
 Melaka,staples_16,50,4,465.8,6891.0,6.76
-Negeri Sembilan,core,10,4,319.88,2666.0,12.0
-Negeri Sembilan,core,20,4,319.88,3315.0,9.65
-Negeri Sembilan,core,40,4,319.88,4692.0,6.82
-Negeri Sembilan,core,50,4,319.88,5591.0,5.72
+Negeri Sembilan,staples_16,10,4,457.56,2666.0,17.16
+Negeri Sembilan,staples_16,20,4,457.56,3315.0,13.8
+Negeri Sembilan,staples_16,40,4,457.56,4692.0,9.75
+Negeri Sembilan,staples_16,50,4,457.56,5591.0,8.18
 Pahang,staples_16,10,4,467.6,2746.0,17.03
 Pahang,staples_16,20,4,467.6,3258.0,14.35
 Pahang,staples_16,40,4,467.6,4329.0,10.8
@@ -351,34 +351,34 @@ Perlis,staples_16,10,4,461.24,2406.0,19.17
 Perlis,staples_16,20,4,461.24,3026.0,15.24
 Perlis,staples_16,40,4,461.24,4273.0,10.79
 Perlis,staples_16,50,4,461.24,4950.0,9.32
-Pulau Pinang,staples_16,10,4,453.28,3190.0,14.21
-Pulau Pinang,staples_16,20,4,453.28,4232.0,10.71
-Pulau Pinang,staples_16,40,4,453.28,6367.0,7.12
-Pulau Pinang,staples_16,50,4,453.28,7386.0,6.14
+Pulau Pinang,core,10,4,311.8,3190.0,9.77
+Pulau Pinang,core,20,4,311.8,4232.0,7.37
+Pulau Pinang,core,40,4,311.8,6367.0,4.9
+Pulau Pinang,core,50,4,311.8,7386.0,4.22
 Sabah,core,10,4,309.88,2186.0,14.18
 Sabah,core,20,4,309.88,2787.0,11.12
 Sabah,core,40,4,309.88,4123.0,7.52
 Sabah,core,50,4,309.88,4890.0,6.34
-Sarawak,core,10,4,308.36,2427.0,12.71
-Sarawak,core,20,4,308.36,3168.0,9.73
-Sarawak,core,40,4,308.36,4668.0,6.61
-Sarawak,core,50,4,308.36,5504.0,5.6
+Sarawak,staples_16,10,4,500.48,2427.0,20.62
+Sarawak,staples_16,20,4,500.48,3168.0,15.8
+Sarawak,staples_16,40,4,500.48,4668.0,10.72
+Sarawak,staples_16,50,4,500.48,5504.0,9.09
 Selangor,staples_16,10,4,465.92,5643.0,8.26
 Selangor,staples_16,20,4,465.92,7375.0,6.32
 Selangor,staples_16,40,4,465.92,9572.0,4.87
 Selangor,staples_16,50,4,465.92,10726.0,4.34
-Terengganu,core,10,4,325.36,3350.0,9.71
-Terengganu,core,20,4,325.36,4131.0,7.88
-Terengganu,core,40,4,325.36,5884.0,5.53
-Terengganu,core,50,4,325.36,6627.0,4.91
-W.P. Kuala Lumpur,staples_16,10,4,477.28,5096.0,9.37
-W.P. Kuala Lumpur,staples_16,20,4,477.28,6750.0,7.07
-W.P. Kuala Lumpur,staples_16,40,4,477.28,9632.0,4.96
-W.P. Kuala Lumpur,staples_16,50,4,477.28,10802.0,4.42
-W.P. Labuan,staples_16,10,4,496.88,3306.0,15.03
-W.P. Labuan,staples_16,20,4,496.88,4408.0,11.27
-W.P. Labuan,staples_16,40,4,496.88,6313.0,7.87
-W.P. Labuan,staples_16,50,4,496.88,7383.0,6.73
+Terengganu,staples_16,10,4,479.48,3350.0,14.31
+Terengganu,staples_16,20,4,479.48,4131.0,11.61
+Terengganu,staples_16,40,4,479.48,5884.0,8.15
+Terengganu,staples_16,50,4,479.48,6627.0,7.24
+W.P. Kuala Lumpur,core,10,4,331.04,5096.0,6.5
+W.P. Kuala Lumpur,core,20,4,331.04,6750.0,4.9
+W.P. Kuala Lumpur,core,40,4,331.04,9632.0,3.44
+W.P. Kuala Lumpur,core,50,4,331.04,10802.0,3.06
+W.P. Labuan,core,10,4,313.88,3306.0,9.49
+W.P. Labuan,core,20,4,313.88,4408.0,7.12
+W.P. Labuan,core,40,4,313.88,6313.0,4.97
+W.P. Labuan,core,50,4,313.88,7383.0,4.25
 W.P. Putrajaya,core,10,4,339.36,5249.0,6.47
 W.P. Putrajaya,core,20,4,339.36,6822.0,4.97
 W.P. Putrajaya,core,40,4,339.36,9624.0,3.53
@@ -391,18 +391,18 @@ Kedah,core,10,2,152.9,2200.0,6.95
 Kedah,core,20,2,152.9,2890.0,5.29
 Kedah,core,40,2,152.9,3936.0,3.88
 Kedah,core,50,2,152.9,4895.0,3.12
-Kelantan,staples_plus_rice,10,2,309.96,2014.0,15.39
-Kelantan,staples_plus_rice,20,2,309.96,2541.0,12.2
-Kelantan,staples_plus_rice,40,2,309.96,3522.0,8.8
-Kelantan,staples_plus_rice,50,2,309.96,4083.0,7.59
+Kelantan,core,10,2,165.32,2014.0,8.21
+Kelantan,core,20,2,165.32,2541.0,6.51
+Kelantan,core,40,2,165.32,3522.0,4.69
+Kelantan,core,50,2,165.32,4083.0,4.05
 Melaka,core,10,2,160.92,3449.0,4.67
 Melaka,core,20,2,160.92,4299.0,3.74
 Melaka,core,40,2,160.92,5916.0,2.72
 Melaka,core,50,2,160.92,6891.0,2.34
-Negeri Sembilan,staples_plus_rice,10,2,294.3,2666.0,11.04
-Negeri Sembilan,staples_plus_rice,20,2,294.3,3315.0,8.88
-Negeri Sembilan,staples_plus_rice,40,2,294.3,4692.0,6.27
-Negeri Sembilan,staples_plus_rice,50,2,294.3,5591.0,5.26
+Negeri Sembilan,core,10,2,159.94,2666.0,6.0
+Negeri Sembilan,core,20,2,159.94,3315.0,4.82
+Negeri Sembilan,core,40,2,159.94,4692.0,3.41
+Negeri Sembilan,core,50,2,159.94,5591.0,2.86
 Pahang,core,10,2,159.54,2746.0,5.81
 Pahang,core,20,2,159.54,3258.0,4.9
 Pahang,core,40,2,159.54,4329.0,3.69
@@ -415,34 +415,34 @@ Perlis,core,10,2,156.26,2406.0,6.49
 Perlis,core,20,2,156.26,3026.0,5.16
 Perlis,core,40,2,156.26,4273.0,3.66
 Perlis,core,50,2,156.26,4950.0,3.16
-Pulau Pinang,core,10,2,155.9,3190.0,4.89
-Pulau Pinang,core,20,2,155.9,4232.0,3.68
-Pulau Pinang,core,40,2,155.9,6367.0,2.45
-Pulau Pinang,core,50,2,155.9,7386.0,2.11
+Pulau Pinang,staples_plus_rice,10,2,292.12,3190.0,9.16
+Pulau Pinang,staples_plus_rice,20,2,292.12,4232.0,6.9
+Pulau Pinang,staples_plus_rice,40,2,292.12,6367.0,4.59
+Pulau Pinang,staples_plus_rice,50,2,292.12,7386.0,3.96
 Sabah,staples_plus_rice,10,2,303.52,2186.0,13.88
 Sabah,staples_plus_rice,20,2,303.52,2787.0,10.89
 Sabah,staples_plus_rice,40,2,303.52,4123.0,7.36
 Sabah,staples_plus_rice,50,2,303.52,4890.0,6.21
-Sarawak,staples_plus_rice,10,2,309.26,2427.0,12.74
-Sarawak,staples_plus_rice,20,2,309.26,3168.0,9.76
-Sarawak,staples_plus_rice,40,2,309.26,4668.0,6.63
-Sarawak,staples_plus_rice,50,2,309.26,5504.0,5.62
+Sarawak,core,10,2,154.18,2427.0,6.35
+Sarawak,core,20,2,154.18,3168.0,4.87
+Sarawak,core,40,2,154.18,4668.0,3.3
+Sarawak,core,50,2,154.18,5504.0,2.8
 Selangor,core,10,2,162.5,5643.0,2.88
 Selangor,core,20,2,162.5,7375.0,2.2
 Selangor,core,40,2,162.5,9572.0,1.7
 Selangor,core,50,2,162.5,10726.0,1.52
-Terengganu,staples_plus_rice,10,2,306.2,3350.0,9.14
-Terengganu,staples_plus_rice,20,2,306.2,4131.0,7.41
-Terengganu,staples_plus_rice,40,2,306.2,5884.0,5.2
-Terengganu,staples_plus_rice,50,2,306.2,6627.0,4.62
-W.P. Kuala Lumpur,core,10,2,165.52,5096.0,3.25
-W.P. Kuala Lumpur,core,20,2,165.52,6750.0,2.45
-W.P. Kuala Lumpur,core,40,2,165.52,9632.0,1.72
-W.P. Kuala Lumpur,core,50,2,165.52,10802.0,1.53
-W.P. Labuan,core,10,2,156.94,3306.0,4.75
-W.P. Labuan,core,20,2,156.94,4408.0,3.56
-W.P. Labuan,core,40,2,156.94,6313.0,2.49
-W.P. Labuan,core,50,2,156.94,7383.0,2.13
+Terengganu,core,10,2,162.68,3350.0,4.86
+Terengganu,core,20,2,162.68,4131.0,3.94
+Terengganu,core,40,2,162.68,5884.0,2.76
+Terengganu,core,50,2,162.68,6627.0,2.45
+W.P. Kuala Lumpur,staples_plus_rice,10,2,308.1,5096.0,6.05
+W.P. Kuala Lumpur,staples_plus_rice,20,2,308.1,6750.0,4.56
+W.P. Kuala Lumpur,staples_plus_rice,40,2,308.1,9632.0,3.2
+W.P. Kuala Lumpur,staples_plus_rice,50,2,308.1,10802.0,2.85
+W.P. Labuan,staples_plus_rice,10,2,304.9,3306.0,9.22
+W.P. Labuan,staples_plus_rice,20,2,304.9,4408.0,6.92
+W.P. Labuan,staples_plus_rice,40,2,304.9,6313.0,4.83
+W.P. Labuan,staples_plus_rice,50,2,304.9,7383.0,4.13
 W.P. Putrajaya,staples_plus_rice,10,2,317.66,5249.0,6.05
 W.P. Putrajaya,staples_plus_rice,20,2,317.66,6822.0,4.66
 W.P. Putrajaya,staples_plus_rice,40,2,317.66,9624.0,3.3
@@ -455,18 +455,18 @@ Kedah,staples_plus_rice,10,2,287.18,2200.0,13.05
 Kedah,staples_plus_rice,20,2,287.18,2890.0,9.94
 Kedah,staples_plus_rice,40,2,287.18,3936.0,7.3
 Kedah,staples_plus_rice,50,2,287.18,4895.0,5.87
-Kelantan,staples_16,10,2,240.44,2014.0,11.94
-Kelantan,staples_16,20,2,240.44,2541.0,9.46
-Kelantan,staples_16,40,2,240.44,3522.0,6.83
-Kelantan,staples_16,50,2,240.44,4083.0,5.89
+Kelantan,staples_plus_rice,10,2,309.96,2014.0,15.39
+Kelantan,staples_plus_rice,20,2,309.96,2541.0,12.2
+Kelantan,staples_plus_rice,40,2,309.96,3522.0,8.8
+Kelantan,staples_plus_rice,50,2,309.96,4083.0,7.59
 Melaka,staples_plus_rice,10,2,299.16,3449.0,8.67
 Melaka,staples_plus_rice,20,2,299.16,4299.0,6.96
 Melaka,staples_plus_rice,40,2,299.16,5916.0,5.06
 Melaka,staples_plus_rice,50,2,299.16,6891.0,4.34
-Negeri Sembilan,staples_16,10,2,228.78,2666.0,8.58
-Negeri Sembilan,staples_16,20,2,228.78,3315.0,6.9
-Negeri Sembilan,staples_16,40,2,228.78,4692.0,4.88
-Negeri Sembilan,staples_16,50,2,228.78,5591.0,4.09
+Negeri Sembilan,staples_plus_rice,10,2,294.3,2666.0,11.04
+Negeri Sembilan,staples_plus_rice,20,2,294.3,3315.0,8.88
+Negeri Sembilan,staples_plus_rice,40,2,294.3,4692.0,6.27
+Negeri Sembilan,staples_plus_rice,50,2,294.3,5591.0,5.26
 Pahang,staples_plus_rice,10,2,297.72,2746.0,10.84
 Pahang,staples_plus_rice,20,2,297.72,3258.0,9.14
 Pahang,staples_plus_rice,40,2,297.72,4329.0,6.88
@@ -479,34 +479,34 @@ Perlis,staples_plus_rice,10,2,295.6,2406.0,12.29
 Perlis,staples_plus_rice,20,2,295.6,3026.0,9.77
 Perlis,staples_plus_rice,40,2,295.6,4273.0,6.92
 Perlis,staples_plus_rice,50,2,295.6,4950.0,5.97
-Pulau Pinang,staples_plus_rice,10,2,292.12,3190.0,9.16
-Pulau Pinang,staples_plus_rice,20,2,292.12,4232.0,6.9
-Pulau Pinang,staples_plus_rice,40,2,292.12,6367.0,4.59
-Pulau Pinang,staples_plus_rice,50,2,292.12,7386.0,3.96
+Pulau Pinang,staples_16,10,2,226.64,3190.0,7.1
+Pulau Pinang,staples_16,20,2,226.64,4232.0,5.36
+Pulau Pinang,staples_16,40,2,226.64,6367.0,3.56
+Pulau Pinang,staples_16,50,2,226.64,7386.0,3.07
 Sabah,staples_16,10,2,245.94,2186.0,11.25
 Sabah,staples_16,20,2,245.94,2787.0,8.82
 Sabah,staples_16,40,2,245.94,4123.0,5.97
 Sabah,staples_16,50,2,245.94,4890.0,5.03
-Sarawak,staples_16,10,2,250.24,2427.0,10.31
-Sarawak,staples_16,20,2,250.24,3168.0,7.9
-Sarawak,staples_16,40,2,250.24,4668.0,5.36
-Sarawak,staples_16,50,2,250.24,5504.0,4.55
+Sarawak,staples_plus_rice,10,2,309.26,2427.0,12.74
+Sarawak,staples_plus_rice,20,2,309.26,3168.0,9.76
+Sarawak,staples_plus_rice,40,2,309.26,4668.0,6.63
+Sarawak,staples_plus_rice,50,2,309.26,5504.0,5.62
 Selangor,staples_plus_rice,10,2,299.6,5643.0,5.31
 Selangor,staples_plus_rice,20,2,299.6,7375.0,4.06
 Selangor,staples_plus_rice,40,2,299.6,9572.0,3.13
 Selangor,staples_plus_rice,50,2,299.6,10726.0,2.79
-Terengganu,staples_16,10,2,239.74,3350.0,7.16
-Terengganu,staples_16,20,2,239.74,4131.0,5.8
-Terengganu,staples_16,40,2,239.74,5884.0,4.07
-Terengganu,staples_16,50,2,239.74,6627.0,3.62
-W.P. Kuala Lumpur,staples_plus_rice,10,2,308.1,5096.0,6.05
-W.P. Kuala Lumpur,staples_plus_rice,20,2,308.1,6750.0,4.56
-W.P. Kuala Lumpur,staples_plus_rice,40,2,308.1,9632.0,3.2
-W.P. Kuala Lumpur,staples_plus_rice,50,2,308.1,10802.0,2.85
-W.P. Labuan,staples_plus_rice,10,2,304.9,3306.0,9.22
-W.P. Labuan,staples_plus_rice,20,2,304.9,4408.0,6.92
-W.P. Labuan,staples_plus_rice,40,2,304.9,6313.0,4.83
-W.P. Labuan,staples_plus_rice,50,2,304.9,7383.0,4.13
+Terengganu,staples_plus_rice,10,2,306.2,3350.0,9.14
+Terengganu,staples_plus_rice,20,2,306.2,4131.0,7.41
+Terengganu,staples_plus_rice,40,2,306.2,5884.0,5.2
+Terengganu,staples_plus_rice,50,2,306.2,6627.0,4.62
+W.P. Kuala Lumpur,staples_16,10,2,238.64,5096.0,4.68
+W.P. Kuala Lumpur,staples_16,20,2,238.64,6750.0,3.54
+W.P. Kuala Lumpur,staples_16,40,2,238.64,9632.0,2.48
+W.P. Kuala Lumpur,staples_16,50,2,238.64,10802.0,2.21
+W.P. Labuan,staples_16,10,2,248.44,3306.0,7.51
+W.P. Labuan,staples_16,20,2,248.44,4408.0,5.64
+W.P. Labuan,staples_16,40,2,248.44,6313.0,3.94
+W.P. Labuan,staples_16,50,2,248.44,7383.0,3.37
 W.P. Putrajaya,staples_16,10,2,247.68,5249.0,4.72
 W.P. Putrajaya,staples_16,20,2,247.68,6822.0,3.63
 W.P. Putrajaya,staples_16,40,2,247.68,9624.0,2.57
@@ -519,18 +519,18 @@ Kedah,staples_16,10,2,221.76,2200.0,10.08
 Kedah,staples_16,20,2,221.76,2890.0,7.67
 Kedah,staples_16,40,2,221.76,3936.0,5.63
 Kedah,staples_16,50,2,221.76,4895.0,4.53
-Kelantan,core,10,2,165.32,2014.0,8.21
-Kelantan,core,20,2,165.32,2541.0,6.51
-Kelantan,core,40,2,165.32,3522.0,4.69
-Kelantan,core,50,2,165.32,4083.0,4.05
+Kelantan,staples_16,10,2,240.44,2014.0,11.94
+Kelantan,staples_16,20,2,240.44,2541.0,9.46
+Kelantan,staples_16,40,2,240.44,3522.0,6.83
+Kelantan,staples_16,50,2,240.44,4083.0,5.89
 Melaka,staples_16,10,2,232.9,3449.0,6.75
 Melaka,staples_16,20,2,232.9,4299.0,5.42
 Melaka,staples_16,40,2,232.9,5916.0,3.94
 Melaka,staples_16,50,2,232.9,6891.0,3.38
-Negeri Sembilan,core,10,2,159.94,2666.0,6.0
-Negeri Sembilan,core,20,2,159.94,3315.0,4.82
-Negeri Sembilan,core,40,2,159.94,4692.0,3.41
-Negeri Sembilan,core,50,2,159.94,5591.0,2.86
+Negeri Sembilan,staples_16,10,2,228.78,2666.0,8.58
+Negeri Sembilan,staples_16,20,2,228.78,3315.0,6.9
+Negeri Sembilan,staples_16,40,2,228.78,4692.0,4.88
+Negeri Sembilan,staples_16,50,2,228.78,5591.0,4.09
 Pahang,staples_16,10,2,233.8,2746.0,8.51
 Pahang,staples_16,20,2,233.8,3258.0,7.18
 Pahang,staples_16,40,2,233.8,4329.0,5.4
@@ -543,34 +543,34 @@ Perlis,staples_16,10,2,230.62,2406.0,9.59
 Perlis,staples_16,20,2,230.62,3026.0,7.62
 Perlis,staples_16,40,2,230.62,4273.0,5.4
 Perlis,staples_16,50,2,230.62,4950.0,4.66
-Pulau Pinang,staples_16,10,2,226.64,3190.0,7.1
-Pulau Pinang,staples_16,20,2,226.64,4232.0,5.36
-Pulau Pinang,staples_16,40,2,226.64,6367.0,3.56
-Pulau Pinang,staples_16,50,2,226.64,7386.0,3.07
+Pulau Pinang,core,10,2,155.9,3190.0,4.89
+Pulau Pinang,core,20,2,155.9,4232.0,3.68
+Pulau Pinang,core,40,2,155.9,6367.0,2.45
+Pulau Pinang,core,50,2,155.9,7386.0,2.11
 Sabah,core,10,2,154.94,2186.0,7.09
 Sabah,core,20,2,154.94,2787.0,5.56
 Sabah,core,40,2,154.94,4123.0,3.76
 Sabah,core,50,2,154.94,4890.0,3.17
-Sarawak,core,10,2,154.18,2427.0,6.35
-Sarawak,core,20,2,154.18,3168.0,4.87
-Sarawak,core,40,2,154.18,4668.0,3.3
-Sarawak,core,50,2,154.18,5504.0,2.8
+Sarawak,staples_16,10,2,250.24,2427.0,10.31
+Sarawak,staples_16,20,2,250.24,3168.0,7.9
+Sarawak,staples_16,40,2,250.24,4668.0,5.36
+Sarawak,staples_16,50,2,250.24,5504.0,4.55
 Selangor,staples_16,10,2,232.96,5643.0,4.13
 Selangor,staples_16,20,2,232.96,7375.0,3.16
 Selangor,staples_16,40,2,232.96,9572.0,2.43
 Selangor,staples_16,50,2,232.96,10726.0,2.17
-Terengganu,core,10,2,162.68,3350.0,4.86
-Terengganu,core,20,2,162.68,4131.0,3.94
-Terengganu,core,40,2,162.68,5884.0,2.76
-Terengganu,core,50,2,162.68,6627.0,2.45
-W.P. Kuala Lumpur,staples_16,10,2,238.64,5096.0,4.68
-W.P. Kuala Lumpur,staples_16,20,2,238.64,6750.0,3.54
-W.P. Kuala Lumpur,staples_16,40,2,238.64,9632.0,2.48
-W.P. Kuala Lumpur,staples_16,50,2,238.64,10802.0,2.21
-W.P. Labuan,staples_16,10,2,248.44,3306.0,7.51
-W.P. Labuan,staples_16,20,2,248.44,4408.0,5.64
-W.P. Labuan,staples_16,40,2,248.44,6313.0,3.94
-W.P. Labuan,staples_16,50,2,248.44,7383.0,3.37
+Terengganu,staples_16,10,2,239.74,3350.0,7.16
+Terengganu,staples_16,20,2,239.74,4131.0,5.8
+Terengganu,staples_16,40,2,239.74,5884.0,4.07
+Terengganu,staples_16,50,2,239.74,6627.0,3.62
+W.P. Kuala Lumpur,core,10,2,165.52,5096.0,3.25
+W.P. Kuala Lumpur,core,20,2,165.52,6750.0,2.45
+W.P. Kuala Lumpur,core,40,2,165.52,9632.0,1.72
+W.P. Kuala Lumpur,core,50,2,165.52,10802.0,1.53
+W.P. Labuan,core,10,2,156.94,3306.0,4.75
+W.P. Labuan,core,20,2,156.94,4408.0,3.56
+W.P. Labuan,core,40,2,156.94,6313.0,2.49
+W.P. Labuan,core,50,2,156.94,7383.0,2.13
 W.P. Putrajaya,core,10,2,169.68,5249.0,3.23
 W.P. Putrajaya,core,20,2,169.68,6822.0,2.49
 W.P. Putrajaya,core,40,2,169.68,9624.0,1.76

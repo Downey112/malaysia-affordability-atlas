@@ -75,8 +75,8 @@ def build():
     for table in STAR_TABLES + MART_TABLES:
         rows = con.execute(f"select count(*) from {table}").fetchone()[0]
         out_file = PROCESSED_DIR / f"{table}.parquet"
-        con.execute(f"copy (select * from {table}) to '{out_file.as_posix()}' (format parquet)")
-        con.execute(f"copy {table} to '{out_file.with_suffix('.csv').as_posix()}' (header, delimiter ',')")
+        con.execute(f"copy (select * from {table} order by all) to '{out_file.as_posix()}' (format parquet)")
+        con.execute(f"copy (select * from {table} order by all) to '{out_file.with_suffix('.csv').as_posix()}' (header, delimiter ',')")
         print(f"[OK] {table:<26} -> data/processed ({rows:,} rows)")
 
     con.close()
