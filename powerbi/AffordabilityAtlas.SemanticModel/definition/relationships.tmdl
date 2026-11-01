@@ -1,0 +1,79 @@
+relationship 4cfc8456-61db-51bf-b2c6-0f426c9817e3
+	fromColumn: mart_burden.state
+	toColumn: dim_state.state
+
+relationship c09c3685-6a19-5d97-9a61-a920b6563782
+	fromColumn: mart_counterfactual.state
+	toColumn: dim_state.state
+
+relationship 91c4a2df-3f59-585e-8c57-c3201a5b93ff
+	fromColumn: mart_budget_gap.state
+	toColumn: dim_state.state
+
+relationship 53a0726d-9647-5870-820a-95c138bbe94d
+	fromColumn: mart_pli.state
+	toColumn: dim_state.state
+
+relationship 7e8e9610-961d-5c3d-9328-0d6c6c5d14e1
+	fromColumn: mart_pressure.state
+	toColumn: dim_state.state
+
+relationship 2bd7a908-d6d8-5485-80a1-441e019e8ee4
+	fromColumn: mart_real_income.state
+	toColumn: dim_state.state
+
+relationship 962c4268-80ff-5b87-bd08-28f236ad9a07
+	fromColumn: mart_real_wages.state
+	toColumn: dim_state.state
+
+relationship 065ae52e-cd06-570b-a80f-88c8b588a997
+	fromColumn: fact_state_year.state
+	toColumn: dim_state.state
+
+relationship 8116985c-ee27-5bb0-9cc4-91c795d7283a
+	fromColumn: fact_district_year.state
+	toColumn: dim_state.state
+
+relationship fbc3f2f0-ddef-5942-a2aa-be51eef64dbb
+	fromColumn: fact_spending_state.state
+	toColumn: dim_state.state
+
+relationship ce856301-e022-57db-b166-7581ac0c652e
+	fromColumn: fact_basket_state.state
+	toColumn: dim_state.state
+
+relationship 005511b4-17be-5817-9b56-94757cadc91c
+	fromColumn: mart_burden.basket_id
+	toColumn: dim_basket.basket_id
+
+relationship 647010cf-28bd-509b-8dba-a3b02181b31e
+	fromColumn: mart_counterfactual.basket_id
+	toColumn: dim_basket.basket_id
+
+relationship 366563e7-84fe-5c64-b422-6441a8b230af
+	fromColumn: mart_decomposition.basket_id
+	toColumn: dim_basket.basket_id
+
+relationship 7eadd7b9-fa18-589b-bd51-83cba42ed1ea
+	fromColumn: fact_basket_state.basket_id
+	toColumn: dim_basket.basket_id
+
+relationship b9c51cf4-9dab-5cd5-b238-490a814ee266
+	fromColumn: mart_burden.percentile
+	toColumn: dim_income_position.percentile
+
+relationship 6ba73267-d054-5920-895d-62f17e2cb284
+	fromColumn: mart_counterfactual.percentile
+	toColumn: dim_income_position.percentile
+
+relationship d8288b7e-4dc1-5eb4-b0ff-bdbc39e5b153
+	fromColumn: mart_decomposition.percentile
+	toColumn: dim_income_position.percentile
+
+relationship babda3af-83d7-55ba-ac63-3cc8ae4ef4d1
+	fromColumn: mart_budget_gap.household_type
+	toColumn: dim_household_type.household_type
+
+relationship 46bf6afa-8aac-50d1-999e-9aac47f07b25
+	fromColumn: fact_spending_state.group_code
+	toColumn: dim_spending_group.group_code

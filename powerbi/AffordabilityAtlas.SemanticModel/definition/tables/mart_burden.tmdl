@@ -1,0 +1,100 @@
+table mart_burden
+	lineageTag: aef4ac35-c59d-5037-9e21-acb68675f446
+
+	column state
+		dataType: string
+		isHidden
+		lineageTag: 89884732-0c46-5462-af35-1cb74c0cf492
+		summarizeBy: none
+		sourceColumn: state
+
+	column basket_id
+		dataType: string
+		isHidden
+		lineageTag: 9b855e82-3267-59c8-8f3e-505ac658fbb1
+		summarizeBy: none
+		sourceColumn: basket_id
+
+	column percentile
+		dataType: int64
+		isHidden
+		lineageTag: b30359cc-8be6-563b-ba34-3b4c259bc739
+		summarizeBy: none
+		sourceColumn: percentile
+
+	column income_2024
+		dataType: double
+		lineageTag: fb492ce7-1e64-53fc-b8d2-2284fe2b5594
+		summarizeBy: none
+		sourceColumn: income_2024
+
+	column basket_cost_2024
+		dataType: double
+		lineageTag: 56d9def6-af97-5bae-ab3a-c0f186d06793
+		summarizeBy: none
+		sourceColumn: basket_cost_2024
+
+	column purchases_per_month
+		dataType: int64
+		lineageTag: 9b2b9d72-cbef-55c6-a628-e22a95b0caed
+		summarizeBy: none
+		sourceColumn: purchases_per_month
+
+	column monthly_basket_spend
+		dataType: double
+		lineageTag: 537c7ba6-3d0a-5224-b43a-a1559f9a18d1
+		summarizeBy: none
+		sourceColumn: monthly_basket_spend
+
+	column burden_pct
+		dataType: double
+		lineageTag: 7f71542c-e564-59b4-ac55-22515c47a76e
+		summarizeBy: none
+		sourceColumn: burden_pct
+
+	column burden_ci_lower_pct
+		dataType: double
+		lineageTag: 2a702190-29c7-5fe2-ae3a-708f3498f8a3
+		summarizeBy: none
+		sourceColumn: burden_ci_lower_pct
+
+	column burden_ci_upper_pct
+		dataType: double
+		lineageTag: 4285ca6b-d717-563d-adad-2b39f7b427bc
+		summarizeBy: none
+		sourceColumn: burden_ci_upper_pct
+
+	column rank_burden
+		dataType: int64
+		lineageTag: 8c6047f3-97c4-52ac-8e11-35d962a39fb7
+		summarizeBy: none
+		sourceColumn: rank_burden
+
+	column thin_coverage_flag
+		dataType: boolean
+		lineageTag: 1607239b-383d-5930-b731-46e239e9f065
+		summarizeBy: none
+		sourceColumn: thin_coverage_flag
+
+	partition mart_burden = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\mart_burden.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "basket_id", "percentile", "income_2024", "basket_cost_2024", "purchases_per_month", "monthly_basket_spend", "burden_pct", "burden_ci_lower_pct", "burden_ci_upper_pct", "rank_burden", "thin_coverage_flag"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"basket_id", type text},
+				        {"percentile", Int64.Type},
+				        {"income_2024", type number},
+				        {"basket_cost_2024", type number},
+				        {"purchases_per_month", Int64.Type},
+				        {"monthly_basket_spend", type number},
+				        {"burden_pct", type number},
+				        {"burden_ci_lower_pct", type number},
+				        {"burden_ci_upper_pct", type number},
+				        {"rank_burden", Int64.Type},
+				        {"thin_coverage_flag", type logical}
+				    })
+				in
+				    #"Typed"

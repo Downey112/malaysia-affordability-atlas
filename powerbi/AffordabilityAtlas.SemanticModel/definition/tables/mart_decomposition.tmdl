@@ -1,0 +1,78 @@
+table mart_decomposition
+	lineageTag: 30883e90-072e-5222-8482-293ce071b284
+
+	column basket_id
+		dataType: string
+		isHidden
+		lineageTag: 9e64258d-7f2e-5c11-9775-3bff75aa8204
+		summarizeBy: none
+		sourceColumn: basket_id
+
+	column percentile
+		dataType: int64
+		isHidden
+		lineageTag: 5aa5dff7-3f24-54b3-8b8c-c5f5bf42c8a2
+		summarizeBy: none
+		sourceColumn: percentile
+
+	column var_log_burden
+		dataType: double
+		lineageTag: 1bfea6b2-600c-50f7-973e-30c391d6adab
+		summarizeBy: none
+		sourceColumn: var_log_burden
+
+	column var_log_price
+		dataType: double
+		lineageTag: 94a74ecd-51b5-5bc7-925d-ab2b4f7373a5
+		summarizeBy: none
+		sourceColumn: var_log_price
+
+	column var_log_income
+		dataType: double
+		lineageTag: cf186b0c-26bf-5728-92a1-ac2cd54bf5e7
+		summarizeBy: none
+		sourceColumn: var_log_income
+
+	column cov_price_income
+		dataType: double
+		lineageTag: 763a9e8f-1179-547b-933c-56a6ad18fcdb
+		summarizeBy: none
+		sourceColumn: cov_price_income
+
+	column share_due_to_price_pct
+		dataType: double
+		lineageTag: db3522fb-abf4-5332-9902-8f8812a2453b
+		summarizeBy: none
+		sourceColumn: share_due_to_price_pct
+
+	column share_due_to_income_pct
+		dataType: double
+		lineageTag: 3b6c95d9-f680-5849-b1af-015eed800dc2
+		summarizeBy: none
+		sourceColumn: share_due_to_income_pct
+
+	column sum_shares_pct
+		dataType: double
+		lineageTag: 099e5d0f-fcf9-52e7-9d92-ecfc95333c61
+		summarizeBy: none
+		sourceColumn: sum_shares_pct
+
+	partition mart_decomposition = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\mart_decomposition.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"basket_id", "percentile", "var_log_burden", "var_log_price", "var_log_income", "cov_price_income", "share_due_to_price_pct", "share_due_to_income_pct", "sum_shares_pct"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"basket_id", type text},
+				        {"percentile", Int64.Type},
+				        {"var_log_burden", type number},
+				        {"var_log_price", type number},
+				        {"var_log_income", type number},
+				        {"cov_price_income", type number},
+				        {"share_due_to_price_pct", type number},
+				        {"share_due_to_income_pct", type number},
+				        {"sum_shares_pct", type number}
+				    })
+				in
+				    #"Typed"

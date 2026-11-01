@@ -1,0 +1,55 @@
+table mart_real_wages
+	lineageTag: 0faf49c5-840b-5907-8785-de2f0629cfbc
+
+	column state
+		dataType: string
+		lineageTag: 34843d4a-5576-54d8-8e3f-0eaf0ce3ec81
+		summarizeBy: none
+		sourceColumn: state
+
+	column wage_median_start
+		dataType: double
+		lineageTag: 851f7ee8-f9a5-577d-837f-b4d97010b61b
+		summarizeBy: none
+		sourceColumn: wage_median_start
+
+	column wage_median_end
+		dataType: double
+		lineageTag: 3371b78f-dec1-5e28-a9d9-55efac45698c
+		summarizeBy: none
+		sourceColumn: wage_median_end
+
+	column nom_wage_growth_pct
+		dataType: double
+		lineageTag: 5970661e-bf77-55b1-945a-8346da97efb0
+		summarizeBy: none
+		sourceColumn: nom_wage_growth_pct
+
+	column cpi_growth_pct
+		dataType: double
+		lineageTag: 55835462-3113-5330-8296-253fb90a0424
+		summarizeBy: none
+		sourceColumn: cpi_growth_pct
+
+	column real_wage_growth_pct
+		dataType: double
+		lineageTag: 0eae4075-a6d6-5b72-bf00-7aa006be20f2
+		summarizeBy: none
+		sourceColumn: real_wage_growth_pct
+
+	partition mart_real_wages = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\mart_real_wages.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "wage_median_start", "wage_median_end", "nom_wage_growth_pct", "cpi_growth_pct", "real_wage_growth_pct"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"wage_median_start", type number},
+				        {"wage_median_end", type number},
+				        {"nom_wage_growth_pct", type number},
+				        {"cpi_growth_pct", type number},
+				        {"real_wage_growth_pct", type number}
+				    })
+				in
+				    #"Typed"

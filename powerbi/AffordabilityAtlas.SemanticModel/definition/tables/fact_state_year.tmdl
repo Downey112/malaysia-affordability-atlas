@@ -1,0 +1,84 @@
+table fact_state_year
+	lineageTag: 31371508-7440-57b7-94dc-7b6c7ea6b697
+
+	column state
+		dataType: string
+		isHidden
+		lineageTag: a7031885-cabf-5b7b-a0b0-df7279192357
+		summarizeBy: none
+		sourceColumn: state
+
+	column year
+		dataType: int64
+		lineageTag: a5836824-dbdd-51af-889a-b3afe32bd7c9
+		summarizeBy: none
+		sourceColumn: year
+
+	column income_mean
+		dataType: double
+		lineageTag: 19b55086-2481-538d-a8bf-2d729eaa4ccd
+		summarizeBy: none
+		sourceColumn: income_mean
+
+	column income_median
+		dataType: double
+		lineageTag: b61a1846-3b0c-5d5b-ac5e-5b79f9bbe401
+		summarizeBy: none
+		sourceColumn: income_median
+
+	column expenditure_mean
+		dataType: double
+		lineageTag: ace474a2-0505-5bc8-b516-7be8b24bc62e
+		summarizeBy: none
+		sourceColumn: expenditure_mean
+
+	column exp_share_mean_pct
+		dataType: double
+		lineageTag: fb3a80b6-9a8f-598a-9591-c23a5e12f99e
+		summarizeBy: none
+		sourceColumn: exp_share_mean_pct
+
+	column gini
+		dataType: double
+		lineageTag: 4975f702-077f-5e61-8c25-1c0399f61112
+		summarizeBy: none
+		sourceColumn: gini
+
+	column poverty_rate
+		dataType: double
+		lineageTag: 381abf57-eb98-5580-b635-6f062b74d46a
+		summarizeBy: none
+		sourceColumn: poverty_rate
+
+	column poverty_hardcore
+		dataType: double
+		lineageTag: f8851323-6398-5bf3-b5bd-23c12906757e
+		summarizeBy: none
+		sourceColumn: poverty_hardcore
+
+	column poverty_relative
+		dataType: double
+		lineageTag: e3b1561d-980e-5c71-a40f-5f909d1ecfc8
+		summarizeBy: none
+		sourceColumn: poverty_relative
+
+	partition fact_state_year = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\fact_state_year.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "year", "income_mean", "income_median", "expenditure_mean", "exp_share_mean_pct", "gini", "poverty_rate", "poverty_hardcore", "poverty_relative"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"year", Int64.Type},
+				        {"income_mean", type number},
+				        {"income_median", type number},
+				        {"expenditure_mean", type number},
+				        {"exp_share_mean_pct", type number},
+				        {"gini", type number},
+				        {"poverty_rate", type number},
+				        {"poverty_hardcore", type number},
+				        {"poverty_relative", type number}
+				    })
+				in
+				    #"Typed"

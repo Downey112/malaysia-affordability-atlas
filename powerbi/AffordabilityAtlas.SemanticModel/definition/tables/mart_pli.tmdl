@@ -1,0 +1,69 @@
+table mart_pli
+	lineageTag: e852a5a4-9755-5bf1-8768-e8839f5cc89c
+
+	column state
+		dataType: string
+		lineageTag: 80a7ae45-2609-5f2d-8865-f3a5badd58ae
+		summarizeBy: none
+		sourceColumn: state
+
+	column pli_2022
+		dataType: double
+		lineageTag: 1d070ba6-99db-59cf-8e18-f91232d62a38
+		summarizeBy: none
+		sourceColumn: pli_2022
+
+	column pli_2024
+		dataType: double
+		lineageTag: c2b1ab6a-fff0-592a-b14a-e17c7b462e98
+		summarizeBy: none
+		sourceColumn: pli_2024
+
+	column pli_growth_pct
+		dataType: double
+		lineageTag: 81c153f2-9109-5edf-85a8-9fbfe60309e0
+		summarizeBy: none
+		sourceColumn: pli_growth_pct
+
+	column income_p10
+		dataType: double
+		lineageTag: 63c1c04c-7c29-55e4-97ce-c48e6615fb94
+		summarizeBy: none
+		sourceColumn: income_p10
+
+	column income_p20
+		dataType: double
+		lineageTag: 43e9ace3-e508-5922-ae46-5eb054a3f019
+		summarizeBy: none
+		sourceColumn: income_p20
+
+	column p10_multiple_of_pli
+		dataType: double
+		lineageTag: 08a158a0-e5ed-585e-8957-a2fa2a1a5364
+		summarizeBy: none
+		sourceColumn: p10_multiple_of_pli
+
+	column poverty_rate_2024
+		dataType: double
+		lineageTag: ef277fea-8683-5bc0-bbe4-35cce7dc6737
+		summarizeBy: none
+		sourceColumn: poverty_rate_2024
+
+	partition mart_pli = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\mart_pli.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "pli_2022", "pli_2024", "pli_growth_pct", "income_p10", "income_p20", "p10_multiple_of_pli", "poverty_rate_2024"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"pli_2022", type number},
+				        {"pli_2024", type number},
+				        {"pli_growth_pct", type number},
+				        {"income_p10", type number},
+				        {"income_p20", type number},
+				        {"p10_multiple_of_pli", type number},
+				        {"poverty_rate_2024", type number}
+				    })
+				in
+				    #"Typed"

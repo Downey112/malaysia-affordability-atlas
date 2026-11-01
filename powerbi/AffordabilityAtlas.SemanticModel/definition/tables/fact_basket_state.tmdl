@@ -1,0 +1,113 @@
+table fact_basket_state
+	lineageTag: 80b2897a-8449-5d8d-b06d-3418ae867723
+
+	column state
+		dataType: string
+		isHidden
+		lineageTag: 1ba623f1-62df-55a2-ab4b-b56ba2cc2bb4
+		summarizeBy: none
+		sourceColumn: state
+
+	column basket_id
+		dataType: string
+		isHidden
+		lineageTag: f59e1161-600e-50ee-84d3-df000c237989
+		summarizeBy: none
+		sourceColumn: basket_id
+
+	column items_priced
+		dataType: int64
+		lineageTag: fbfe96a4-e342-5549-836e-0968c8fb051e
+		summarizeBy: none
+		sourceColumn: items_priced
+
+	column shops_count
+		dataType: int64
+		lineageTag: 60991787-5184-5a73-80ca-9331feebab27
+		summarizeBy: none
+		sourceColumn: shops_count
+
+	column basket_cost_raw
+		dataType: double
+		lineageTag: 1798b53c-c649-570b-bb0f-6bf5359ade78
+		summarizeBy: none
+		sourceColumn: basket_cost_raw
+
+	column cpi_01_2024
+		dataType: double
+		lineageTag: 102dab18-75d2-5768-a20a-61bca0c2b1ef
+		summarizeBy: none
+		sourceColumn: cpi_01_2024
+
+	column cpi_01_window
+		dataType: double
+		lineageTag: 7d02802a-9d93-5296-bbdd-8b6f739b238d
+		summarizeBy: none
+		sourceColumn: cpi_01_window
+
+	column cpi_backcast_ratio
+		dataType: double
+		lineageTag: d4c635cf-e328-5b69-8c97-5b9025d38b7a
+		summarizeBy: none
+		sourceColumn: cpi_backcast_ratio
+
+	column basket_cost_2024
+		dataType: double
+		lineageTag: 10ff3916-79b2-502f-b65e-18f1ddced467
+		summarizeBy: none
+		sourceColumn: basket_cost_2024
+
+	column ci_lower
+		dataType: double
+		lineageTag: 0885c812-6914-568e-bbc5-3b9f0404212d
+		summarizeBy: none
+		sourceColumn: ci_lower
+
+	column ci_upper
+		dataType: double
+		lineageTag: 27ccc947-3bf9-55b4-9b59-6efbe64d973c
+		summarizeBy: none
+		sourceColumn: ci_upper
+
+	column thin_coverage_flag
+		dataType: boolean
+		lineageTag: e4711708-ddc8-500b-bad1-e431cec7b8af
+		summarizeBy: none
+		sourceColumn: thin_coverage_flag
+
+	column rice_items_count
+		dataType: int64
+		lineageTag: 71d6244a-85e4-580e-b932-635bcf1d9240
+		summarizeBy: none
+		sourceColumn: rice_items_count
+
+	column rice_shops_count
+		dataType: int64
+		lineageTag: 190ecdf9-44ea-527a-9ac2-d55adb8ddd45
+		summarizeBy: none
+		sourceColumn: rice_shops_count
+
+	partition fact_basket_state = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\fact_basket_state.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "basket_id", "items_priced", "shops_count", "basket_cost_raw", "cpi_01_2024", "cpi_01_window", "cpi_backcast_ratio", "basket_cost_2024", "ci_lower", "ci_upper", "thin_coverage_flag", "rice_items_count", "rice_shops_count"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"basket_id", type text},
+				        {"items_priced", Int64.Type},
+				        {"shops_count", Int64.Type},
+				        {"basket_cost_raw", type number},
+				        {"cpi_01_2024", type number},
+				        {"cpi_01_window", type number},
+				        {"cpi_backcast_ratio", type number},
+				        {"basket_cost_2024", type number},
+				        {"ci_lower", type number},
+				        {"ci_upper", type number},
+				        {"thin_coverage_flag", type logical},
+				        {"rice_items_count", Int64.Type},
+				        {"rice_shops_count", Int64.Type}
+				    })
+				in
+				    #"Typed"

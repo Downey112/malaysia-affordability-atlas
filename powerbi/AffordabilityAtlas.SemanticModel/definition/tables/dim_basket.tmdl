@@ -1,0 +1,56 @@
+table dim_basket
+	lineageTag: 08d021a1-fdfc-5718-9c9c-ac12733a7012
+
+	column basket_id
+		dataType: string
+		lineageTag: 08ca66c4-c372-5d53-9335-1da54fd45881
+		summarizeBy: none
+		sourceColumn: basket_id
+
+	column basket_name
+		dataType: string
+		lineageTag: f9e85eee-f6e5-516c-8eaf-7064e0bcb4df
+		summarizeBy: none
+		sourceColumn: basket_name
+		sortByColumn: basket_order
+
+	column basket_order
+		dataType: int64
+		lineageTag: 2ff56fab-1bfb-5f19-a94d-d0c1bc74cf41
+		summarizeBy: none
+		sourceColumn: basket_order
+
+	column items_count
+		dataType: int64
+		lineageTag: 7fa20443-b469-5c71-b3f0-da5f6341bdb2
+		summarizeBy: none
+		sourceColumn: items_count
+
+	column has_rice
+		dataType: boolean
+		lineageTag: 6b201cf1-9fb1-580a-aae9-21d4da5a6d9b
+		summarizeBy: none
+		sourceColumn: has_rice
+
+	column description
+		dataType: string
+		lineageTag: 4af01c0f-7725-550a-9731-4d9245f5e671
+		summarizeBy: none
+		sourceColumn: description
+
+	partition dim_basket = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\dim_basket.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"basket_id", "basket_name", "basket_order", "items_count", "has_rice", "description"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"basket_id", type text},
+				        {"basket_name", type text},
+				        {"basket_order", Int64.Type},
+				        {"items_count", Int64.Type},
+				        {"has_rice", type logical},
+				        {"description", type text}
+				    })
+				in
+				    #"Typed"

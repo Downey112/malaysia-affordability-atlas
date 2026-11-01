@@ -1,0 +1,72 @@
+table mart_counterfactual
+	lineageTag: c7e47491-a83b-5fb7-9886-dd522a8c5199
+
+	column state
+		dataType: string
+		isHidden
+		lineageTag: 9b4e145c-e128-592c-840b-33ea7c72f564
+		summarizeBy: none
+		sourceColumn: state
+
+	column basket_id
+		dataType: string
+		isHidden
+		lineageTag: bc1a8a39-c2d5-5306-905d-6ba9590e677a
+		summarizeBy: none
+		sourceColumn: basket_id
+
+	column percentile
+		dataType: int64
+		isHidden
+		lineageTag: 74e53817-db1f-555b-bf1f-8d791a05dbf8
+		summarizeBy: none
+		sourceColumn: percentile
+
+	column actual_burden_pct
+		dataType: double
+		lineageTag: 00a2fafa-22fc-561d-be43-287d5f258413
+		summarizeBy: none
+		sourceColumn: actual_burden_pct
+
+	column typical_price_burden_pct
+		dataType: double
+		lineageTag: f9c3f5a5-2786-59d1-a466-567348c53bad
+		summarizeBy: none
+		sourceColumn: typical_price_burden_pct
+
+	column mys_income_burden_pct
+		dataType: double
+		lineageTag: 227a93a5-408f-5554-a552-8e2df1db5a1b
+		summarizeBy: none
+		sourceColumn: mys_income_burden_pct
+
+	column effect_typical_price_pts
+		dataType: double
+		lineageTag: 9ef29751-454f-512c-8be6-cd72d0808ed6
+		summarizeBy: none
+		sourceColumn: effect_typical_price_pts
+
+	column effect_mys_income_pts
+		dataType: double
+		lineageTag: 799ad47a-8f69-5e23-9465-6f541411a965
+		summarizeBy: none
+		sourceColumn: effect_mys_income_pts
+
+	partition mart_counterfactual = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\mart_counterfactual.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "basket_id", "percentile", "actual_burden_pct", "typical_price_burden_pct", "mys_income_burden_pct", "effect_typical_price_pts", "effect_mys_income_pts"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"basket_id", type text},
+				        {"percentile", Int64.Type},
+				        {"actual_burden_pct", type number},
+				        {"typical_price_burden_pct", type number},
+				        {"mys_income_burden_pct", type number},
+				        {"effect_typical_price_pts", type number},
+				        {"effect_mys_income_pts", type number}
+				    })
+				in
+				    #"Typed"

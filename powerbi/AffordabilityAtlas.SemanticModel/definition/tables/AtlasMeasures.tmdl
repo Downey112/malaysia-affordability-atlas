@@ -1,0 +1,440 @@
+table AtlasMeasures
+	lineageTag: ca8a8d0b-ced1-539e-b4f8-a68bba2905a2
+
+	measure 'Burden %' =
+			VAR q = SELECTEDVALUE ( Purchases[n], 4 )
+			VAR b = SELECTEDVALUE ( dim_basket[basket_id], "staples_plus_rice" )
+			VAR p = SELECTEDVALUE ( dim_income_position[percentile], 10 )
+			VAR cost = CALCULATE (
+			    AVERAGE ( fact_basket_state[basket_cost_2024] ),
+			    REMOVEFILTERS ( dim_basket ),
+			    fact_basket_state[basket_id] = b
+			)
+			VAR inc = CALCULATE (
+			    AVERAGE ( mart_burden[income_2024] ),
+			    REMOVEFILTERS ( dim_basket ),
+			    REMOVEFILTERS ( dim_income_position ),
+			    mart_burden[basket_id] = b,
+			    mart_burden[percentile] = p
+			)
+			RETURN
+			    IF ( NOT ISBLANK ( cost ) && NOT ISBLANK ( inc ), DIVIDE ( q * cost, inc ) * 100 )
+		formatString: 0.0\%
+		displayFolder: Burden
+		lineageTag: 18acb113-9758-55db-bd99-d6957600901d
+
+	measure 'Burden CI Low %' =
+			VAR q = SELECTEDVALUE ( Purchases[n], 4 )
+			VAR b = SELECTEDVALUE ( dim_basket[basket_id], "staples_plus_rice" )
+			VAR p = SELECTEDVALUE ( dim_income_position[percentile], 10 )
+			VAR cost = CALCULATE (
+			    AVERAGE ( fact_basket_state[ci_lower] ),
+			    REMOVEFILTERS ( dim_basket ),
+			    fact_basket_state[basket_id] = b
+			)
+			VAR inc = CALCULATE (
+			    AVERAGE ( mart_burden[income_2024] ),
+			    REMOVEFILTERS ( dim_basket ),
+			    REMOVEFILTERS ( dim_income_position ),
+			    mart_burden[basket_id] = b,
+			    mart_burden[percentile] = p
+			)
+			RETURN
+			    IF ( NOT ISBLANK ( cost ) && NOT ISBLANK ( inc ), DIVIDE ( q * cost, inc ) * 100 )
+		formatString: 0.0\%
+		displayFolder: Burden
+		lineageTag: 6d4b20af-06ca-5486-8278-17be620e3902
+
+	measure 'Burden CI High %' =
+			VAR q = SELECTEDVALUE ( Purchases[n], 4 )
+			VAR b = SELECTEDVALUE ( dim_basket[basket_id], "staples_plus_rice" )
+			VAR p = SELECTEDVALUE ( dim_income_position[percentile], 10 )
+			VAR cost = CALCULATE (
+			    AVERAGE ( fact_basket_state[ci_upper] ),
+			    REMOVEFILTERS ( dim_basket ),
+			    fact_basket_state[basket_id] = b
+			)
+			VAR inc = CALCULATE (
+			    AVERAGE ( mart_burden[income_2024] ),
+			    REMOVEFILTERS ( dim_basket ),
+			    REMOVEFILTERS ( dim_income_position ),
+			    mart_burden[basket_id] = b,
+			    mart_burden[percentile] = p
+			)
+			RETURN
+			    IF ( NOT ISBLANK ( cost ) && NOT ISBLANK ( inc ), DIVIDE ( q * cost, inc ) * 100 )
+		formatString: 0.0\%
+		displayFolder: Burden
+		lineageTag: be451610-966d-5d46-8e0c-3c1e561eae2e
+
+	measure 'Basket Cost 2024 (RM)' =
+			VAR q = SELECTEDVALUE ( Purchases[n], 4 )
+			VAR b = SELECTEDVALUE ( dim_basket[basket_id], "staples_plus_rice" )
+			VAR p = SELECTEDVALUE ( dim_income_position[percentile], 10 )
+			RETURN
+			CALCULATE (
+			    AVERAGE ( fact_basket_state[basket_cost_2024] ),
+			    REMOVEFILTERS ( dim_basket ),
+			    fact_basket_state[basket_id] = b
+			)
+		formatString: \R\M#,0.00
+		displayFolder: Base
+		lineageTag: 7c910e37-7755-5d39-a5ee-077927a0d29a
+
+	measure 'Income at Position (RM)' =
+			VAR q = SELECTEDVALUE ( Purchases[n], 4 )
+			VAR b = SELECTEDVALUE ( dim_basket[basket_id], "staples_plus_rice" )
+			VAR p = SELECTEDVALUE ( dim_income_position[percentile], 10 )
+			RETURN
+			CALCULATE (
+			    AVERAGE ( mart_burden[income_2024] ),
+			    REMOVEFILTERS ( dim_basket ),
+			    REMOVEFILTERS ( dim_income_position ),
+			    mart_burden[basket_id] = b,
+			    mart_burden[percentile] = p
+			)
+		formatString: \R\M#,0
+		displayFolder: Base
+		lineageTag: 9d241c94-4a6e-5d68-b8fa-d3147b30216d
+
+	measure 'Monthly Basket Spend (RM)' = SELECTEDVALUE ( Purchases[n], 4 ) * [Basket Cost 2024 (RM)]
+		formatString: \R\M#,0.00
+		displayFolder: Base
+		lineageTag: 3709f2bd-dc3a-530a-9f6f-e6d92550e8da
+
+	measure 'Highest Burden State' =
+			VAR States =
+			    FILTER (
+			        ADDCOLUMNS ( VALUES ( dim_state[state] ), "@Burden", [Burden %] ),
+			        NOT ISBLANK ( [@Burden] )
+			    )
+			RETURN
+			    MAXX ( TOPN ( 1, States, [@Burden], DESC ), dim_state[state] )
+		displayFolder: Ranking
+		lineageTag: 01ccf78b-f128-50b8-a8dc-fea8ca3220c1
+
+	measure 'Highest Burden Value' =
+			VAR States =
+			    FILTER (
+			        ADDCOLUMNS ( VALUES ( dim_state[state] ), "@Burden", [Burden %] ),
+			        NOT ISBLANK ( [@Burden] )
+			    )
+			RETURN
+			    MAXX ( States, [@Burden] )
+		formatString: 0.0\%
+		displayFolder: Ranking
+		lineageTag: e35c7586-090e-5fad-a3f9-25feecbfb8c3
+
+	measure 'Lowest Burden State' =
+			VAR States =
+			    FILTER (
+			        ADDCOLUMNS ( VALUES ( dim_state[state] ), "@Burden", [Burden %] ),
+			        NOT ISBLANK ( [@Burden] )
+			    )
+			RETURN
+			    MINX ( TOPN ( 1, States, [@Burden], ASC ), dim_state[state] )
+		displayFolder: Ranking
+		lineageTag: 15cfae82-937c-5f64-9930-7a5ecebeb3c0
+
+	measure 'Lowest Burden Value' =
+			VAR States =
+			    FILTER (
+			        ADDCOLUMNS ( VALUES ( dim_state[state] ), "@Burden", [Burden %] ),
+			        NOT ISBLANK ( [@Burden] )
+			    )
+			RETURN
+			    MINX ( States, [@Burden] )
+		formatString: 0.0\%
+		displayFolder: Ranking
+		lineageTag: ee7c514d-ba9f-5460-a135-7ba7889b0b0a
+
+	measure 'Burden Gap (x)' = DIVIDE ( [Highest Burden Value], [Lowest Burden Value] )
+		formatString: 0.00\x
+		displayFolder: Ranking
+		lineageTag: dabd9d9d-0f1b-5286-af13-f1c25f997cdf
+
+	measure 'Price Share of Gap %' =
+			VAR q = SELECTEDVALUE ( Purchases[n], 4 )
+			VAR b = SELECTEDVALUE ( dim_basket[basket_id], "staples_plus_rice" )
+			VAR p = SELECTEDVALUE ( dim_income_position[percentile], 10 )
+			RETURN
+			    CALCULATE (
+			        AVERAGE ( mart_decomposition[share_due_to_price_pct] ),
+			        REMOVEFILTERS ( dim_basket ),
+			        REMOVEFILTERS ( dim_income_position ),
+			        mart_decomposition[basket_id] = b,
+			        mart_decomposition[percentile] = p
+			    )
+		formatString: +0.0\%;-0.0\%;0.0\%
+		displayFolder: Decomposition
+		lineageTag: 2e8a3432-3585-5306-9cc9-6c4901e74d38
+
+	measure 'Income Share of Gap %' =
+			VAR q = SELECTEDVALUE ( Purchases[n], 4 )
+			VAR b = SELECTEDVALUE ( dim_basket[basket_id], "staples_plus_rice" )
+			VAR p = SELECTEDVALUE ( dim_income_position[percentile], 10 )
+			RETURN
+			    CALCULATE (
+			        AVERAGE ( mart_decomposition[share_due_to_income_pct] ),
+			        REMOVEFILTERS ( dim_basket ),
+			        REMOVEFILTERS ( dim_income_position ),
+			        mart_decomposition[basket_id] = b,
+			        mart_decomposition[percentile] = p
+			    )
+		formatString: 0.0\%
+		displayFolder: Decomposition
+		lineageTag: 2c1aa00e-7362-5624-9d40-b7bb942f8b6a
+
+	measure 'Burden with Typical Price %' =
+			VAR q = SELECTEDVALUE ( Purchases[n], 4 )
+			VAR b = SELECTEDVALUE ( dim_basket[basket_id], "staples_plus_rice" )
+			VAR p = SELECTEDVALUE ( dim_income_position[percentile], 10 )
+			VAR stored =
+			    CALCULATE (
+			        AVERAGE ( mart_counterfactual[typical_price_burden_pct] ),
+			        REMOVEFILTERS ( dim_basket ),
+			        REMOVEFILTERS ( dim_income_position ),
+			        mart_counterfactual[basket_id] = b,
+			        mart_counterfactual[percentile] = p
+			    )
+			RETURN
+			    IF ( NOT ISBLANK ( stored ), stored * q / 4 )
+		formatString: 0.0\%
+		displayFolder: Counterfactual
+		lineageTag: d8084dde-97b5-5fc8-9634-072368a94fde
+
+	measure 'Burden with Malaysia Income %' =
+			VAR q = SELECTEDVALUE ( Purchases[n], 4 )
+			VAR b = SELECTEDVALUE ( dim_basket[basket_id], "staples_plus_rice" )
+			VAR p = SELECTEDVALUE ( dim_income_position[percentile], 10 )
+			VAR stored =
+			    CALCULATE (
+			        AVERAGE ( mart_counterfactual[mys_income_burden_pct] ),
+			        REMOVEFILTERS ( dim_basket ),
+			        REMOVEFILTERS ( dim_income_position ),
+			        mart_counterfactual[basket_id] = b,
+			        mart_counterfactual[percentile] = p
+			    )
+			RETURN
+			    IF ( NOT ISBLANK ( stored ), stored * q / 4 )
+		formatString: 0.0\%
+		displayFolder: Counterfactual
+		lineageTag: 72cfe67b-1ca0-58e0-b4d4-1b74cba67d82
+
+	measure 'Pressure Signals Label' =
+			VAR sig = SELECTEDVALUE ( mart_pressure[pressure_signals] )
+			VAR avail = SELECTEDVALUE ( mart_pressure[signals_available] )
+			RETURN
+			    IF ( NOT ISBLANK ( sig ), sig & " of " & avail )
+		displayFolder: Pressure
+		lineageTag: 8ed11b43-c22b-52be-9516-fcf2bcd94911
+
+	measure 'Selection Label' =
+			VAR q = SELECTEDVALUE ( Purchases[n], 4 )
+			VAR b = SELECTEDVALUE ( dim_basket[basket_id], "staples_plus_rice" )
+			VAR p = SELECTEDVALUE ( dim_income_position[percentile], 10 )
+			VAR basket =
+			    SWITCH (
+			        b,
+			        "core", "Core 7",
+			        "staples_16", "Staples 16",
+			        "Staples + rice"
+			    )
+			RETURN
+			    basket & " · P" & p & " · " & q & " purchases a month"
+		displayFolder: Titles
+		lineageTag: 6ed5d214-1daa-51a6-9664-4cf6eda7cf75
+
+	measure 'Budget % Households Below' =
+			VAR h = SELECTEDVALUE ( dim_household_type[household_type], "Married (2 Children)" )
+			RETURN
+			    CALCULATE (
+			        AVERAGE ( mart_budget_gap[pct_households_below] ),
+			        REMOVEFILTERS ( dim_household_type ),
+			        mart_budget_gap[household_type] = h
+			    )
+		formatString: 0\%
+		displayFolder: Budgets
+		lineageTag: 3cbc590d-b26b-57df-9e8b-836f76c5aa49
+
+	measure 'Budget RM' =
+			VAR h = SELECTEDVALUE ( dim_household_type[household_type], "Married (2 Children)" )
+			RETURN
+			    CALCULATE (
+			        AVERAGE ( mart_budget_gap[budget_rm] ),
+			        REMOVEFILTERS ( dim_household_type ),
+			        mart_budget_gap[household_type] = h
+			    )
+		formatString: \R\M#,0
+		displayFolder: Budgets
+		lineageTag: 11adb21e-ae78-5b1c-877d-78d830d57363
+
+	measure 'Budget as % of Median' =
+			VAR h = SELECTEDVALUE ( dim_household_type[household_type], "Married (2 Children)" )
+			RETURN
+			    CALCULATE (
+			        AVERAGE ( mart_budget_gap[budget_pct_of_median] ),
+			        REMOVEFILTERS ( dim_household_type ),
+			        mart_budget_gap[household_type] = h
+			    )
+		formatString: 0.0\%
+		displayFolder: Budgets
+		lineageTag: af519865-0431-59c8-8991-f27b41061aea
+
+	measure 'Budget City' = SELECTEDVALUE ( mart_budget_gap[city] )
+		displayFolder: Budgets
+		lineageTag: b9d5168c-fe60-5027-9fa2-d4af4790815c
+
+	measure 'Selected Household Label' = SELECTEDVALUE ( dim_household_type[household_type], "Married (2 Children)" )
+		displayFolder: Titles
+		lineageTag: ffdb9e13-1553-5666-b8dc-371be2e80309
+
+	measure 'P10 ÷ Average PLI' = AVERAGE ( mart_pli[p10_multiple_of_pli] )
+		formatString: 0.00\x
+		displayFolder: Budgets
+		lineageTag: 6aeaf74b-29ab-5176-8b7e-e713003c08b5
+
+	measure 'Real Income Growth %' = AVERAGE ( mart_real_income[real_median_growth_pct] )
+		formatString: +0.0\%;-0.0\%;0.0\%
+		displayFolder: Growth
+		lineageTag: 0e672248-0e37-5a15-b791-e62e371ef62c
+
+	measure 'Real Wage Growth %' = AVERAGE ( mart_real_wages[real_wage_growth_pct] )
+		formatString: +0.0\%;-0.0\%;0.0\%
+		displayFolder: Growth
+		lineageTag: 82ab5e3c-3223-5627-882e-63317dc12338
+
+	measure 'Food Share %' =
+			CALCULATE (
+			    AVERAGE ( fact_spending_state[share_pct] ),
+			    REMOVEFILTERS ( dim_spending_group ),
+			    fact_spending_state[group_code] = "01"
+			)
+		formatString: 0.0\%
+		displayFolder: Spending
+		lineageTag: bfa25983-f2ae-5d40-a93a-8057707c8efa
+
+	measure 'Eating Out Share %' =
+			CALCULATE (
+			    AVERAGE ( fact_spending_state[share_pct] ),
+			    REMOVEFILTERS ( dim_spending_group ),
+			    fact_spending_state[group_code] = "11"
+			)
+		formatString: 0.0\%
+		displayFolder: Spending
+		lineageTag: 6635ea50-f6f6-5775-9a0c-0a8bbe70c201
+
+	measure 'Housing Share %' =
+			CALCULATE (
+			    AVERAGE ( fact_spending_state[share_pct] ),
+			    REMOVEFILTERS ( dim_spending_group ),
+			    fact_spending_state[group_code] = "04"
+			)
+		formatString: 0.0\%
+		displayFolder: Spending
+		lineageTag: a8582cf2-b57d-5faa-810e-7c03ebc1f1bc
+
+	measure 'Transport Share %' =
+			CALCULATE (
+			    AVERAGE ( fact_spending_state[share_pct] ),
+			    REMOVEFILTERS ( dim_spending_group ),
+			    fact_spending_state[group_code] = "07"
+			)
+		formatString: 0.0\%
+		displayFolder: Spending
+		lineageTag: 20d54ec2-d6ab-57f5-8dfa-d747d84bc103
+
+	measure 'Spending Share of Income %' = CALCULATE ( AVERAGE ( fact_state_year[exp_share_mean_pct] ), fact_state_year[year] = 2024 )
+		formatString: 0.0\%
+		displayFolder: Spending
+		lineageTag: a09fdb42-9821-549c-a934-7f11ff5b0e9c
+
+	measure 'Poverty Rate %' = CALCULATE ( AVERAGE ( fact_state_year[poverty_rate] ), fact_state_year[year] = 2024 )
+		formatString: 0.0\%
+		displayFolder: Base
+		lineageTag: 2d3d0799-9b01-5ce2-b5b9-4ad3038a7f11
+
+	measure 'Thin Coverage Note' =
+			IF (
+			    HASONEVALUE ( dim_state[state] ) && SELECTEDVALUE ( dim_state[thin_coverage_flag] ),
+			    "Thin shop coverage"
+			)
+		displayFolder: Formatting
+		lineageTag: 90796c7b-8999-5503-9300-fcef3a3dc11d
+
+	measure 'Title Burden Chart' = "Basket as a share of income · " & [Selection Label]
+		displayFolder: Titles
+		lineageTag: da1391e1-f7a6-5a26-9c2d-312f6c28234a
+
+	measure 'Title Income Bar' = "Income · " & SELECTEDVALUE ( dim_income_position[label], "P10: lower-income household" )
+		displayFolder: Titles
+		lineageTag: 499a7e8c-0609-5d35-b6c2-d178d0f7cf5e
+
+	measure 'Title Basket Bar' = "Basket cost, 2024"
+		displayFolder: Titles
+		lineageTag: b680df23-64a8-5311-a1cd-5794fc502c45
+
+	measure 'Title Counterfactual' = "Burden if prices or incomes were swapped · " & [Selection Label]
+		displayFolder: Titles
+		lineageTag: 5da18544-d0e7-5071-ac25-ba5c78271d2f
+
+	measure 'Title Budget Gap Bar' = "Households earning under the budget · " & [Selected Household Label]
+		displayFolder: Titles
+		lineageTag: afaa1566-9b3d-5508-a9ac-99735978c9b5
+
+	measure 'Title Budget Gap Table' = "Budget and poverty benchmarks · " & [Selected Household Label]
+		displayFolder: Titles
+		lineageTag: 8e6cb290-93be-5c49-814e-a6e022a46d85
+
+	measure 'Title District Table' = "Districts, 2024 · " & SELECTEDVALUE ( dim_state[state], "all covered states" )
+		displayFolder: Titles
+		lineageTag: f52b7324-b3dc-5f4c-b4ad-e6bb9c00bdb7
+
+	measure 'Card Highest Burden' = [Highest Burden State] & " · " & FORMAT ( [Highest Burden Value], "0.0" ) & "%"
+		displayFolder: KPI
+		lineageTag: e2cc68e9-eb9f-5f16-8666-d8bcffa28798
+
+	measure 'Card Lowest Burden' = [Lowest Burden State] & " · " & FORMAT ( [Lowest Burden Value], "0.0" ) & "%"
+		displayFolder: KPI
+		lineageTag: dc30ec8a-d7c7-582f-a535-08b16d3a3a36
+
+	measure 'Card Burden Gap' = FORMAT ( [Burden Gap (x)], "0.0" ) & " times"
+		displayFolder: KPI
+		lineageTag: 65a9830f-4db4-535f-8cbe-56e7f16c94a2
+
+	measure 'Card Income Share' = FORMAT ( [Income Share of Gap %], "0.0" ) & "%"
+		displayFolder: KPI
+		lineageTag: cc87119d-1b79-54c2-b10e-32ea7d4a3cb0
+
+	measure 'Card Price Share' = FORMAT ( [Price Share of Gap %], "+0.0;-0.0;0.0" ) & "%"
+		displayFolder: KPI
+		lineageTag: 4be4c4be-5dd8-5f9a-a574-941fa7076abf
+
+	measure 'KPI Selection' = [Selection Label]
+		displayFolder: Labels
+		lineageTag: 46ee8021-f90d-541c-8078-b05d0fc3d08c
+
+	measure 'KPI Gap Label' = "Highest burden divided by lowest"
+		displayFolder: Labels
+		lineageTag: 903f8090-d718-5880-b8d6-ad6e0a4aa45b
+
+	measure 'KPI Income Share Label' = "Of the gap between states, from income"
+		displayFolder: Labels
+		lineageTag: 8e432168-5b64-538d-af44-fc3d8f77d2eb
+
+	measure 'KPI Price Share Label' = "Of the gap between states, from prices"
+		displayFolder: Labels
+		lineageTag: 9c688320-4d16-58c5-ae5c-3530ae749dd5
+
+	column Value
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 858d89a5-613c-533f-9c98-a71b23e7ccca
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Value]
+
+	partition AtlasMeasures = calculated
+		mode: import
+		source = {0}

@@ -1,0 +1,35 @@
+table dim_income_position
+	lineageTag: 768407c1-c261-5433-ae20-852e81e71c13
+
+	column percentile
+		dataType: int64
+		lineageTag: 9b2edba0-0d87-5e29-b990-53ff91e9823f
+		summarizeBy: none
+		sourceColumn: percentile
+
+	column label
+		dataType: string
+		lineageTag: a6f77a14-3c54-5f07-a835-ceb7129ba7a0
+		summarizeBy: none
+		sourceColumn: label
+		sortByColumn: position_order
+
+	column position_order
+		dataType: int64
+		lineageTag: 852e248f-4e20-540c-8820-033a5d675aca
+		summarizeBy: none
+		sourceColumn: position_order
+
+	partition dim_income_position = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\dim_income_position.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"percentile", "label", "position_order"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"percentile", Int64.Type},
+				        {"label", type text},
+				        {"position_order", Int64.Type}
+				    })
+				in
+				    #"Typed"

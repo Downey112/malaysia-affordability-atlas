@@ -79,3 +79,32 @@ select
 from stg_dosm_spending
 group by group_code
 order by group_code;
+
+-- The four positions the report compares. Percentiles are within each state.
+create or replace table dim_income_position as
+select
+    percentile,
+    label,
+    position_order
+from (values
+    (10, 'P10: lower-income household', 1),
+    (20, 'P20', 2),
+    (40, 'P40', 3),
+    (50, 'P50: middle household', 4)
+) as t(percentile, label, position_order);
+
+create or replace table dim_household_type as
+select
+    household_type,
+    household_order
+from (values
+    ('Single (P.T.U)', 1),
+    ('Single (Car Owner)', 2),
+    ('Married (w/o Children)', 3),
+    ('Married (1 Child)', 4),
+    ('Married (2 Children)', 5),
+    ('Senior Single', 6),
+    ('Senior Couple', 7),
+    ('Single Parent (1 Child)', 8),
+    ('Single Parent (2 Children)', 9)
+) as t(household_type, household_order);

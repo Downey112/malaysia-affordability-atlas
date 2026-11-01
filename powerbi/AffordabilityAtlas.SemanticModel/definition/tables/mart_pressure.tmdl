@@ -1,0 +1,69 @@
+table mart_pressure
+	lineageTag: e2110d30-103f-5cb8-a9d0-5e7bf28c60aa
+
+	column state
+		dataType: string
+		lineageTag: 5e61f49e-9763-5394-bd35-0d98bc06a565
+		summarizeBy: none
+		sourceColumn: state
+
+	column rank_p10_burden
+		dataType: int64
+		lineageTag: 7314d46d-237b-5ef0-995e-728907bd282c
+		summarizeBy: none
+		sourceColumn: rank_p10_burden
+
+	column rank_exp_share
+		dataType: int64
+		lineageTag: f14a37a2-7f98-5072-9e78-30ef78600c46
+		summarizeBy: none
+		sourceColumn: rank_exp_share
+
+	column rank_budget_gap
+		dataType: int64
+		lineageTag: 9975a868-2336-5567-a6cf-01e5f9b0a7c1
+		summarizeBy: none
+		sourceColumn: rank_budget_gap
+
+	column rank_poverty
+		dataType: int64
+		lineageTag: 810332f6-77b7-5eab-a44b-e3a9dac6e7ef
+		summarizeBy: none
+		sourceColumn: rank_poverty
+
+	column rank_real_income_growth
+		dataType: int64
+		lineageTag: 2d921261-5042-5147-ad18-f761fd9456fd
+		summarizeBy: none
+		sourceColumn: rank_real_income_growth
+
+	column signals_available
+		dataType: int64
+		lineageTag: b55034f7-80be-5876-bfe1-045c51f15169
+		summarizeBy: none
+		sourceColumn: signals_available
+
+	column pressure_signals
+		dataType: int64
+		lineageTag: c8cc3c64-1864-575d-abd9-6c76bbdf1e17
+		summarizeBy: none
+		sourceColumn: pressure_signals
+
+	partition mart_pressure = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\mart_pressure.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "rank_p10_burden", "rank_exp_share", "rank_budget_gap", "rank_poverty", "rank_real_income_growth", "signals_available", "pressure_signals"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"rank_p10_burden", Int64.Type},
+				        {"rank_exp_share", Int64.Type},
+				        {"rank_budget_gap", Int64.Type},
+				        {"rank_poverty", Int64.Type},
+				        {"rank_real_income_growth", Int64.Type},
+				        {"signals_available", Int64.Type},
+				        {"pressure_signals", Int64.Type}
+				    })
+				in
+				    #"Typed"
