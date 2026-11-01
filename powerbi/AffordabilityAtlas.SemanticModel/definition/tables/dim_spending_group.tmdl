@@ -1,0 +1,27 @@
+table dim_spending_group
+	lineageTag: 5dccf726-3948-5919-94ab-e944d66d5615
+
+	column group_code
+		dataType: string
+		lineageTag: 5f077523-3629-51ed-85d9-b18611024957
+		summarizeBy: none
+		sourceColumn: group_code
+
+	column group_name_en
+		dataType: string
+		lineageTag: dc245c37-b905-506b-8aa0-d8e9e024d590
+		summarizeBy: none
+		sourceColumn: group_name_en
+
+	partition dim_spending_group = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\dim_spending_group.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"group_code", "group_name_en"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"group_code", type text},
+				        {"group_name_en", type text}
+				    })
+				in
+				    #"Typed"

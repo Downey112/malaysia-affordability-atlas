@@ -1,0 +1,62 @@
+table mart_real_income
+	lineageTag: e0fcb494-ee89-5e34-941d-1c6602b745ba
+
+	column state
+		dataType: string
+		lineageTag: 16d4c3a0-fbd2-5eba-9fce-59b50f2cc539
+		summarizeBy: none
+		sourceColumn: state
+
+	column inc_median_2022
+		dataType: double
+		lineageTag: 1efef3c9-1c3e-5291-9905-05af4a25413a
+		summarizeBy: none
+		sourceColumn: inc_median_2022
+
+	column inc_median_2024
+		dataType: double
+		lineageTag: 5010a898-8540-5adf-8f9e-91dcb5e9f99d
+		summarizeBy: none
+		sourceColumn: inc_median_2024
+
+	column nom_median_growth_pct
+		dataType: double
+		lineageTag: ec2f74e3-f720-5466-99a5-49fa31309b49
+		summarizeBy: none
+		sourceColumn: nom_median_growth_pct
+
+	column cpi_overall_growth_pct
+		dataType: double
+		lineageTag: 8509fe11-7812-51d8-b56b-78cbbd4c9050
+		summarizeBy: none
+		sourceColumn: cpi_overall_growth_pct
+
+	column cpi_food_growth_pct
+		dataType: double
+		lineageTag: 751ffa30-284a-531d-986d-4cd1d684fb18
+		summarizeBy: none
+		sourceColumn: cpi_food_growth_pct
+
+	column real_median_growth_pct
+		dataType: double
+		lineageTag: 344ba3e0-a09d-59bf-8caf-5a509ba2c861
+		summarizeBy: none
+		sourceColumn: real_median_growth_pct
+
+	partition mart_real_income = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\mart_real_income.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "inc_median_2022", "inc_median_2024", "nom_median_growth_pct", "cpi_overall_growth_pct", "cpi_food_growth_pct", "real_median_growth_pct"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"inc_median_2022", type number},
+				        {"inc_median_2024", type number},
+				        {"nom_median_growth_pct", type number},
+				        {"cpi_overall_growth_pct", type number},
+				        {"cpi_food_growth_pct", type number},
+				        {"real_median_growth_pct", type number}
+				    })
+				in
+				    #"Typed"

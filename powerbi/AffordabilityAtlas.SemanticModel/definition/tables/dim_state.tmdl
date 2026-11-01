@@ -1,0 +1,48 @@
+table dim_state
+	lineageTag: ecc1e548-770f-5c55-ab7d-9ecbf2fbfde5
+
+	column state
+		dataType: string
+		lineageTag: 98d5586b-f587-56f1-ae1a-6e0b0748bf20
+		summarizeBy: none
+		sourceColumn: state
+
+	column region
+		dataType: string
+		lineageTag: 8adcf453-29ec-56e5-8a92-6fcb5b352d4c
+		summarizeBy: none
+		sourceColumn: region
+
+	column is_federal_territory
+		dataType: boolean
+		lineageTag: cda5f910-2048-5660-8fbc-c787c5b626ba
+		summarizeBy: none
+		sourceColumn: is_federal_territory
+
+	column shops_count
+		dataType: int64
+		lineageTag: 05ea95f9-78ee-527f-ab59-621e0e287575
+		summarizeBy: none
+		sourceColumn: shops_count
+
+	column thin_coverage_flag
+		dataType: boolean
+		lineageTag: ae13c16e-e4fe-5761-ae4b-58b137faaf8e
+		summarizeBy: none
+		sourceColumn: thin_coverage_flag
+
+	partition dim_state = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\dim_state.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "region", "is_federal_territory", "shops_count", "thin_coverage_flag"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"region", type text},
+				        {"is_federal_territory", type logical},
+				        {"shops_count", Int64.Type},
+				        {"thin_coverage_flag", type logical}
+				    })
+				in
+				    #"Typed"

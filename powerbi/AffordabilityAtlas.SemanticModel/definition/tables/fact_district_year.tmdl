@@ -1,0 +1,88 @@
+table fact_district_year
+	lineageTag: f097bcf8-95e4-538e-a175-7469b046f8b1
+
+	column district_key
+		dataType: string
+		isHidden
+		lineageTag: ec0f3982-5da3-5337-a4cb-bb2a755a3086
+		summarizeBy: none
+		sourceColumn: district_key
+
+	column state
+		dataType: string
+		lineageTag: f9d71fde-9d72-5117-a011-215904eb0ccc
+		summarizeBy: none
+		sourceColumn: state
+
+	column district
+		dataType: string
+		lineageTag: e314e7ba-9114-5cb1-a5a9-bb5cfe4267dc
+		summarizeBy: none
+		sourceColumn: district
+
+	column year
+		dataType: int64
+		lineageTag: 3f490d0f-e5d8-5adf-8101-00eedf4f4226
+		summarizeBy: none
+		sourceColumn: year
+
+	column income_mean
+		dataType: double
+		lineageTag: 50beb813-3a9e-59ef-9acf-6fd5600a1c67
+		summarizeBy: none
+		sourceColumn: income_mean
+
+	column income_median
+		dataType: double
+		formatString: #,0
+		lineageTag: c8f7d4b6-785a-518b-98d0-4002918f04fa
+		summarizeBy: none
+		sourceColumn: income_median
+
+	column expenditure_mean
+		dataType: double
+		lineageTag: e5d36187-0483-59eb-b088-a61d8a0080a9
+		summarizeBy: none
+		sourceColumn: expenditure_mean
+
+	column exp_share_mean_pct
+		dataType: double
+		formatString: 0.0
+		lineageTag: 6a2d5bd8-247e-5a0b-9564-b37b8f8505d6
+		summarizeBy: none
+		sourceColumn: exp_share_mean_pct
+
+	column gini
+		dataType: double
+		formatString: 0.000
+		lineageTag: 113e3809-fb0d-53d9-8c61-12fdade669c8
+		summarizeBy: none
+		sourceColumn: gini
+
+	column poverty_rate
+		dataType: double
+		formatString: 0.0
+		lineageTag: 575759c8-4b48-5205-9d9f-8eb0d4ff5544
+		summarizeBy: none
+		sourceColumn: poverty_rate
+
+	partition fact_district_year = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\fact_district_year.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"district_key", "state", "district", "year", "income_mean", "income_median", "expenditure_mean", "exp_share_mean_pct", "gini", "poverty_rate"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"district_key", type text},
+				        {"state", type text},
+				        {"district", type text},
+				        {"year", Int64.Type},
+				        {"income_mean", type number},
+				        {"income_median", type number},
+				        {"expenditure_mean", type number},
+				        {"exp_share_mean_pct", type number},
+				        {"gini", type number},
+				        {"poverty_rate", type number}
+				    })
+				in
+				    #"Typed"

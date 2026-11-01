@@ -25,6 +25,8 @@ STAR_TABLES = [
     "dim_basket",
     "dim_percentile",
     "dim_spending_group",
+    "dim_income_position",
+    "dim_household_type",
     "fact_state_year",
     "fact_district_year",
     "fact_percentile",

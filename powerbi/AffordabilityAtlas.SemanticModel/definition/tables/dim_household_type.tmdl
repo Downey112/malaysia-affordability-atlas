@@ -1,0 +1,28 @@
+table dim_household_type
+	lineageTag: c909e495-813a-5bf0-9b41-c04ce1910a68
+
+	column household_type
+		dataType: string
+		lineageTag: 5f2ad167-6207-50f0-9da3-f5c5e714da8b
+		summarizeBy: none
+		sourceColumn: household_type
+		sortByColumn: household_order
+
+	column household_order
+		dataType: int64
+		lineageTag: e53d216a-fb1e-5d9d-a6f9-ba2419daf9ee
+		summarizeBy: none
+		sourceColumn: household_order
+
+	partition dim_household_type = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\dim_household_type.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"household_type", "household_order"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"household_type", type text},
+				        {"household_order", Int64.Type}
+				    })
+				in
+				    #"Typed"

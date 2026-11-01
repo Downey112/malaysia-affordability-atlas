@@ -1,0 +1,4 @@
+expression ProcessedFolder = "C:\\Users\\courts\\malaysia-affordability-atlas\\data\\processed" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: dfbd761e-4aa9-57de-9d09-348ca2c3a0a0
+
+	annotation PBI_ResultType = Text

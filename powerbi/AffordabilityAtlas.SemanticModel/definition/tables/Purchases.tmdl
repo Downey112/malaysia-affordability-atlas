@@ -1,0 +1,14 @@
+table Purchases
+	lineageTag: 80ba5676-f14c-53ce-9064-7c57eec87364
+
+	column n
+		dataType: int64
+		formatString: 0
+		lineageTag: fe6da87b-ca36-5458-8863-278073e79ace
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [n]
+
+	partition Purchases = calculated
+		mode: import
+		source = SELECTCOLUMNS ( GENERATESERIES ( 2, 6, 1 ), "n", [Value] )

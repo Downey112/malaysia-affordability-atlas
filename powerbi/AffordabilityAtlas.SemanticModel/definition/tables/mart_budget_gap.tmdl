@@ -1,0 +1,64 @@
+table mart_budget_gap
+	lineageTag: 80a56ec7-a10c-58cf-8bfe-d5957357edeb
+
+	column state
+		dataType: string
+		isHidden
+		lineageTag: 4f769b7e-2a79-57a7-a37f-afa7aa3acc27
+		summarizeBy: none
+		sourceColumn: state
+
+	column city
+		dataType: string
+		lineageTag: 47f9f93f-3e0c-510d-b091-78a326523028
+		summarizeBy: none
+		sourceColumn: city
+
+	column household_type
+		dataType: string
+		isHidden
+		lineageTag: 08e94ea5-c190-5f8e-a253-822d2edd4305
+		summarizeBy: none
+		sourceColumn: household_type
+
+	column budget_rm
+		dataType: double
+		lineageTag: 056bdb20-6ce7-57ba-a859-482e212bd644
+		summarizeBy: none
+		sourceColumn: budget_rm
+
+	column pct_households_below
+		dataType: int64
+		lineageTag: 314b0c77-b779-521e-bb7b-caca8b30795d
+		summarizeBy: none
+		sourceColumn: pct_households_below
+
+	column median_income
+		dataType: double
+		lineageTag: 3122d0de-46bf-56c3-b6f8-22db3ce547be
+		summarizeBy: none
+		sourceColumn: median_income
+
+	column budget_pct_of_median
+		dataType: double
+		lineageTag: f3c8185a-83b0-5a81-b96e-30245c94ecc3
+		summarizeBy: none
+		sourceColumn: budget_pct_of_median
+
+	partition mart_budget_gap = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\mart_budget_gap.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "city", "household_type", "budget_rm", "pct_households_below", "median_income", "budget_pct_of_median"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"city", type text},
+				        {"household_type", type text},
+				        {"budget_rm", type number},
+				        {"pct_households_below", Int64.Type},
+				        {"median_income", type number},
+				        {"budget_pct_of_median", type number}
+				    })
+				in
+				    #"Typed"

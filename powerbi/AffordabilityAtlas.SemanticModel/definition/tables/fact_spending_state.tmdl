@@ -1,0 +1,43 @@
+table fact_spending_state
+	lineageTag: c4eaaced-cc0a-5bdf-8867-04ad86753676
+
+	column state
+		dataType: string
+		isHidden
+		lineageTag: 61242a4c-112f-5ee2-9d04-135dd9aa14e2
+		summarizeBy: none
+		sourceColumn: state
+
+	column group_code
+		dataType: string
+		isHidden
+		lineageTag: 841f64f6-b689-5ff4-b7c7-c97460582222
+		summarizeBy: none
+		sourceColumn: group_code
+
+	column spend_rm
+		dataType: double
+		lineageTag: 6e3533e4-b6a4-5eb2-b056-74f30f0504ac
+		summarizeBy: none
+		sourceColumn: spend_rm
+
+	column share_pct
+		dataType: double
+		lineageTag: 473481d8-e767-505e-a55d-5cd1c00df479
+		summarizeBy: none
+		sourceColumn: share_pct
+
+	partition fact_spending_state = m
+		mode: import
+		source =
+				let
+				    Source = Parquet.Document(File.Contents(ProcessedFolder & "\fact_spending_state.parquet")),
+				    #"Selected" = Table.SelectColumns(Source, {"state", "group_code", "spend_rm", "share_pct"}),
+				    #"Typed" = Table.TransformColumnTypes(#"Selected", {
+				        {"state", type text},
+				        {"group_code", type text},
+				        {"spend_rm", type number},
+				        {"share_pct", type number}
+				    })
+				in
+				    #"Typed"
