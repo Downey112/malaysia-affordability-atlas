@@ -1,17 +1,17 @@
 state,rank_p10_burden,rank_exp_share,rank_budget_gap,rank_poverty,rank_real_income_growth,signals_available,pressure_signals
-Kelantan,1,1,1,2,16,5,4
-Sabah,2,14,4,1,7,5,3
+Johor,13,11,11,11,12,5,0
 Kedah,3,5,5,3,13,5,2
-Sarawak,4,12,7,3,10,5,2
-Perak,5,6,3,5,2,5,2
+Kelantan,1,1,1,2,16,5,4
+Melaka,12,3,9,10,11,5,1
 Negeri Sembilan,7,4,6,8,8,5,1
 Pahang,8,2,2,6,1,5,3
-Pulau Pinang,10,10,8,13,13,5,0
-Terengganu,11,7,10,7,15,5,0
-Melaka,12,3,9,10,11,5,1
-Johor,13,11,11,11,12,5,0
-W.P. Putrajaya,14,9,13,16,5,5,0
-W.P. Kuala Lumpur,15,13,12,14,4,5,1
-Selangor,16,14,14,15,5,5,0
+Perak,5,6,3,5,2,5,2
 Perlis,6,8,,9,3,4,1
+Pulau Pinang,10,10,8,13,13,5,0
+Sabah,2,14,4,1,7,5,3
+Sarawak,4,12,7,3,10,5,2
+Selangor,16,14,14,15,5,5,0
+Terengganu,11,7,10,7,15,5,0
+W.P. Kuala Lumpur,15,13,12,14,4,5,1
 W.P. Labuan,9,16,,12,9,4,0
+W.P. Putrajaya,14,9,13,16,5,5,0
