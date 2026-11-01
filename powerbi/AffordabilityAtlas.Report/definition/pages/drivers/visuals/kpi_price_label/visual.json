@@ -2,11 +2,11 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
   "name": "kpi_price_label",
   "position": {
-    "x": 640,
-    "y": 136,
+    "x": 24,
+    "y": 312,
     "z": 9000,
-    "height": 24,
-    "width": 304,
+    "height": 32,
+    "width": 296,
     "tabOrder": 9000
   },
   "visual": {
@@ -49,9 +49,22 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#64748B'"
+                      "Value": "'#5F6B76'"
                     }
                   }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "categoryLabels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
                 }
               }
             }

@@ -3,11 +3,11 @@
   "name": "bar_income",
   "position": {
     "x": 16,
-    "y": 80,
-    "z": 5000,
+    "y": 352,
+    "z": 14000,
     "height": 400,
     "width": 304,
-    "tabOrder": 5000
+    "tabOrder": 14000
   },
   "visual": {
     "visualType": "clusteredBarChart",
@@ -79,7 +79,7 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#1D4ED8'"
+                      "Value": "'#0F4C5C'"
                     }
                   }
                 }

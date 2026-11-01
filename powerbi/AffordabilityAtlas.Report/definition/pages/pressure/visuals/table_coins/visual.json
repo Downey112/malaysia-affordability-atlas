@@ -1,19 +1,19 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
-  "name": "bar_budget_gap",
+  "name": "table_coins",
   "position": {
-    "x": 16,
-    "y": 80,
-    "z": 4000,
-    "height": 584,
-    "width": 528,
-    "tabOrder": 4000
+    "x": 424,
+    "y": 352,
+    "z": 25000,
+    "height": 496,
+    "width": 360,
+    "tabOrder": 25000
   },
   "visual": {
-    "visualType": "clusteredBarChart",
+    "visualType": "tableEx",
     "query": {
       "queryState": {
-        "Category": {
+        "Values": {
           "projections": [
             {
               "field": {
@@ -28,12 +28,8 @@
               },
               "queryRef": "dim_state.state",
               "nativeQueryRef": "state",
-              "active": true
-            }
-          ]
-        },
-        "Y": {
-          "projections": [
+              "displayName": "State"
+            },
             {
               "field": {
                 "Measure": {
@@ -42,12 +38,27 @@
                       "Entity": "AtlasMeasures"
                     }
                   },
-                  "Property": "Budget % Households Below"
+                  "Property": "Coins Income SVG"
                 }
               },
-              "queryRef": "AtlasMeasures.Budget % Households Below",
-              "nativeQueryRef": "Budget % Households Below",
-              "displayName": "Under budget"
+              "queryRef": "AtlasMeasures.Coins Income SVG",
+              "nativeQueryRef": "Coins Income SVG",
+              "displayName": "Of every RM10 earned"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "AtlasMeasures"
+                    }
+                  },
+                  "Property": "Burden %"
+                }
+              },
+              "queryRef": "AtlasMeasures.Burden %",
+              "nativeQueryRef": "Burden %",
+              "displayName": "Burden"
             }
           ]
         }
@@ -62,7 +73,7 @@
                     "Entity": "AtlasMeasures"
                   }
                 },
-                "Property": "Budget % Households Below"
+                "Property": "Burden %"
               }
             },
             "direction": "Descending"
@@ -71,53 +82,93 @@
       }
     },
     "objects": {
-      "dataPoint": [
+      "total": [
         {
           "properties": {
-            "fill": {
-              "solid": {
-                "color": {
-                  "expr": {
-                    "Literal": {
-                      "Value": "'#1D4ED8'"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      ],
-      "categoryAxis": [
-        {
-          "properties": {
-            "maxMarginFactor": {
+            "totals": {
               "expr": {
                 "Literal": {
-                  "Value": "40L"
+                  "Value": "false"
                 }
               }
             }
           }
         }
       ],
-      "labels": [
+      "columnHeaders": [
         {
           "properties": {
-            "show": {
+            "wordWrap": {
               "expr": {
                 "Literal": {
                   "Value": "true"
                 }
               }
-            },
-            "labelPosition": {
+            }
+          }
+        }
+      ],
+      "grid": [
+        {
+          "properties": {
+            "imageHeight": {
               "expr": {
                 "Literal": {
-                  "Value": "'OutsideEnd'"
+                  "Value": "18D"
+                }
+              }
+            },
+            "imageWidth": {
+              "expr": {
+                "Literal": {
+                  "Value": "140D"
                 }
               }
             }
+          }
+        }
+      ],
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "112D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "dim_state.state"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "160D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "AtlasMeasures.Coins Income SVG"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "56D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "AtlasMeasures.Burden %"
           }
         }
       ]
@@ -135,13 +186,8 @@
             },
             "text": {
               "expr": {
-                "Measure": {
-                  "Expression": {
-                    "SourceRef": {
-                      "Entity": "AtlasMeasures"
-                    }
-                  },
-                  "Property": "Title Budget Gap Bar"
+                "Literal": {
+                  "Value": "'Out of every RM10 a household earns'"
                 }
               }
             }
@@ -174,7 +220,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Highest share first.'"
+                  "Value": "'Each coin is RM1 of every RM10 earned, rounded.'"
                 }
               }
             }
@@ -187,7 +233,7 @@
             "altText": {
               "expr": {
                 "Literal": {
-                  "Value": "'Bar chart of the share of households earning under the budget, by state.'"
+                  "Value": "'Pictogram table: coins out of ten showing the share of income the basket takes, with the percentage beside it.'"
                 }
               }
             }

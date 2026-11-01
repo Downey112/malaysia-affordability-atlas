@@ -3,11 +3,11 @@
   "name": "table_spending",
   "position": {
     "x": 16,
-    "y": 488,
-    "z": 14000,
-    "height": 184,
+    "y": 760,
+    "z": 17000,
+    "height": 240,
     "width": 1248,
-    "tabOrder": 14000
+    "tabOrder": 17000
   },
   "visual": {
     "visualType": "tableEx",

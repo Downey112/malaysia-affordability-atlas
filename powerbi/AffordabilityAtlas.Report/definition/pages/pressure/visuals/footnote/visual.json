@@ -3,11 +3,11 @@
   "name": "footnote",
   "position": {
     "x": 16,
-    "y": 680,
-    "z": 21000,
-    "height": 24,
+    "y": 852,
+    "z": 27000,
+    "height": 32,
     "width": 1248,
-    "tabOrder": 21000
+    "tabOrder": 27000
   },
   "visual": {
     "visualType": "textbox",
@@ -19,11 +19,11 @@
               {
                 "textRuns": [
                   {
-                    "value": "Burden shows relative pressure. Purchases per month is an assumption, not a measurement. Above 100% means prices slightly offset the gap.",
+                    "value": "Burden shows relative pressure. Purchases per month is an assumption, not a measurement. Above 100% means prices slightly offset the gap. In the table, Burden is at P10 and Budget is the family budget. Perlis and W.P. Labuan have four measures.",
                     "textStyle": {
                       "fontFamily": "Segoe UI",
                       "fontSize": "8.5pt",
-                      "color": "#64748B"
+                      "color": "#5F6B76"
                     }
                   }
                 ]
@@ -66,7 +66,7 @@
             "altText": {
               "expr": {
                 "Literal": {
-                  "Value": "'Footnote: Burden shows relative pressure. Purchases per month is an assumption, not a measurement. Above 100% means prices slightly offset the gap.'"
+                  "Value": "'Footnote: Burden shows relative pressure. Purchases per month is an assumption, not a measurement. Above 100% means prices slightly offset the gap. In the table, Burden is at P10 and Budget is the family budget. Perlis and W.P. Labuan have four measures.'"
                 }
               }
             }

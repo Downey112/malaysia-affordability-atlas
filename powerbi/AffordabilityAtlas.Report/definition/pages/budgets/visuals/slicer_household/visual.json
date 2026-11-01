@@ -2,12 +2,12 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
   "name": "slicer_household",
   "position": {
-    "x": 864,
-    "y": 16,
-    "z": 3000,
-    "height": 56,
+    "x": 16,
+    "y": 176,
+    "z": 4000,
+    "height": 64,
     "width": 400,
-    "tabOrder": 3000
+    "tabOrder": 4000
   },
   "visual": {
     "visualType": "slicer",

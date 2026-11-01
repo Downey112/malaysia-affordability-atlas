@@ -3,11 +3,11 @@
   "name": "footnote",
   "position": {
     "x": 16,
-    "y": 680,
-    "z": 15000,
+    "y": 1004,
+    "z": 18000,
     "height": 24,
     "width": 1248,
-    "tabOrder": 15000
+    "tabOrder": 18000
   },
   "visual": {
     "visualType": "textbox",
@@ -23,7 +23,7 @@
                     "textStyle": {
                       "fontFamily": "Segoe UI",
                       "fontSize": "8.5pt",
-                      "color": "#64748B"
+                      "color": "#5F6B76"
                     }
                   }
                 ]

@@ -2,12 +2,12 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.3.0/schema.json",
   "name": "table_pressure",
   "position": {
-    "x": 640,
-    "y": 232,
-    "z": 20000,
-    "height": 440,
-    "width": 624,
-    "tabOrder": 20000
+    "x": 792,
+    "y": 352,
+    "z": 26000,
+    "height": 496,
+    "width": 472,
+    "tabOrder": 26000
   },
   "visual": {
     "visualType": "tableEx",
@@ -43,7 +43,7 @@
               },
               "queryRef": "mart_pressure.rank_p10_burden",
               "nativeQueryRef": "rank_p10_burden",
-              "displayName": "P10 burden"
+              "displayName": "Burden"
             },
             {
               "field": {
@@ -58,7 +58,7 @@
               },
               "queryRef": "mart_pressure.rank_exp_share",
               "nativeQueryRef": "rank_exp_share",
-              "displayName": "Spending share"
+              "displayName": "Spend"
             },
             {
               "field": {
@@ -73,7 +73,7 @@
               },
               "queryRef": "mart_pressure.rank_budget_gap",
               "nativeQueryRef": "rank_budget_gap",
-              "displayName": "Under budget"
+              "displayName": "Budget"
             },
             {
               "field": {
@@ -103,7 +103,7 @@
               },
               "queryRef": "mart_pressure.rank_real_income_growth",
               "nativeQueryRef": "rank_real_income_growth",
-              "displayName": "Income growth"
+              "displayName": "Growth"
             },
             {
               "field": {
@@ -174,7 +174,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "128D"
+                  "Value": "120D"
                 }
               }
             }
@@ -188,7 +188,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "72D"
+                  "Value": "52D"
                 }
               }
             }
@@ -202,7 +202,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "72D"
+                  "Value": "50D"
                 }
               }
             }
@@ -216,7 +216,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "72D"
+                  "Value": "54D"
                 }
               }
             }
@@ -230,7 +230,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "72D"
+                  "Value": "56D"
                 }
               }
             }
@@ -244,7 +244,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "72D"
+                  "Value": "52D"
                 }
               }
             }
@@ -258,7 +258,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "72D"
+                  "Value": "54D"
                 }
               }
             }
@@ -316,7 +316,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Rank 1 is most pressure. A signal is a top-four rank. No weights. Perlis and W.P. Labuan have four measures.'"
+                  "Value": "'Rank 1 is most pressure. A signal is a top-four rank. No weights.'"
                 }
               }
             }

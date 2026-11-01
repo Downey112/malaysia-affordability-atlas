@@ -3,11 +3,11 @@
   "name": "bar_burden",
   "position": {
     "x": 16,
-    "y": 232,
-    "z": 19000,
-    "height": 440,
-    "width": 616,
-    "tabOrder": 19000
+    "y": 352,
+    "z": 24000,
+    "height": 496,
+    "width": 400,
+    "tabOrder": 24000
   },
   "visual": {
     "visualType": "clusteredBarChart",
@@ -138,13 +138,27 @@
               "solid": {
                 "color": {
                   "expr": {
-                    "Literal": {
-                      "Value": "'#1D4ED8'"
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "AtlasMeasures"
+                        }
+                      },
+                      "Property": "Bar Colour Burden"
                     }
                   }
                 }
               }
             }
+          },
+          "selector": {
+            "data": [
+              {
+                "dataViewWildcard": {
+                  "matchingOption": 1
+                }
+              }
+            ]
           }
         }
       ],
@@ -234,7 +248,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Hover a bar for the cost, the income and the 95% interval.'"
+                  "Value": "'Top four states in terracotta. Hover for cost, income and the 95% interval.'"
                 }
               }
             }
@@ -247,7 +261,7 @@
             "altText": {
               "expr": {
                 "Literal": {
-                  "Value": "'Bar chart of basket burden by state, highest first.'"
+                  "Value": "'Bar chart of basket burden by state, highest first, with the top four highlighted.'"
                 }
               }
             }

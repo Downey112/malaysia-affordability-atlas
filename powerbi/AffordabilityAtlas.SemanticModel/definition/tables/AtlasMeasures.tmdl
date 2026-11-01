@@ -422,6 +422,93 @@ table AtlasMeasures
 		displayFolder: Labels
 		lineageTag: 8e432168-5b64-538d-af44-fc3d8f77d2eb
 
+	measure 'People Under Budget SVG' =
+			VAR Val = [Budget % Households Below]
+			VAR Filled = MIN ( 10, MAX ( 0, ROUND ( Val / 10, 0 ) ) )
+			VAR Glyphs =
+			    CONCATENATEX (
+			        GENERATESERIES ( 1, 10, 1 ),
+			        VAR Fill = IF ( [Value] <= Filled, "%23C8553D", "%23BFD7DA" )
+			        VAR X = ( [Value] - 1 ) * 20
+			        RETURN "<circle cx='" & ( X + 10 ) & "' cy='5.5' r='3.5' fill='" & Fill & "'/>" &
+			            "<rect x='" & ( X + 5.5 ) & "' y='10.5' width='9' height='12' rx='4.5' fill='" & Fill & "'/>",
+			        "",
+			        [Value], ASC
+			    )
+			RETURN
+			    IF (
+			        NOT ISBLANK ( Val ),
+			        "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 24'>" & Glyphs & "</svg>"
+			    )
+		displayFolder: Pictures
+		dataCategory: ImageUrl
+		lineageTag: e6d17038-8aee-5a95-bd0c-4f7b5a1cc438
+
+	measure 'Coins Income SVG' =
+			VAR Val = [Burden %]
+			VAR Filled = MIN ( 10, MAX ( 0, ROUND ( Val / 10, 0 ) ) )
+			VAR Glyphs =
+			    CONCATENATEX (
+			        GENERATESERIES ( 1, 10, 1 ),
+			        VAR Fill = IF ( [Value] <= Filled, "%23C8553D", "%23BFD7DA" )
+			        VAR X = ( [Value] - 1 ) * 20
+			        RETURN "<circle cx='" & ( X + 10 ) & "' cy='12' r='8.5' fill='" & Fill & "'/>" &
+			            "<circle cx='" & ( X + 10 ) & "' cy='12' r='5.5' fill='none' stroke='white' stroke-width='1'/>",
+			        "",
+			        [Value], ASC
+			    )
+			RETURN
+			    IF (
+			        NOT ISBLANK ( Val ),
+			        "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 24'>" & Glyphs & "</svg>"
+			    )
+		displayFolder: Pictures
+		dataCategory: ImageUrl
+		lineageTag: 250173a5-b5bc-543b-8819-e0995bb23eb5
+
+	measure 'Household Portrait SVG' =
+			VAR Label = [Selected Household Label]
+			VAR Adults = IF ( Label IN { "Married (w/o Children)", "Married (1 Child)", "Married (2 Children)", "Senior Couple" }, 2, 1 )
+			VAR Kids =
+			    SWITCH (
+			        Label,
+			        "Married (1 Child)", 1,
+			        "Married (2 Children)", 2,
+			        "Single Parent (1 Child)", 1,
+			        "Single Parent (2 Children)", 2,
+			        0
+			    )
+			VAR IsSenior = Label IN { "Senior Single", "Senior Couple" }
+			VAR Total = Adults + Kids
+			VAR Spacing = IF ( Total <= 2, 24, 21 )
+			VAR StartX = 60 - ( Total - 1 ) * Spacing / 2
+			VAR Glyphs =
+			    CONCATENATEX (
+			        GENERATESERIES ( 1, Total, 1 ),
+			        VAR X = StartX + ( [Value] - 1 ) * Spacing
+			        RETURN
+			            IF (
+			                [Value] <= Adults,
+			                "<circle cx='" & X & "' cy='12' r='5' fill='%230F4C5C'/><rect x='" & ( X - 6.5 ) & "' y='19' width='13' height='23' rx='4' fill='%230F4C5C'/>"
+			                    & IF ( IsSenior, "<rect x='" & ( X + 8 ) & "' y='20' width='2' height='22' rx='1' fill='%231F2933'/>" ),
+			                "<circle cx='" & X & "' cy='22' r='3.5' fill='%23E3A857'/><rect x='" & ( X - 5 ) & "' y='27' width='10' height='15' rx='3' fill='%23E3A857'/>"
+			            ),
+			        "",
+			        [Value], ASC
+			    )
+			RETURN
+			    "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 48'>" & Glyphs & "</svg>"
+		displayFolder: Pictures
+		dataCategory: ImageUrl
+		lineageTag: 69a0c34e-97b7-5bc9-8ed8-5bb3f857724b
+
+	measure 'Bar Colour Burden' =
+			VAR Position = RANKX ( ALLSELECTED ( dim_state[state] ), [Burden %], , DESC )
+			RETURN
+			    IF ( Position <= 4, "#C8553D", "#0F4C5C" )
+		displayFolder: Formatting
+		lineageTag: 710b3e67-b840-5186-8c7e-0a4752b80e3d
+
 	measure 'KPI Price Share Label' = "Of the gap between states, from prices"
 		displayFolder: Labels
 		lineageTag: 9c688320-4d16-58c5-ae5c-3530ae749dd5

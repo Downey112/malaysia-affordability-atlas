@@ -1,39 +1,39 @@
 {
   "name": "AffordabilityAtlas",
   "dataColors": [
-    "#1D4ED8",
-    "#94A3B8",
-    "#CBD5E1",
-    "#0284C7",
-    "#64748B",
-    "#334155"
+    "#0F4C5C",
+    "#7FA9AF",
+    "#E3A857",
+    "#C8553D",
+    "#5F6B76",
+    "#1F2933"
   ],
   "background": "#FFFFFF",
-  "foreground": "#0F172A",
-  "tableAccent": "#1D4ED8",
+  "foreground": "#1F2933",
+  "tableAccent": "#0F4C5C",
   "good": "#16A34A",
-  "neutral": "#64748B",
+  "neutral": "#5F6B76",
   "bad": "#DC2626",
   "textClasses": {
     "callout": {
       "fontSize": 26,
       "fontFace": "Segoe UI Semibold",
-      "color": "#0F172A"
+      "color": "#1F2933"
     },
     "title": {
       "fontSize": 12,
       "fontFace": "Segoe UI Semibold",
-      "color": "#0F172A"
+      "color": "#1F2933"
     },
     "header": {
       "fontSize": 10,
       "fontFace": "Segoe UI Semibold",
-      "color": "#0F172A"
+      "color": "#1F2933"
     },
     "label": {
       "fontSize": 9,
       "fontFace": "Segoe UI",
-      "color": "#64748B"
+      "color": "#5F6B76"
     }
   },
   "visualStyles": {
@@ -43,7 +43,7 @@
           {
             "color": {
               "solid": {
-                "color": "#F4F6F9"
+                "color": "#FBF6EE"
               }
             },
             "transparency": 0
@@ -53,7 +53,7 @@
           {
             "color": {
               "solid": {
-                "color": "#F4F6F9"
+                "color": "#FBF6EE"
               }
             },
             "transparency": 0
@@ -98,7 +98,7 @@
             "show": true,
             "fontColor": {
               "solid": {
-                "color": "#0F172A"
+                "color": "#1F2933"
               }
             },
             "fontSize": 11,
@@ -110,7 +110,7 @@
           {
             "fontColor": {
               "solid": {
-                "color": "#64748B"
+                "color": "#5F6B76"
               }
             },
             "fontSize": 8.5
@@ -124,7 +124,7 @@
           {
             "color": {
               "solid": {
-                "color": "#0F172A"
+                "color": "#1F2933"
               }
             },
             "fontSize": 24,
@@ -144,7 +144,7 @@
           {
             "labelColor": {
               "solid": {
-                "color": "#64748B"
+                "color": "#5F6B76"
               }
             },
             "fontSize": 9,
@@ -156,7 +156,7 @@
           {
             "labelColor": {
               "solid": {
-                "color": "#64748B"
+                "color": "#5F6B76"
               }
             },
             "fontSize": 9,
@@ -170,7 +170,7 @@
             "show": true,
             "color": {
               "solid": {
-                "color": "#0F172A"
+                "color": "#1F2933"
               }
             },
             "fontSize": 8.5
@@ -185,7 +185,7 @@
             "gridHorizontal": true,
             "gridHorizontalColor": {
               "solid": {
-                "color": "#E2E8F0"
+                "color": "#EADFCF"
               }
             },
             "gridVertical": false,
@@ -196,7 +196,7 @@
           {
             "fontColor": {
               "solid": {
-                "color": "#64748B"
+                "color": "#5F6B76"
               }
             },
             "fontSize": 9,
@@ -212,7 +212,7 @@
             "fontSize": 9,
             "fontColorPrimary": {
               "solid": {
-                "color": "#0F172A"
+                "color": "#1F2933"
               }
             },
             "backColorPrimary": {
@@ -235,7 +235,7 @@
           {
             "fontColor": {
               "solid": {
-                "color": "#64748B"
+                "color": "#5F6B76"
               }
             },
             "fontSize": 9
@@ -245,7 +245,7 @@
           {
             "fontColor": {
               "solid": {
-                "color": "#0F172A"
+                "color": "#1F2933"
               }
             },
             "fontSize": 9.5
