@@ -91,8 +91,8 @@ def run_shop_bootstrap():
 
     for table in ["fact_basket_state", "mart_burden"]:
         out_file = PROCESSED_DIR / f"{table}.parquet"
-        con.execute(f"copy (select * from {table}) to '{out_file.as_posix()}' (format parquet)")
-        con.execute(f"copy {table} to '{out_file.with_suffix('.csv').as_posix()}' (header, delimiter ',')")
+        con.execute(f"copy (select * from {table} order by all) to '{out_file.as_posix()}' (format parquet)")
+        con.execute(f"copy (select * from {table} order by all) to '{out_file.with_suffix('.csv').as_posix()}' (header, delimiter ',')")
 
     con.close()
     print(f"[OK] Bootstrap completed in {time.perf_counter() - started:4.1f}s ({N_REPLICATES} replicates per state)")
